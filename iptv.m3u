@@ -20,13 +20,11 @@ http://bak01-edge01.itdc.ge/dalga/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9
 #EXTINF:-1,Real TV
 http://bak01-edge03.itdc.ge/realtv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Dunya TV
-http://85.132.71.6:8080/dunya/index.m3u8
+http://185.129.1.242:80/dunyatv/mpegts 
 #EXTINF:0,Naxçıvan TV
 http://bak01-edge01.itdc.ge/naxcivantv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,GUNAZ TV
 http://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/feed03/chunklist_w1638729810.m3u8
-#EXTINF:-1,CAN AZERBAYCAN
-http://cdn1.streamencoding.com:1935/medyathink_live/canazerbaycan_tv/chunklist_w366095853.m3u8
 #EXTINF:-1,ATV TURK
 http://bak01-edge03.itdc.ge/atvturk/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,ATV HD
@@ -46,9 +44,9 @@ https://2122248083.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_2_614/playlist.m3u8?k
 #EXTINF:-1,Kanal D
 http://bak01-edge03.itdc.ge/kanald/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,TV8 
+http://185.129.1.242:80/tv8/mpegts 
+#EXTINF:-1,TV8 
 http://185.32.44.154/tv8/index.m3u8 
-#EXTINF:-1,TV 8
-http://ch.canlitvlive.io/tv8/live.m3u8?tkn=7qsxy-EpKxM2wyqdE5HQ-A&tms=1541518236
 #EXTINF:-1,TV 8 HD
 http://bak01-edge03.itdc.ge/tv8hd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,TV 8,5
@@ -80,6 +78,8 @@ http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1,MTV Azerbaycan
 http://bak01-edge03.itdc.ge/mtvaz/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,TMBTV
+http://185.129.1.242:80/tmb/mpegts 
+#EXTINF:-1,TMBTV
 http://bak01-edge01.itdc.ge/tmbtv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Vostok
 http://bak01-edge03.itdc.ge/vostoktv/tracks-v1a1/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
@@ -93,6 +93,8 @@ http://bak01-edge03.itdc.ge/karaoke/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcW
 http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
 #EXTINF:-1,NR1
 http://bak01-edge01.itdc.ge/kralpop/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,Kral Pop
+http://185.129.1.242:80/kralpop/mpegts 
 #EXTINF:-1,Kral Pop
 http://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 #EXTINF:-1,Kral Arabesk TV
@@ -131,20 +133,26 @@ http://bak01-edge01.itdc.ge/musicp/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO
 http://185.32.44.154/muzika1/index.m3u8
 #EXTINF:-1,ТНТ_Music
 http://bak01-edge01.itdc.ge/thtmusic/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
-#EXTINF:-1,ТНТ_Music
-http://hls.ekofon.lt:80/TNT_MUSIC/mono.m3u8?token=zymka
 #EXTINF:-1,Music box ru
 http://185.32.44.154/musicboxru/index.m3u8
+#EXTINF:-1  tvg-id="ru-tv",RU.TV
+http://185.129.1.242:80/rutv/mpegts 
 #EXTINF:-1  tvg-id="ru-tv",RU.TV
 http://185.32.44.154/rutv/index.m3u8
 #EXTINF:-1  tvg-id="ru-tv",RU.TV
 https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rmg
 #EXTINF:-1  tvg-id="ru-tv",RU.TV
 http://bak01-edge01.itdc.ge/rutv/tracks-v1a1/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,bridge tv rus
+http://185.129.1.242:80/bridgetvrus/mpegts 
+#EXTINF:-1,Song tv ru
+https://songtvru.ru/lhigh/playlist.m3u8
+#EXTINF:-1,Muz.Play TV
+http://hls.goodgame.ru/hls/154446.m3u8
 #EXTINF:-1,La-minor
-http://hls.ekofon.lt:80/La-minor/mono.m3u8?token=zymka
+http://185.129.1.242:80/lyaminor/mpegts 
 #EXTINF:-1  tvg-id="shanson-tv",Шансон-TB
-http://hls.ekofon.lt:80/SHANSON_TV/mono.m3u8?token=zymka
+http://185.129.1.242:80/shanson/mpegts 
  #EXTINF:-1,ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 #EXTINF:-1  tvg-id="mtv-russia",MTV Russia
@@ -153,10 +161,18 @@ http://185.32.44.154/mtvrussia/index.m3u8
 http://212.26.146.148/hls/otv.m3u8
 #EXTINF:-1  tvg-id="m2-ua",М2 Украина
 http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,MTV Hit
+http://185.129.1.242:80/mtvhit/mpegts 
+#EXTINF:-1,MTV Dance
+http://185.129.1.242:80/mtvdance/mpegts 
 #EXTINF:-1,MTV Dance
 http://bak01-edge01.itdc.ge/mtvdance/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,MTV Dance
 http://185.32.44.154/mtvdance/index.m3u8
+#EXTINF:-1,MTV Russia
+http://185.129.1.242:80/mtvrussia/mpegts 
+#EXTINF:-1,MCM Top
+http://185.129.1.242:80/mcmtop/mpegts
 #EXTINF:-1,MCM Top
 http://bak01-edge03.itdc.ge/mcmtop/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,MCM Top
@@ -166,19 +182,27 @@ http://bak01-edge03.itdc.ge/vh1classic/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90
 #EXTINF:-1  tvg-id="vh1-classic",VH1 Classic
 http://185.32.44.154/vh1classic/index.m3u8
 #EXTINF:-1,Europa Plus TV
+http://185.129.1.242:80/europaplus/mpegts 
+#EXTINF:-1,Europa Plus TV
 http://bak01-edge03.itdc.ge/europeplus/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Europa Plus TV
 http://185.32.44.154/europaplus/index.m3u8
+#EXTINF:-1,Klipkar TV (NL)
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/400/prog_index.m3u8
 #EXTINF:-1,kiss-tv
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss/playlist.m3u8
 #EXTINF:-1,Kiss TV (ROM)
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Муз ТВ
+http://185.129.1.242:80/muztv/mpegts 
 #EXTINF:-1,Муз ТВ
 http://185.32.44.154/muztv/index.m3u8
 #EXTINF:-1  tvg-id="musicbox",Musicbox Gold
 http://live.musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
 #EXTINF:-1,Bridge TV
 http://185.32.44.154/bridgetv/index.m3u8
+#EXTINF:-1,Dange tv
+http://185.129.1.242:80/dangetv/mpegts 
 #EXTINF:-1,Dange tv
 http://185.32.44.154/dangetv/index.m3u8
 #EXTINF:-1  tvg-id="hitv",HITV
@@ -265,6 +289,8 @@ https://songtvam.ru:4443/lhigh/playlist.m3u8
 #EXTINF:-1 group-title="Музика",TVM
 http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
 #EXTINF:-1,Первый канал
+http://185.129.1.242:80/perviy/mpegts 
+#EXTINF:-1,Первый канал
 http://185.32.44.154/perviy/index.m3u8
 #EXTINF:-1,Первый канал
 http://persik.by/stream/492/345860/8.m3u8
@@ -272,12 +298,16 @@ http://persik.by/stream/492/345860/8.m3u8
 http://ott-cdn.ucom.am/s14/index.m3u8
 #EXTINF:-1,Первый канал
 http://178.162.205.76/video/TfMx8drz-UQkXd7lUzoIPw/2/playlist.m3u8
+#EXTINF:-1,Россия 1
+http://185.129.1.242:80/rossiya1/mpegts
 #EXTINF:-1,Россия 1 HD
 http://bak01-edge03.itdc.ge/russiahd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Россия 1
 http://gorod.tv/s/live/2/86.169.51.136/0/0.m3u8
 #EXTINF:-1,Россия 1 (+6)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1,НТВ
+http://185.129.1.242:80/ntvplus/mpegts 
 #EXTINF:-1,НТВ
 http://185.32.44.154/ntvplus/index.m3u8
 #EXTINF:-1,НТВ
@@ -290,8 +320,8 @@ http://stream.euroasia.lfstrm.tv/ntv_mir/1/index.m3u8
 http://ott-cdn.ucom.am/s17/index.m3u8
 #EXTINF:-1,НТВ-Беларусь
 http://persik.by/stream/4451/252681/10303.m3u8
-#EXTINF:-1  tvg-id="ntv-serial",НТВ Сериал
-http://hls.ekofon.lt:80/NTV_SERIAL/mono.m3u8?token=zymka 
+#EXTINF:-1,РЕН ТВ
+http://185.129.1.242:80/rentv/mpegts 
 #EXTINF:-1,РЕН ТВ
 http://bak01-edge03.itdc.ge/rentv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,РЕН ТВ
@@ -303,11 +333,11 @@ http://178.162.205.76/video/TfMx8drz-UQkXd7lUzoIPw/8/playlist.m3u8
 #EXTINF:-1,РЕН ТВ International
 http://sc.id-tv.kz/RenTV_36_37.m3u8
 #EXTINF:-1  tvg-id="tnt",ТНТ
+http://185.129.1.242:80/tnt/mpegts 
+#EXTINF:-1  tvg-id="tnt",ТНТ
 http://185.32.44.154/tnt/index.m3u8
 #EXTINF:-1  tvg-id="tnt",ТНТ HD
 http://bak01-edge03.itdc.ge/ththd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
-#EXTINF:-1  tvg-id="tnt",ТНТ
-http://hls.ekofon.lt:80/TNT/mono.m3u8?token=zymka
 #EXTINF:-1  tvg-id="tnt",ТНТ 
 http://ott-cdn.ucom.am/s19/index.m3u8
 #EXTINF:-1  tvg-id="tnt",ТНТ
@@ -319,6 +349,8 @@ http://persik.by/stream/6431/299492/64.m3u8
 #EXTINF:-1  tvg-id="tnt4",ТНТ4
 http://185.32.44.154/tntcomedy/index.m3u8
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
+http://185.129.1.242:80/tvc/mpegts 
+#EXTINF:-1  tvg-id="tvcentr",ТВ Центр
 http://bak01-edge03.itdc.ge/tvc/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
 http://4715c1ca.suklakakl.ru/iptv/KF23YMP66GUGT5/513/index.m3u8
@@ -329,7 +361,11 @@ http://ott-cdn.ucom.am/s20/index.m3u8
 #EXTINF:-1,1-й Республиканский
 http://dprtv.phoenix-dnr.ru/first-republic-tv
 #EXTINF:-1,Пятый канал
+http://185.129.1.242:80/5kanal/mpegts 
+#EXTINF:-1,Пятый канал
 http://bak01-edge01.itdc.ge/kanal5/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1  tvg-id="zvezda",Звезда
+http://185.129.1.242:80/zvezda/mpegts 
 #EXTINF:-1  tvg-id="zvezda",Звезда
 http://bak01-edge01.itdc.ge/zvezda/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4**
 #EXTINF:-1,Мир
@@ -339,11 +375,15 @@ http://sc.id-tv.kz/Mir_38_39.m3u8
 #EXTINF:-1,Мир HD
 http://bak01-edge03.itdc.ge/mirhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Че
+http://185.129.1.242:80/ce/mpegts 
+#EXTINF:-1,Че
 http://bak01-edge01.itdc.ge/che/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Че
 http://persik.by/stream/1142/351370/56.m3u8
 #EXTINF:-1,Перец (int)
 http://streams.tv.mts.by/peretz_int/1/index.m3u8
+#EXTINF:-1,Пятница
+http://185.129.1.242:80/pyatnicha/mpegts 
 #EXTINF:-1,Пятница
 http://bak01-edge03.itdc.ge/friday/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Пятница
@@ -369,13 +409,21 @@ http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1,Ностальгия
 http://bak01-edge03.itdc.ge/nostalgy/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Ностальгия
-http://185.32.44.154/nostalgiya/index.m3u8
+http://185.129.1.242:80/nostalgiya/mpegts 
+#EXTINF:-1,RJD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8 
+#EXTINF:-1  tvg-id="vremia",Время
+http://185.129.1.242:80/vremya/mpegts 
+#EXTINF:-1  tvg-id="vremia",Время
+http://185.129.1.242:80/vremya/mpegts 
 #EXTINF:-1  tvg-id="vremia",Время
 http://185.32.44.154/vremya/index.m3u8
 #EXTINF:-1  tvg-id="bars",Барс
 http://iptv.barstv.ru/hls/stream1.m3u8
 #EXTINF:-1  tvg-id="volgograd-24",Волгоград 24
 http://hls.volgogradtrv.cdnvideo.ru/volgogradtrv/volgogradtrv.sdp/playlist.m3u8
+#EXTINF:-1,NNTV
+http://live-nntv.cdnvideo.ru/nntv/nntv.sdp/playlist.m3u8
 #EXTINF:-1  tvg-id="tv-centr-kasnoyarsk",ТВ Центр Красноярск
 http://www.tck.tv/hls_hd/hd.m3u8
 #EXTINF:-1  tvg-id="8kanal-krasnoyarsk",8 канал Красноярский край
@@ -384,6 +432,7 @@ http://cdn1.proofix.ru/live-tv8-2/europe/chunklist.m3u8?secure=GtzMoh3c24uoYaNDc
 http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTINF:-1  tvg-id="8kanal-eu",8 канал Европа
 http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
+#EXTINF:-1,afontovo
 http://xstream.afontovo.ru/afontovo_sd.m3u8
 #EXTINF:-1  tvg-id="nts-sevastopol",НТС Севастополь
 http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
@@ -403,8 +452,6 @@ http://now03.eaglecdn.com/stream_transcoded_720/irystontv_irystontvstream1_hi/in
 http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/chunklist.m3u8
 #EXTINF:-1  tvg-id="ukraina",Україна
 http://bak01-edge01.itdc.ge/uatvukr/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
-#EXTINF:-1,2X2
-http://hls.ekofon.lt:80/2X2/mono.m3u8?token=zymka 
 #EXTINF:-1  tvg-id="rti",4 канал Украина
 http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4&app=playlist
 #EXTINF:-1,Киев ТВ
@@ -425,6 +472,10 @@ http://bak01-edge01.itdc.ge/kvartaltv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90f
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
 #EXTINF:-1  tvg-id="yuzhnaya-volna",Южная волна
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:-1,2х2
+http://185.129.1.242:80/2x2/mpegts 
+#EXTINF:-1,2х2
+http://185.32.44.154/2x2/index.m3u8
 #EXTINF:-1  tvg-id="belarus24",Беларус 24
 http://bak01-edge03.itdc.ge/beualurs24/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,7TV
@@ -435,6 +486,12 @@ http://md-store4.tulix.tv/rustavi2/playlist.m3u8
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:-1,Go TV (Австрия)
 http://nstream17.gotv.at:1938/live/gotvlive_240p/playlist.m3u8
+#EXTINF:-1,7TV Murcia (ESP)
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_1_av-p.m3u8
+#EXTINF:-1,Azteca+ (Mexico)
+http://aztecalive-lh.akamaihd.net:80/i/0qfv8evsp_1@458764/index_1_av-p.m3u8
+#EXTINF:-1,Milenio TV (Mexico)
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 #EXTINF:-1,Ашхабад
 https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
 #EXTINF:-1,Turkmen1
@@ -451,17 +508,19 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
 http://sc.id-tv.kz/Tan_36_37.m3u8
 #EXTINF:-1,Meksika
 http://aztecalive-lh.akamaihd.net:80/i/0qfv8evsp_1@458764/index_1_av-p.m3u8
-#EXTINF:-1,2х2
-http://185.32.44.154/2x2/index.m3u8
 #EXTINF:-1,PRO TV
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:-1,TOP SEVIMLI
 http://topchantv.net:3456/live/911TVCDN/CDN911Stream5/1843.m3u8
 #EXTINF:-1 group-title="КИНО"
 #EXTINF:-1,Индийское кино
+http://185.129.1.242:80/indiskoekino/mpegts
+#EXTINF:-1,Индийское кино
 http://bak01-edge03.itdc.ge/indiyskoekino/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Индийская Киноклассика
 http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
+#EXTINF:-1,Bollywood
+http://185.129.1.242:80/bollywoodtv/mpegts
 #EXTINF:-1,Bollywood
 http://bak01-edge03.itdc.ge/bollywod/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Bollywood HD
@@ -473,6 +532,8 @@ http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 #EXTINF:-1,СТРК HD
 http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="sts",СТС
+http://185.129.1.242:80/sts/mpegts
+#EXTINF:-1  tvg-id="sts",СТС
 http://178.162.205.76/video/TfMx8drz-UQkXd7lUzoIPw/9/playlist.m3u8
 #EXTINF:-1  tvg-id="sts",СТС
 http://bak01-edge01.itdc.ge/ctctv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
@@ -481,7 +542,11 @@ http://185.32.44.154/ctc/index.m3u8
 #EXTINF:-1  tvg-id="sts-int",СТС International
 http://sc.id-tv.kz/STS_36_37.m3u8
 #EXTINF:-1  tvg-id="sts-love",СТС love
+http://185.129.1.242:80/stslove/mpegts 
+#EXTINF:-1  tvg-id="sts-love",СТС love
 http://46.32.68.167/s/live/807/86.169.51.136/2/0.m3u8
+#EXTINF:-1,Домашний
+http://185.129.1.242:80/domashniy/mpegts 
 #EXTINF:-1,Домашний
 http://bak01-edge03.itdc.ge/domashni/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Домашний
@@ -497,27 +562,33 @@ http://185.32.44.154/tv3/index.m3u8
 #EXTINF:-1  tvg-id="tv3-ru",ТВ3
 http://persik.by/stream/6431/299492/106.m3u8
 #EXTINF:-1,Наше новое кино
+http://185.129.1.242:80/nashenovoekino/mpegts 
+#EXTINF:-1,Наше новое кино
 http://bak01-edge01.itdc.ge/nashanovoekino/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Наше новое кино
 http://185.32.44.154/nashenovoekino/index.m3u8
 #EXTINF:-1,Наше новое кино
 http://persik.by/stream/6431/299492/10334.m3u8
 #EXTINF:-1  tvg-id="russky-illuzion",Русский иллюзион
-http://stream.euroasia.lfstrm.tv/russkiy_illusion/1/index.m3u8
+http://185.129.1.242:80/russkiyiluzion/mpegts 
+#EXTINF:-1  tvg-id="russky-bestseller",Русский бестселлер
+http://185.129.1.242:80/russkiybetseller/mpegts 
 #EXTINF:-1  tvg-id="russky-bestseller",Русский бестселлер
 http://stream.euroasia.lfstrm.tv/russkiy_bestseller/1/index.m3u8
-#EXTINF:-1  tvg-id="russky-bestseller",Русский бестселлер
-http://hls.ekofon.lt:80/RUSSKIJ_BESTSELLER/mono.m3u8?token=zymka
-#EXTINF:-1  tvg-id="russky-roman",Русский роман
-http://hls.ekofon.lt:80/RUSSKIJ_ROMAN/mono.m3u8?token=zymka
 #EXTINF:-1,Наш кинороман
 http://bak01-edge01.itdc.ge/kinoromanhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="russky-ekstrim",Русский экстрим
 http://bak01-edge01.itdc.ge/rusextreme/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4* 
+#EXTINF:-1,Хорошое Кино
+http://185.129.1.242:80/xoroshoekino/mpegts 
+#EXTINF:-1,Дом кино
+http://185.129.1.242:80/domkino/mpegts
 #EXTINF:-1,Дом кино
 http://185.32.44.154/domkino/index.m3u8
 #EXTINF:-1,Дом кино
 http://bak01-edge03.itdc.ge/domkino/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,Дом кино Премиум
+http://185.129.1.242:80/domkinopremiumhd/mpegts 
 #EXTINF:-1,Дом кино Премиум
 http://bak01-edge01.itdc.ge/domkinopremiera/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Film Box (RU)
@@ -525,55 +596,75 @@ http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/1071/inde
 #EXTINF:-1,НТВ Сериал
 http://88.216.48.14:80/ntvserial/live.m3u8
 #EXTINF:-1,Мир сериала
+http://185.129.1.242:80/mirseriala/mpegts
+#EXTINF:-1,Мир сериала
 http://185.32.44.154/mirseriala/index.m3u8
 #EXTINF:-1,43 HD
 http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="bolt",Bolt
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0089)/index.m3u8
 #EXTINF:-1,Cinema
-http://bak01-edge03.itdc.ge/amedia/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
-#EXTINF:-1,Cinema
 http://stream.euroasia.lfstrm.tv/park_razvlecheniy/1/index.m3u8
+#EXTINF:-1,Amedia 1
+http://185.129.1.242:80/amedia1/mpegts 
 #EXTINF:-1,Amedia 1
 http://stream.euroasia.lfstrm.tv/amedia_1/1/index.m3u8
 #EXTINF:-1,Amedia 1
 http://ott-cdn.ucom.am/s45/index.m3u8
 #EXTINF:-1,Amedia 2
+http://185.129.1.242:80/amedia2/mpegts 
+#EXTINF:-1,Amedia 2
 http://185.32.44.154/amedia2/index.m3u8
 #EXTINF:-1,A HOME OF HBO 2
 http://persik.by/stream/492/345860/643.m3u8
 #EXTINF:-1,A HOME OF HBO 2
+http://185.129.1.242:80/amedipremium/mpegts 
+#EXTINF:-1,A HOME OF HBO 2
 http://185.32.44.154/AmediaPremium/index.m3u8
+#EXTINF:-1,A HOME OF HBO 1
+http://185.129.1.242:80/amediahit/mpegts 
 #EXTINF:-1,A HOME OF HBO 1
 http://185.32.44.154/amediahit/index.m3u8
 #EXTINF:-1,A HOME OF HBO 1
 http://persik.by/stream/492/345860/895.m3u8
 #EXTINF:-1  tvg-id="tv1000",TV1000
-http://bak01-edge03.itdc.ge/tv1000east/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+http://185.129.1.242:80/tv1000/mpegts 
 #EXTINF:-1  tvg-id="tv1000",TV1000
-http://hls.ekofon.lt:80/TV1000/mono.m3u8?token=zymka
+http://bak01-edge03.itdc.ge/tv1000east/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="tv1000",TV1000
 http://185.32.44.154/tv1000/index.m3u8
 #EXTINF:-1  tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
-http://bak01-edge01.itdc.ge/tv1000rukino/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+http://185.129.1.242:80/tv1000ruskoekino/mpegts 
 #EXTINF:-1  tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
-http://hls.ekofon.lt:80/TV1000_Russkoje_kino/mono.m3u8?token=zymka
+http://bak01-edge01.itdc.ge/tv1000rukino/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
 http://185.32.44.154/tv1000ruskoekino/index.m3u8
 #EXTINF:-1  tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
 http://91.90.253.66:8080/CH711_std/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-action",TV1000 Action
+http://185.129.1.242:80/tv1000action/mpegts 
 #EXTINF:-1  tvg-id="tv1000-action",TV1000 Action
 http://185.32.44.154/tv1000action/index.m3u8
 #EXTINF:-1  tvg-id="tv1000-action",TV1000 Action
 http://bak01-edge03.itdc.ge/tv1000act/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="tv1000-action",TV1000 Action
 http://ott-cdn.ucom.am/s91/index.m3u8
+#EXTINF:-1,Комедия
+http://185.129.1.242:80/telekanalkomedia/mpegts 
+#EXTINF:-1,Кинокомедия
+http://185.129.1.242:80/kinokomedia/mpegts 
 #EXTINF:-1,Кинокомедия
 http://bak01-edge01.itdc.ge/comediatv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Кинокомедия
 http://185.32.44.154/kinokomedia/index.m3u8
+#EXTINF:-1,Комедия
+http://185.129.1.242:80/telekanalkomedia/mpegts 
 #EXTINF:-1,Кинопремьера
-http://bak01-edge01.itdc.ge/kinopremera/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*  
+http://185.129.1.242:80/kinopremerahd/mpegts 
+#EXTINF:-1,Кинопремьера
+http://bak01-edge01.itdc.ge/kinopremera/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,Киносвидание
+http://185.129.1.242:80/kinosvidanie/mpegts   
 #EXTINF:-1,Киносвидание
 http://185.32.44.154/kinosvidanie/index.m3u8
 #EXTINF:-1,Киносвидание
@@ -581,17 +672,25 @@ http://1ttvauth.top/s/35/1/auto/4k_uhd_club/playlist.m3u8
 #EXTINF:-1,Киносвидание
 http://bak01-edge01.itdc.ge/kinosvidanie/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Киносемья
+http://185.129.1.242:80/kinosemya/mpegts 
+#EXTINF:-1,Киносемья
 http://bak01-edge01.itdc.ge/kinosemya/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Киносемья
 http://185.32.44.154/kinosemya/index.m3u8
+#EXTINF:-1,Киномикс
+http://185.129.1.242:80/kinomiks/mpegts 
 #EXTINF:-1,Киномикс
 http://bak01-edge03.itdc.ge/kinomiks/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Киномикс
 http://185.32.44.154/kinomiks/index.m3u8
 #EXTINF:-1,КиноПремиум HD
 http://bak01-edge03.itdc.ge/kinopremiumhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,КиноСерия
+http://185.129.1.242:80/kinoseria/mpegts 
 #EXTINF:-1,Filmzone
 http://ott-cdn.ucom.am/s48/index.m3u8 
+#EXTINF:-1,Кинохит
+http://185.129.1.242:80/kinoxit/mpegts 
 #EXTINF:-1,Кинохит
 http://bak01-edge01.itdc.ge/kinohit/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Иллюзион +
@@ -600,13 +699,15 @@ http://185.32.44.154/illuzion/index.m3u8
 http://185.32.44.154/egoisttv/index.m3u8
 #EXTINF:-1,Мужское кино
 
-http://46.32.68.167/s/live/255/86.169.51.136/2/0.m3u8
+http://185.129.1.242:80/mujskoekino/mpegts 
+#EXTINF:-1,Кино ТВ
+http://185.129.1.242:80/kinotv/mpegts 
 #EXTINF:-1,Кино ТВ
 http://185.32.44.154/kinotv/index.m3u8
 #EXTINF:-1,Кино ТВ
 http://bak01-edge01.itdc.ge/kinotv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Еврокино
-http://hls.ekofon.lt:80/EUROKINO/mono.m3u8?token=zymka
+http://185.129.1.242:80/eurokino/mpegts 
 #EXTINF:-1,Еврокино
 http://bak01-edge03.itdc.ge/eurokino/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Еврокино
@@ -629,18 +730,24 @@ http://bak01-edge01.itdc.ge/foxlifehd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90f
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0004)/index.m3u8
 #EXTINF:-1,Остросюжетное HD
 http://bak01-edge01.itdc.ge/ostorojnoehd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,FILMY  UJASOV
+http://autopilot.myowntv.org/content/35026/index.m3u8
+#EXTINF:-1,НСТ
+http://185.129.1.242:80/nst/mpegts 
 #EXTINF:-1,НСТ
 http://bak01-edge01.itdc.ge/nst/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,НСТ
 http://185.32.44.154/nst/index.m3u8
 #EXTINF:-1  tvg-id="sony-scifi",Sony Sci-Fi
-http://gorod.tv/s/live/258/86.169.51.136/0/0.m3u8
+http://185.129.1.242:80/sonyscifi/mpegts
 #EXTINF:-1  tvg-id="sony-tv",Sony ТВ
 http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/559/index.m3u8
 #EXTINF:-1  tvg-id="sony-turbo",Sony Turbo
 http://185.32.44.154/sonyturbo/index.m3u8
 #EXTINF:-1,Paramount Channel
 http://185.32.44.154/paramountchannel/index.m3u8
+#EXTINF:-1,Paramount Comedy
+http://185.129.1.242:80/paramauntcomedy/mpegts 
 #EXTINF:-1,Кинопоказ
 http://185.32.44.154/kinomiks/index.m3u8
 #EXTINF:-1,Шокирующее
@@ -659,8 +766,16 @@ http://bak01-edge01.itdc.ge/tv1000comedy/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR
 https://live-hls-viasat.cdnvideo.ru/viasat/VIP_Megahit_HD.smil/537abb00a2eed3a846054204ca641e65--viasat--VIP_Megahit_HD_480--chunklist.m3u8
 #EXTINF:-1  tvg-id="vip-premiere",VIP Premiere
 https://live-hls-viasat.cdnvideo.ru/viasat/VIP_Premiere.smil/6640f0188641fa1fccaa65a50ab7737f--viasat--VIP_Premiere_480--chunklist.m3u8
+#EXTINF:-1,AMC
+http://185.129.1.242:80/amcrussia/mpegts 
 #EXTINF:-1,Spike
 http://vs310.vcdn.biz/e4f248be21734d3ce8e4b7af56b1480b_megogo/live/hls/u_sid/0/o/58197841/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1135063137-b2490000.m3u8
+#EXTINF:-1,egoisttv
+http://185.129.1.242:80/egoisttv/mpegts
+#EXTINF:-1,Osn action
+http://185.129.1.242:80/osnaction/mpegts 
+#EXTINF:-1,Osn movies
+http://185.129.1.242:80/osnmovies/mpegts  
 #EXTINF:-1  tvg-id="star-cinema-ua",Star Cinema Украина
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0119)/index.m3u8
 #EXTINF:-1,TOP BUDO
@@ -679,6 +794,10 @@ http://185.32.44.146/play/a07b
 http://bak01-edge01.itdc.ge/disney/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Nickelodeon
 http://bak01-edge03.itdc.ge/nickelodeon/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4* 
+#EXTINF:-1,Cartoon Network Turk
+http://185.129.1.242:80/cartoonnetworkturk/mpegts
+#EXTINF:-1,Cartoon Network Rus
+http://185.129.1.242:80/cartoonnetworkrus/mpegts 
 #EXTINF:-1,Cartoon Network
 http://bak01-edge03.itdc.ge/cartoon/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,CARTOON NETWORK
@@ -693,41 +812,41 @@ http://bak01-edge03.itdc.ge/detkimir/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fc
 http://bak01-edge01.itdc.ge/karusel/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Мультимания
 http://bak01-edge01.itdc.ge/multimania/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
-#EXTINF:-1,TIJI
-http://hls.ekofon.lt:80/TIJI/mono.m3u8?token=zymka
-#EXTINF:-1,O CHANNEL
-http://hls.ekofon.lt:80/O_CHANNEL/mono.m3u8?token=zymka
 #EXTINF:-1,TOP 80
 http://topchantv.net:3456/live/911TVCDN/CDN911Stream5/1844.m3u8
 http://bak01-edge01.itdc.ge/matchtv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4** 
 #EXTINF:-1,Матч! Игра
 http://bak01-edge03.itdc.ge/matchtvhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,Матч! Арена HD
+http://185.129.1.242:80/matcharenahd/mpegts 
 #EXTINF:-1,Матч! Арена
 http://185.32.44.154/matcharena/index.m3u8
 #EXTINF:-1,Матч! Планета
 http://bak01-edge03.itdc.ge/matchplaneta/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4
 #EXTINF:-1,Матч! Планета
 http://stream.euroasia.lfstrm.tv/boets/1/index.m3u8
+#EXTINF:-1,Матч! Планета
+http://bak01-edge01.itdc.ge/matchfootball1hd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,Матч Премьер
+http://185.129.1.242:80/nashfutbol/mpegts 
 #EXTINF:-1,Матч Премьер
 http://185.32.44.154/nashfutbol/index.m3u8*
 #EXTINF:-1,Матч! Наш спорт
 http://185.32.44.154/nashsport/index.m3u8
 #EXTINF:-1,Матч! Наш спорт
-http://hls.ekofon.lt:80/MATCH_NASH_SPORT/mono.m3u8?token=zymka
-#EXTINF:-1,Матч! Наш спорт
 http://bak01-edge01.itdc.ge/matchnashasport/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
-#EXTINF:-1,Футбол
-http://185.32.44.154/futbol/index.m3u8
+#EXTINF:-1,Наш Футбол
+http://185.129.1.242:80/nashfutbol/mpegts 
+#EXTINF:-1,Футбол 
+http://185.129.1.242:80/futbol/mpegts 
 #EXTINF:-1,Матч! Футбол 1
-http://hls.ekofon.lt:80/MATCH_FOOTBALL_1_HD/mono.m3u8?token=zymka
-#EXTINF:-1,Матч! Футбол 1
-http://185.32.44.154/futbol1/index.m3u8
+http://185.129.1.242:80/matchfutbol1/mpegts 
 #EXTINF:-1,Матч! Футбол 1
 http://persik.by/stream/4451/252681/10266.m3u8
 #EXTINF:-1,Матч! Футбол 1
 http://bak01-edge03.itdc.ge/matchfootball1/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
-#EXTINF:-1,Матч! Футбол 1 HD
-http://bak01-edge01.itdc.ge/matchfootball1hd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,Матч! Футбол 2
+http://185.129.1.242:80/matchfutbol2/mpegts
 #EXTINF:-1,Матч! Футбол 2
 http://bak01-edge01.itdc.ge/matchfootball2/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Матч! Футбол 2
@@ -735,7 +854,7 @@ http://185.32.44.154/futbol2/index.m3u8
 #EXTINF:-1,Матч! Футбол 2
 http://persik.by/stream/4451/252681/10267.m3u8
 #EXTINF:-1,Матч! Футбол 3
-http://hls.ekofon.lt:80/MATCH_FOOTBALL_3/mono.m3u8?token=zymka
+http://185.129.1.242:80/matchfutbol3/mpegts 
 #EXTINF:-1,Матч! Футбол 3
 http://185.32.44.154/futbol3/index.m3u8
 #EXTINF:-1,Матч! Футбол 3
@@ -745,23 +864,17 @@ http://persik.by/stream/4451/252681/10218.m3u8
 #EXTINF:-1,Extreme sports
 http://bak01-edge01.itdc.ge/extremesports/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4* 
 #EXTINF:-1,Матч! Боец
+http://185.129.1.242:80/matchboets/mpegts 
+#EXTINF:-1,Матч! Боец
 http://persik.by/stream/2944/263250/310.m3u8
 #EXTINF:-1,Матч! Боец
 http://bak01-edge01.itdc.ge/matchboets/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
-#EXTINF:-1,BOKS TV
-http://hls.ekofon.lt:80/BOKS_TV/mono.m3u8?token=zymka
 #EXTINF:-1,Бокс ТВ
-http://185.32.44.154/bokstv/index.m3u8
-#EXTINF:-1,Бокс ТВ
-http://stream.euroasia.lfstrm.tv/boks_tv/1/index.m3u8
+http://185.129.1.242:80/bokstv/mpegts 
 #EXTINF:-1  tvg-id="fightbox-hd",FightBox HD
 http://ott-cdn.ucom.am/s86/04.m3u8
 #EXTINF:-1,Eurosport 1 Россия
 http://bak01-edge03.itdc.ge/eurosport1/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
-#EXTINF:-1,EUROSPORT1
-http://hls.ekofon.lt:80/EUROSPORT1/mono.m3u8?token=zymka
-#EXTINF:-1,Eurosport2
-http://hls.ekofon.lt:80/Eurosport_2/mono.m3u8?token=zymka
 #EXTINF:-1  tvg-id="setanta-sports",Setanta Sports
 http://ott-cdn.ucom.am/s82/01.m3u8
 #EXTINF:-1,Sports Tv (Turkey)
@@ -772,12 +885,18 @@ http://bak01-edge01.itdc.ge/ntvsporhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90f
 http://bak01-edge01.itdc.ge/rtrsporhd/tracks-v1a1/mono.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4%2A
 #EXTINF:-1,Bein Sports HD 1
 http://bak01-edge03.itdc.ge/sport1/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,Bein sport 1
+http://185.129.1.242:80/beinsport1/mpegts 
+#EXTINF:-1,Bein sports HD 11
+http://185.129.1.242:80/beinsports2/mpegts
 #EXTINF:-1,Bein Sports HD 2
 http://bak01-edge01.itdc.ge/sport2/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Bein Sports HD 3
 http://bak01-edge03.itdc.ge/sport3/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Sky Sport 2 Germany
 http://bak01-edge01.itdc.ge/skycalsio/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1  tvg-id="tvplay-sports",Viasat Sport
+http://185.129.1.242:80/viasatsport/mpegts 
 #EXTINF:-1  tvg-id="tvplay-sports",Viasat Sport Baltics
 http://185.32.44.154/viasatsport/index.m3u8
 #EXTINF:-1,ARB 24
@@ -785,17 +904,21 @@ http://bak01-edge01.itdc.ge/arb24/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9
 #EXTINF:-1,360 TV Turk
 http://bak01-edge01.itdc.ge/360tv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,NTV (NTV Turkiye)
+http://185.129.1.242:80/ntvturk/mpegts 
+#EXTINF:-1,NTV (NTV Turkiye)
 http://bak01-edge01.itdc.ge/ntvtr/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,TRT Haber
 http://bak01-edge03.itdc.ge/trth/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,A Haber
 http://bak01-edge03.itdc.ge/ahaberhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,Haberturk
+http://185.129.1.242:80/haberturk/mpegts 
 #EXTINF:-1,NTV HD
 http://bak01-edge03.itdc.ge/ntvtrhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,KANAL 24
 http://bak01-edge01.itdc.ge/kanal24/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*8
 #EXTINF:-1,EuroNews
-http://ger1.peers.tv/streaming/euronews/126/tvrecw/playlist.m3u8?token=cf70ec2cc4fb35108b2bc0669b4a7936
+http://185.129.1.242:80/euronews/mpegts 
 #EXTINF:-1,EuroNews
 http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1,EuroNews
@@ -810,8 +933,6 @@ http://bak01-edge03.itdc.ge/rbktv/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9
 http://bak01-edge03.itdc.ge/mir24/index.m3u8?token=RZVKX_GBs7vWBaFa7V8uD4YI4tpyzwXVazSHTWQSdvsIwOAlo-2NDCguEcLRH5eZ47iiKaNMMXrvZJfoQE5R9g**
 #EXTINF:-1,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1,Познавательное
-http://v3.myowntv.org/content/35523/index.m3u8??seg-vkcom/iptv4.ts
 #EXTINF:-1,KTV1
 http://bak01-edge03.itdc.ge/ktv1/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*  
 #EXTINF:-1,Nat Geo Wild
@@ -825,26 +946,32 @@ http://bak01-edge01.itdc.ge/natgeowildhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR
 #EXTINF:-1  tvg-id="animal-planet",Animal Planet
 http://185.129.1.242:80/animalplanet/mpegts
 #EXTINF:-1  tvg-id="animal-planet",Animal Planet
-http://hls.ekofon.lt:80/Animal_Planet/mono.m3u8?token=zymka
-#EXTINF:-1  tvg-id="animal-planet",Animal Planet
 http://bak01-edge03.itdc.ge/animalplanet/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Animal Planet HD
 http://bak01-edge01.itdc.ge/animalplanethd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
-#EXTINF:-1,В мире животных
-http://srv01.ontv.pro/0219/index.m3u8?token=16bb37cf21aa1f76b3c76c16679d#EXTINF:-1  tvg-id="zhivaya-planeta",Живая планета
+#EXTINF:-1  tvg-id="zhivaya-planeta",Живая планета
+http://185.129.1.242:80/jivayaplaneta/mpegts 
+#EXTINF:-1  tvg-id="zhivaya-planeta",Живая планета
 http://bak01-edge03.itdc.ge/liveplanet/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="zoo-tv",Зоо ТВ
 http://ott-cdn.ucom.am/s92/index.m3u8
 #EXTINF:-1  tvg-id="zoopark",ZooПарк
+http://ott-cdn.ucom.am/s92/index.m3u8
+http://185.129.1.242:80/zoopark/mpegts
+#EXTINF:-1  tvg-id="zoopark",ZooПарк
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1  tvg-id="zoopark",ZooПарк
 http://stream.euroasia.lfstrm.tv/zoopark/1/index.m3u8
+#EXTINF:-1,Домашние животные
+http://185.129.1.242:80/domashniejivotnie/mpegts
 #EXTINF:-1,Домашние животные
 http://bak01-edge01.itdc.ge/domzivotnie/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Домашние животные
 http://gorod.tv/s/live/417/86.169.51.136/7/0.m3u8
 #EXTINF:-1  tvg-id="outdoor-channel",Outdoor channel
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0046_nd)/index.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://185.129.1.242:80/oxotoiribalka/mpegts 
 #EXTINF:-1,Охота и рыбалка
 http://bak01-edge01.itdc.ge/ohotoiribalka/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Охота и рыбалка
@@ -854,11 +981,11 @@ http://ott-cdn.ucom.am/s55/01.m3u8
 #EXTINF:-1,Охотник и рыболов HD
 http://ott-cdn.ucom.am/s62/01.m3u8
 #EXTINF:-1  tvg-id="bobior",Бобер
+http://185.129.1.242:80/bobertv/mpegts 
+#EXTINF:-1  tvg-id="bobior",Бобер
 http://bak01-edge01.itdc.ge/bober/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="bobior",Бобер
 http://stream.euroasia.lfstrm.tv/bober/1/index.m3u8
-#EXTINF:-1,Моя планета
-http://hls.ekofon.lt:80/Moya_Planeta/mono.m3u8?token=zymka
 #EXTINF:-1,Моя планета
 http://185.32.44.154/moyaplaneta/index.m3u8
 #EXTINF:-1,Моя планета
@@ -870,6 +997,8 @@ https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_480p.json/index-v1-a
 #EXTINF:-1,Приключения HD
 http://ott-cdn.ucom.am/s99/04.m3u8
 #EXTINF:-1  tvg-id="rtg",RTG
+http://185.129.1.242:80/rtg/mpegts 
+#EXTINF:-1  tvg-id="rtg",RTG
 http://bak01-edge01.itdc.ge/rtghd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,RTG
 http://185.32.44.154/rtg/index.m3u8
@@ -877,6 +1006,8 @@ http://185.32.44.154/rtg/index.m3u8
 http://bak01-edge01.itdc.ge/teletravelhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="teleputeshestvia",Телепутешествия 
 http://ott-cdn.ucom.am/s71/index.m3u8
+#EXTINF:-1  tvg-id="travel-channel",Travel Channel 
+http://185.129.1.242:80/travelchannel/mpegts 
 #EXTINF:-1  tvg-id="travel-channel",Travel Channel HD
 http://bak01-edge03.itdc.ge/travelchannelhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="travel-channel",Travel Channel 
@@ -891,54 +1022,58 @@ http://bak01-edge03.itdc.ge/traveladventurehd/index.m3u8?token=O2BZCGYTMlH8lhCAH
 http://persik.by/stream/4830/396526/832.m3u8
 #EXTINF:-1  tvg-id="travel-adventure",Travel+Adventure
 http://178.124.183.15/hls/TRH5A5QCPD/bw2000000/playlist.m3u8?version=2
-#EXTINF:-1,Фауна
-http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0001_nd)/index.m3u8
-#EXTINF:-1  tvg-id="terra",Терра
-http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0007)/index.m3u8
 #EXTINF:-1,ТВ Тур
 http://live.planeta-online.tv:1935/public/channel_2/playlist.m3u8
 #EXTINF:-1  tvg-id="rtd-ru",RT Д Русский
 https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1  tvg-id="rtd-ru",RT Д Русский
 http://rtmp.api.rt.com/hls/rtdru240.m3u8
+#EXTINF:-1,Id xtra
+http://185.129.1.242:80/idextra/mpegts 
 #EXTINF:-1,CBS Reality
 http://bak01-edge03.itdc.ge/cbsreality/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4* 
 #EXTINF:-1,CBS Reality
 http://185.32.44.154/cbsreality/index.m3u8
 #EXTINF:-1,TLC
+http://185.129.1.242:80/tlc/mpegts 
+#EXTINF:-1,TLC
 http://bak01-edge01.itdc.ge/tlchd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,TLC
 http://185.32.44.154/tlc/index.m3u8
 #EXTINF:-1,National Geographic
-http://bak01-edge01.itdc.ge/natgeo/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+http://185.129.1.242:80/nationalgeographic/mpegts
 #EXTINF:-1,National Geographic
-http://hls.ekofon.lt:80/NATIONAL_GEOGRAPHIC/mono.m3u8?token=zymka
+http://bak01-edge01.itdc.ge/natgeo/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,National Geographic
 http://185.32.44.154/nationalgeographic/index.m3u8
 #EXTINF:-1,История
+http://185.129.1.242:80/istoriya/mpegts 
+#EXTINF:-1,История
 http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:-1,History
+http://185.129.1.242:80/history/mpegts 
 #EXTINF:-1,History
 http://185.32.44.154/history/index.m3u8
 #EXTINF:-1,History
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0130)/index.m3u8
-#EXTINF:-1,History
-http://hls.ekofon.lt:80/History/mono.m3u8?token=zymka
 #EXTINF:-1,History HD
 http://bak01-edge01.itdc.ge/historyhd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1  tvg-id="viasat-history",Viasat History 
+http://185.129.1.242:80/viasathistory/mpegts 
 #EXTINF:-1  tvg-id="viasat-history",Viasat History 
 http://bak01-edge01.itdc.ge/viasathist/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="viasat-history",Viasat History 
 http://185.32.44.154/viasathistory/index.m3u8
 #EXTINF:-1  tvg-id="viasat-explore",Viasat Explore
+http://185.129.1.242:80/viasatexplorer/mpegts 
+#EXTINF:-1  tvg-id="viasat-explore",Viasat Explore
 http://bak01-edge03.itdc.ge/viasatexp/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="viasat-explore",Viasat Explore 
 http://185.32.44.154/viasatexplorer/index.m3u8
-#EXTINF:-1  tvg-id="viasat-explore",Viasat Explore 
-http://hls.ekofon.lt:80/Viasat_Explore/mono.m3u8?token=zymka
+#EXTINF:-1  tvg-id="viasat-nature",Viasat Nature
+http://185.129.1.242:80/viasatnature/mpegts 
 #EXTINF:-1  tvg-id="viasat-nature",Viasat Nature
 http://stream.euroasia.lfstrm.tv/viasat_nature/1/index.m3u8
-#EXTINF:-1  tvg-id="viasat-nature",Viasat Nature
-http://hls.ekofon.lt:80/VIASAT_NATURE/mono.m3u8?token=zymka
 #EXTINF:-1  tvg-id="viasat-nature",Viasat Nature
 http://ott-cdn.ucom.am/s67/index.m3u8
 #EXTINF:-1,Fine Living
@@ -954,7 +1089,11 @@ http://persik.by/stream/4830/396526/241.m3u8
 #EXTINF:-1  tvg-id="trofey",Трофей
 http://streamer-hls.fregat.net/hls/trofey.m3u8
 #EXTINF:-1,DTX
+http://185.129.1.242:80/dtx/mpegts 
+#EXTINF:-1,DTX
 http://bak01-edge03.itdc.ge/dtx/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,Discovery Channel
+http://185.129.1.242:80/discoverychannelhd/mpegts 
 #EXTINF:-1,Discovery Channel
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0111)/index.m3u8
 #EXTINF:-1,Discovery Channel
@@ -964,15 +1103,17 @@ http://185.32.44.154/discoverychannel/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://bak01-edge03.itdc.ge/discovery/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Discovery Science
+http://185.129.1.242:80/discoveryscience/mpegts 
+#EXTINF:-1,Discovery Science
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0110)/index.m3u8
 #EXTINF:-1,Discovery Science
 http://bak01-edge01.itdc.ge/discoverysci/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Еврика HD 
 http://bak01-edge01.itdc.ge/eurekahd/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Da Vinci Learning
-http://bak01-edge03.itdc.ge/davinci/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+http://185.129.1.242:80/davinchilearning/mpegts 
 #EXTINF:-1,Da Vinci Learning
-http://hls.ekofon.lt:80/DaVinci_Learning/mono.m3u8?token=zymka
+http://bak01-edge03.itdc.ge/davinci/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1,Da Vinci Learning
 http://stream.euroasia.lfstrm.tv/da_vinci/1/index.m3u8
 #EXTINF:-1,Da Vinci Learning
@@ -985,6 +1126,8 @@ http://live.planeta-online.tv:1935/public/channel_2/playlist.m3u8
 http://ott-cdn.ucom.am/s31/index.m3u8
 #EXTINF:-1  tvg-id="telekafe",Телекафе
 http://stream.euroasia.lfstrm.tv/telekafe/index.m3u8
+#EXTINF:-1  tvg-id="texno-24",Техно 24
+http://185.129.1.242:80/24texno/mpegts 
 #EXTINF:-1  tvg-id="texno-24",Техно 24
 http://bak01-edge03.itdc.ge/tdk/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="nauka",Наука
@@ -1003,14 +1146,24 @@ http://bak01-edge03.itdc.ge/365day/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO
 http://bak01-edge03.itdc.ge/topsecret/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
 #EXTINF:-1  tvg-id="sovsek",Совершенно секретно
 http://185.32.44.154/sovershennosekretno/index.m3u8
-#EXTINF:-1,TRT BELGESEL
-http://bak01-edge03.itdc.ge/trtbelgesel/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1  tvg-id="	vkusnoe-tv",Вкусное TV
+http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8 
 #EXTINF:-1,TLC TURK
 http://bak01-edge01.itdc.ge/tlctr/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1,TLC TURK
+http://185.129.1.242:80/tlcturk/mpegts 
+#EXTINF:-1,Dmax
+http://185.129.1.242:80/dmax/mpegts 
+#EXTINF:-1,TRT BELGESEL
+http://185.129.1.242:80/trtbelgesel/mpegts 
+#EXTINF:-1,YABAN TV
+http://185.129.1.242:80/yabantv/mpegts 
 #EXTINF:-1,YABAN TV
 http://bak01-edge01.itdc.ge/yaban/index.m3u8?token=JDdQpTPVuQ9dGrkn7u_QEqAErziWGzI0nedEykv0cJU_bXvOazbV47EiaF1F_kCgu7LfkuY8_-MZFIXK8QAk6w**
 #EXTINF:-1,LIFETIME TURK
 http://bak01-edge03.itdc.ge/worldtranchan/index.m3u8?token=O2BZCGYTMlH8lhCAHXUqOR90fcWO9_4ftyRx1feysx4*
+#EXTINF:-1  tvg-id="	avto-plus",Авто Плюс
+http://185.129.1.242:80/avtoplyus/mpegts 
 #EXTINF:-1,Авто24
 http://185.32.44.154/avto24/index.m3u8
 #EXTINF:-1  tvg-id="1auto",1 авто
