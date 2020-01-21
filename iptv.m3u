@@ -917,8 +917,6 @@ http://185.220.33.11:8000/play/a001/index.m3u8?token=free
 http://185.32.44.154/matcharenahd/index.m3u8 
 #EXTINF:-1,Матч! Арена
 http://185.32.44.154/matcharena/index.m3u8
-#EXTINF:-1,Матч! Планета
-http://stream.euroasia.lfstrm.tv/boets/1/index.m3u8
 #EXTINF:-1,Матч Премьер
 http://185.32.44.154/nashfutbol/index.m3u8 
 #EXTINF:-1,Матч Премьер
