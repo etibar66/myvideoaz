@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1,CBC
 http://149.255.152.199/cbcaz.m3u8?bandwidth=796&e=1576965062&playlistlength=25&shift=0&token=c50a481e7ac369f1bd0728ec3a06ebf1&user=21138
@@ -6,7 +5,6 @@ http://149.255.152.199/cbcaz.m3u8?bandwidth=796&e=1576965062&playlistlength=25&s
 http://185.32.44.154/perviy/index.m3u8
 #EXTINF:-1  tvg-id="pervy",Первый канал
 http://dmitry-tv.ru/his/DVB-T2/CH_1TV.m3u8
-
 #EXTINF:-1  tvg-id="pervy",Первый канал
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-pl2" group-title="Регионы",Первый канал (+2)
@@ -25,7 +23,6 @@ http://s34351.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
 http://185.32.44.154/rossiya1/index.m3u8
 #EXTINF:-1  tvg-id="rossia1",Россия
 http://dmitry-tv.ru/his/DVB-T2/CH_RUSSIA1.m3u8
-
 #EXTINF:-1  tvg-id="rossia1",Россия
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/rossiahd/chunklist.m3u8
 #EXTINF:-1  tvg-id="rossia1",Россия
@@ -73,7 +70,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="rentv" group-title="Регионы" tvg-shift=+8,Рен ТВ (+8)
 http://s20441.cdn.ngenix.net/hls/CH_R01_OTT_DV_MGDN_RENTV_MGD_OTT/variant.m3u8?version=2
 #EXTINF:-1  tvg-id="tnt",ТНТ
-http://185.32.44.154/tnt/index.m3u8 
+http://185.32.44.154/tnt/index.m3u8
+#EXTINF:-1,ТНТ
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2 
 #EXTINF:-1  tvg-id="tnt",ТНТ
 http://dmitry-tv.ru/his/DVB-T2/CH_TNT.m3u8
 
@@ -112,7 +112,6 @@ http://dprtv.phoenix-dnr.ru/first-republic-tv
 http://185.32.44.154/5kanal/index.m3u8 
 #EXTINF:-1  tvg-id="5kanal-ru",Пятый канал
 http://dmitry-tv.ru/his/DVB-T2/CH_5TV.m3u8
-
 #EXTINF:-1  tvg-id="zvezda",Звезда
 http://185.32.44.154/zvezda/index.m3u8 
 #EXTINF:-1,Мир
@@ -157,8 +156,6 @@ http://rusevertv.ru/480/rs_crf28_.m3u8
 http://dmitry-tv.ru/his/itv_blrus/CH_SARAFAN.m3u8
 #EXTINF:-1  tvg-id="sarafan",Сарафан
 http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8?version=2 
-#EXTINF:-1  tvg-id="yumor-tv",Юмор TV
-http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Анекдот ТВ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/bw2000000/variant.m3u8?version=2
@@ -166,14 +163,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/bw2000000/variant.m3u8?vers
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:0,Nat Geo Wild
 http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
-#EXTINF:0,Nat Geo Wild
-http://50.7.136.50:8081/natgeowild/index.m3u8?wmsAuthSign=12217fdda74aaeb23935fded41cd9ca5-1574471552-6i341i712i26
+#EXTINF:0,Nat Geo Wild Asia
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 #EXTINF:0,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:-1  tvg-id="zhivaya-planeta",Живая планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
-XTINF:0,Дикий
-http://50.7.144.155:8081/dikij/index.m3u8?wmsAuthSign=1579395369S1ada348cdb4b377d44dec89f2545b4c5S6h341h712h26
 #EXTINF:0,Zoo tv
 http://185.93.3.83:5010/play/a03k/index.m3u8
 #EXTINF:-1  tvg-id="zoopark",ZooПарк
@@ -334,8 +329,8 @@ http://dmitry-tv.ru/his/itv_blrus/CH_INDIYSKOEKINO.m3u8
 http://e98c5wrb.russtv.net/iptv/242YL5HXHCA4T4/1001/index.m3u8
 #EXTINF:-1,Bollywood
 http://185.32.44.154/bollywoodtv/index.m3u8
-#EXTINF:-1,Bollywood HD
-http://stream.euroasia.lfstrm.tv/bollywood_hd/1/index.m3u8
+#EXTINF:-1,Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,Zee TV
 http://50.7.136.50:8081/zee_tv/index.m3u8?wmsAuthSign=e3dbfa98c83638028bc3a255f79079d9-1574471529-6i341i712i26
 #EXTINF:-1,43Kanal
@@ -348,7 +343,6 @@ http://meta.vcdn.biz/7cb30d763564c992476e35512340ec89_megogo/vod/fs/o/28401691/u
 http://185.32.44.154/sts/index.m3u8
 #EXTINF:-1  tvg-id="sts",СТС
 http://dmitry-tv.ru/his/DVB-T2/CH_STS.m3u8
-
 #EXTINF:-1  tvg-id="sts",СТС
 http://178.162.205.76/video/TfMx8drz-UQkXd7lUzoIPw/9/playlist.m3u8
 #EXTINF:-1  tvg-id="sts",СТС
@@ -379,7 +373,6 @@ https://hls.goodgame.ru/hls/5346_480.m3u8
 http://185.32.44.154/tv3/index.m3u8
 #EXTINF:-1  tvg-id="tv3-ru",ТВ3
 http://dmitry-tv.ru/his/DVB-T2/CH_TV3.m3u8
- 
 #EXTINF:-1  tvg-id="tv3-ru",ТВ3
 http://185.32.44.154/tv3/index.m3u8
 #EXTINF:-1  tvg-id="tv3-ru",ТВ3
@@ -503,10 +496,8 @@ http://185.32.44.154/illuzion/index.m3u8
 #EXTINF:-1  tvg-id="shot-tv",Shot TV
 http://185.32.44.154/egoisttv/index.m3u8
 #EXTINF:-1,Мужское кино
-
 http://185.32.44.154/mujskoekino/index.m3u8 
 #EXTINF:-1,Мужское кино
-
 http://dmitry-tv.ru/his/itv_blrus/CH_MUZHSKOEKINO.m3u8
 #EXTINF:-1,Кино ТВ
 http://185.32.44.154/kinotv/index.m3u8 
@@ -552,8 +543,7 @@ https://live-hls-viasat.cdnvideo.ru/viasat/VIP_Premiere.smil/6640f0188641fa1fcca
 http://185.32.44.154/amcrussia/index.m3u8
 #EXTINF:-1,Spike
 http://50.7.136.50:8081/spike/index.m3u8?wmsAuthSign=d5bf758c9155377db8a4e68149b6faed-1566274407-6i341i712i26
- 
-#EXTINF:-1,Spike
+ #EXTINF:-1,Spike
 http://vs310.vcdn.biz/e4f248be21734d3ce8e4b7af56b1480b_megogo/live/hls/u_sid/0/o/58197841/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1135063137-b2490000.m3u8
 #EXTINF:-1,egoisttv
 http://185.32.44.154/egoisttv/index.m3u8
@@ -624,7 +614,6 @@ http://hls.goodgame.ru/hls/154446.m3u8
 #EXTINF:-1,Муз ТВ
 http://185.32.44.154/muztv/index.m3u8 
 #EXTINF:-1,МУЗ ТВ
-
 http://dmitry-tv.ru/his/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Регионы" tvg-shift=+2,Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
@@ -700,6 +689,8 @@ http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 group-title="Музика",Planeta HD
 http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:-1,A2i Music
+http://162.212.178.131:1935/live/Ai2tvmusique/chunklist.m3u8
 #EXTINF:-1,Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музика",Xite TV HD 4 (NL)
@@ -997,4 +988,3 @@ https://a3569455795-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b600000.m
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1,Царьград ТВ
 https://tsargrad-livehls.cdnvideo.ru/tsargrad-publish/streamtr_360p/chunklist.m3u8
-
