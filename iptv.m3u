@@ -76,7 +76,6 @@ http://185.32.44.154/tnt/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2 
 #EXTINF:-1  tvg-id="tnt",ТНТ
 http://dmitry-tv.ru/his/DVB-T2/CH_TNT.m3u8
-
 #EXTINF:-1 tvg-id="tnt-pl2" group-title="Регионы",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt-pl4" group-title="Регионы",ТНТ (+4)
@@ -95,7 +94,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 http://185.32.44.154/tvc/index.m3u8 
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
 http://dmitry-tv.ru/his/DVB-T2/CH_TVC.m3u8
-
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
@@ -140,8 +138,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="piatnica-pl7" group-title="Регионы",Пятница! (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
-#EXTINF:-1,Перец Int
-http://185.93.3.83:5010/play/a06i/index.m3u8
 #EXTINF:0 tvg-id="super" group-title="Кино" tvg-logo="http://epg.it999.ru/img/2288.png",Cупер 
 http://timeshift.e-yugansk.ru:180/282/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="super-pl2" group-title="Регионы",Супер (+2)
@@ -159,6 +155,8 @@ http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8?version=2
 #EXTINF:-1 group-title="Познавательные",Анекдот ТВ
 #EXTVLCOPT:http-user-agent=SmartLabs
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные",Анекдот ТВ
+http://178.124.183.150/hls/CH_ANEKDOT_HLS/bw1200000/playlist.m3u8
 #EXTINF:0,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:0,Nat Geo Wild
