@@ -153,9 +153,6 @@ http://dmitry-tv.ru/his/itv_blrus/CH_SARAFAN.m3u8
 #EXTINF:-1  tvg-id="sarafan",Сарафан
 http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8?version=2 
 #EXTINF:-1 group-title="Познавательные",Анекдот ТВ
-#EXTVLCOPT:http-user-agent=SmartLabs
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные",Анекдот ТВ
 http://178.124.183.150/hls/CH_ANEKDOT_HLS/bw1200000/playlist.m3u8
 #EXTINF:0,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
