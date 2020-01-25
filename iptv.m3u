@@ -23,7 +23,6 @@ http://s34351.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
 http://185.32.44.154/rossiya1/index.m3u8
 #EXTINF:-1  tvg-id="rossia1",Россия
 http://dmitry-tv.ru/his/DVB-T2/CH_RUSSIA1.m3u8
-
 #EXTINF:-1  tvg-id="rossia1",Россия
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/rossiahd/chunklist.m3u8
 #EXTINF:-1  tvg-id="rossia1",Россия
