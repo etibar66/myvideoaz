@@ -5,7 +5,6 @@ http://149.255.152.199/cbcaz.m3u8?bandwidth=796&e=1576965062&playlistlength=25&s
 http://185.32.44.154/perviy/index.m3u8
 #EXTINF:-1  tvg-id="pervy",Первый канал
 http://dmitry-tv.ru/his/DVB-T2/CH_1TV.m3u8
-
 #EXTINF:-1  tvg-id="pervy",Первый канал
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-pl2" group-title="Регионы",Первый канал (+2)
@@ -79,7 +78,6 @@ http://s20441.cdn.ngenix.net/hls/CH_R01_OTT_DV_MGDN_RENTV_MGD_OTT/variant.m3u8?v
 http://185.32.44.154/tnt/index.m3u8 
 #EXTINF:-1  tvg-id="tnt",ТНТ
 http://dmitry-tv.ru/his/DVB-T2/CH_TNT.m3u8
-
 #EXTINF:-1 tvg-id="tnt-pl2" group-title="Регионы",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt-pl4" group-title="Регионы",ТНТ (+4)
@@ -98,7 +96,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 http://185.32.44.154/tvc/index.m3u8 
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
 http://dmitry-tv.ru/his/DVB-T2/CH_TVC.m3u8
-
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
@@ -115,7 +112,6 @@ http://dprtv.phoenix-dnr.ru/first-republic-tv
 http://185.32.44.154/5kanal/index.m3u8 
 #EXTINF:-1  tvg-id="5kanal-ru",Пятый канал
 http://dmitry-tv.ru/his/DVB-T2/CH_5TV.m3u8
-
 #EXTINF:-1  tvg-id="zvezda",Звезда
 http://185.32.44.154/zvezda/index.m3u8 
 #EXTINF:-1,Мир
@@ -354,7 +350,6 @@ http://meta.vcdn.biz/7cb30d763564c992476e35512340ec89_megogo/vod/fs/o/28401691/u
 http://185.32.44.154/sts/index.m3u8
 #EXTINF:-1  tvg-id="sts",СТС
 http://dmitry-tv.ru/his/DVB-T2/CH_STS.m3u8
-
 #EXTINF:-1  tvg-id="sts",СТС
 http://178.162.205.76/video/TfMx8drz-UQkXd7lUzoIPw/9/playlist.m3u8
 #EXTINF:-1  tvg-id="sts",СТС
@@ -385,7 +380,6 @@ https://hls.goodgame.ru/hls/5346_480.m3u8
 http://185.32.44.154/tv3/index.m3u8
 #EXTINF:-1  tvg-id="tv3-ru",ТВ3
 http://dmitry-tv.ru/his/DVB-T2/CH_TV3.m3u8
- 
 #EXTINF:-1  tvg-id="tv3-ru",ТВ3
 http://185.32.44.154/tv3/index.m3u8
 #EXTINF:-1  tvg-id="tv3-ru",ТВ3
@@ -509,10 +503,8 @@ http://185.32.44.154/illuzion/index.m3u8
 #EXTINF:-1  tvg-id="shot-tv",Shot TV
 http://185.32.44.154/egoisttv/index.m3u8
 #EXTINF:-1,Мужское кино
-
 http://185.32.44.154/mujskoekino/index.m3u8 
 #EXTINF:-1,Мужское кино
-
 http://dmitry-tv.ru/his/itv_blrus/CH_MUZHSKOEKINO.m3u8
 #EXTINF:-1,Кино ТВ
 http://185.32.44.154/kinotv/index.m3u8 
@@ -558,7 +550,6 @@ https://live-hls-viasat.cdnvideo.ru/viasat/VIP_Premiere.smil/6640f0188641fa1fcca
 http://185.32.44.154/amcrussia/index.m3u8
 #EXTINF:-1,Spike
 http://50.7.136.50:8081/spike/index.m3u8?wmsAuthSign=d5bf758c9155377db8a4e68149b6faed-1566274407-6i341i712i26
- 
 #EXTINF:-1,Spike
 http://vs310.vcdn.biz/e4f248be21734d3ce8e4b7af56b1480b_megogo/live/hls/u_sid/0/o/58197841/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1135063137-b2490000.m3u8
 #EXTINF:-1,egoisttv
@@ -630,7 +621,6 @@ http://hls.goodgame.ru/hls/154446.m3u8
 #EXTINF:-1,Муз ТВ
 http://185.32.44.154/muztv/index.m3u8 
 #EXTINF:-1,МУЗ ТВ
-
 http://dmitry-tv.ru/his/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Регионы" tvg-shift=+2,Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
