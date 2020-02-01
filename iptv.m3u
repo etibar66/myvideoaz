@@ -5,6 +5,7 @@ http://149.255.152.199/cbcaz.m3u8?bandwidth=796&e=1576965062&playlistlength=25&s
 http://185.32.44.154/perviy/index.m3u8
 #EXTINF:-1  tvg-id="pervy",Первый канал
 http://dmitry-tv.ru/his/DVB-T2/CH_1TV.m3u8
+
 #EXTINF:-1  tvg-id="pervy",Первый канал
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-pl2" group-title="Регионы",Первый канал (+2)
@@ -23,6 +24,7 @@ http://s34351.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
 http://185.32.44.154/rossiya1/index.m3u8
 #EXTINF:-1  tvg-id="rossia1",Россия
 http://dmitry-tv.ru/his/DVB-T2/CH_RUSSIA1.m3u8
+
 #EXTINF:-1  tvg-id="rossia1",Россия
 http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/rossiahd/chunklist.m3u8
 #EXTINF:-1  tvg-id="rossia1",Россия
@@ -61,11 +63,13 @@ http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_MURM_NTV/variant.m3u8?
 http://213.234.9.46:7088/udp/239.1.8.35:1234
 #EXTINF:-1, НТВ Право
 http://213.234.9.46:7088/udp/239.1.8.33:1234
-#EXTINF:-1  tvg-id="rentv",Рен ТВ
+#EXTINF:-1 tvg-id="rentv",Рен ТВ
 http://185.32.44.154/rentv/index.m3u8
-#EXTINF:-1  tvg-id="rentv",Рен ТВ
+#EXTINF:-1 tvg-id="rentv",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rentv",Рен ТВ
 http://dmitry-tv.ru/his/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1  tvg-id="rentv",Рен ТВ
+#EXTINF:-1 tvg-id="rentv",Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
 #EXTINF:-1 tvg-id="rentv-pl2" group-title="Регионы",РЕН ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
@@ -73,17 +77,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="rentv" group-title="Регионы" tvg-shift=+8,Рен ТВ (+8)
 http://s20441.cdn.ngenix.net/hls/CH_R01_OTT_DV_MGDN_RENTV_MGD_OTT/variant.m3u8?version=2
-#EXTINF:-1  tvg-id="tnt",ТНТ
+#EXTINF:-1 tvg-id="tnt",ТНТ
 http://185.32.44.154/tnt/index.m3u8 
-#EXTINF:-1  tvg-id="tnt",ТНТ
+#EXTINF:-1 tvg-id="tnt",ТНТ
 http://dmitry-tv.ru/his/DVB-T2/CH_TNT.m3u8
+
 #EXTINF:-1 tvg-id="tnt-pl2" group-title="Регионы",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt-pl4" group-title="Регионы",ТНТ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt-pl7" group-title="Регионы",ТНТ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
-#EXTINF:-1  tvg-id="tnt4",ТНТ4
+#EXTINF:-1 tvg-id="tnt4",ТНТ4
 http://185.32.44.154/tntcomedy/index.m3u8
 #EXTINF:-1 tvg-id="tnt4-pl2" group-title="Регионы",ТНТ4 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
@@ -91,10 +96,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt4-pl7" group-title="Регионы",ТНТ4 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
-#EXTINF:-1  tvg-id="tvcentr",ТВ Центр
+#EXTINF:-1 tvg-id="tvcentr",ТВ Центр
 http://185.32.44.154/tvc/index.m3u8 
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
 http://dmitry-tv.ru/his/DVB-T2/CH_TVC.m3u8
+
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1  tvg-id="tvcentr",ТВ Центр
@@ -111,6 +117,7 @@ http://dprtv.phoenix-dnr.ru/first-republic-tv
 http://185.32.44.154/5kanal/index.m3u8 
 #EXTINF:-1  tvg-id="5kanal-ru",Пятый канал
 http://dmitry-tv.ru/his/DVB-T2/CH_5TV.m3u8
+
 #EXTINF:-1  tvg-id="zvezda",Звезда
 http://185.32.44.154/zvezda/index.m3u8 
 #EXTINF:-1,Мир
@@ -192,6 +199,8 @@ http://185.93.3.83:5010/play/a05p/index.m3u8
 http://185.32.44.154/bobertv/index.m3u8
 #EXTINF:0,Трофей HD
 http://str.trofey.net:1935/live/2_max.smil/chunklist_b2000000.m3u8?id=2&session=1
+#EXTINF:0,Трофей HD
+https://5db1ab4f970be.streamlock.net/live/smil:trofey.smil/chunklist_w508365623_b878000_slukr.m3u8
 #EXTINF:0,HDL
 http://50.7.136.50:8081/hdlife/index.m3u8?wmsAuthSign=13a952c21a9a31affd5d0a88f90b25b1-1574386798-6i341i712i26
 #EXTINF:0,HDL
@@ -294,6 +303,8 @@ http://185.32.44.154/davinchilearning/index.m3u8
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:0,brics
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:0,brics
+https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0,Загородная Жизнь
 http://185.32.44.154/zaqorodnayajizn/index.m3u8
 #EXTINF:0,Загородый
@@ -349,6 +360,7 @@ http://meta.vcdn.biz/7cb30d763564c992476e35512340ec89_megogo/vod/fs/o/28401691/u
 http://185.32.44.154/sts/index.m3u8
 #EXTINF:-1  tvg-id="sts",СТС
 http://dmitry-tv.ru/his/DVB-T2/CH_STS.m3u8
+
 #EXTINF:-1  tvg-id="sts",СТС
 http://178.162.205.76/video/TfMx8drz-UQkXd7lUzoIPw/9/playlist.m3u8
 #EXTINF:-1  tvg-id="sts",СТС
@@ -379,6 +391,7 @@ https://hls.goodgame.ru/hls/5346_480.m3u8
 http://185.32.44.154/tv3/index.m3u8
 #EXTINF:-1  tvg-id="tv3-ru",ТВ3
 http://dmitry-tv.ru/his/DVB-T2/CH_TV3.m3u8
+ 
 #EXTINF:-1  tvg-id="tv3-ru",ТВ3
 http://185.32.44.154/tv3/index.m3u8
 #EXTINF:-1  tvg-id="tv3-ru",ТВ3
@@ -502,8 +515,10 @@ http://185.32.44.154/illuzion/index.m3u8
 #EXTINF:-1  tvg-id="shot-tv",Shot TV
 http://185.32.44.154/egoisttv/index.m3u8
 #EXTINF:-1,Мужское кино
+
 http://185.32.44.154/mujskoekino/index.m3u8 
 #EXTINF:-1,Мужское кино
+
 http://dmitry-tv.ru/his/itv_blrus/CH_MUZHSKOEKINO.m3u8
 #EXTINF:-1,Кино ТВ
 http://185.32.44.154/kinotv/index.m3u8 
@@ -549,6 +564,7 @@ https://live-hls-viasat.cdnvideo.ru/viasat/VIP_Premiere.smil/6640f0188641fa1fcca
 http://185.32.44.154/amcrussia/index.m3u8
 #EXTINF:-1,Spike
 http://50.7.136.50:8081/spike/index.m3u8?wmsAuthSign=d5bf758c9155377db8a4e68149b6faed-1566274407-6i341i712i26
+ 
 #EXTINF:-1,Spike
 http://vs310.vcdn.biz/e4f248be21734d3ce8e4b7af56b1480b_megogo/live/hls/u_sid/0/o/58197841/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1135063137-b2490000.m3u8
 #EXTINF:-1,egoisttv
@@ -620,6 +636,7 @@ http://hls.goodgame.ru/hls/154446.m3u8
 #EXTINF:-1,Муз ТВ
 http://185.32.44.154/muztv/index.m3u8 
 #EXTINF:-1,МУЗ ТВ
+
 http://dmitry-tv.ru/his/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="Регионы" tvg-shift=+2,Муз ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
@@ -766,6 +783,8 @@ http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
 https://autopilot.catcast.me/content/34763/index.m3u8
 #EXTINF:-1,Eurodance 90
 https://autopilot.catcast.me/content/36987/index.m3u8
+#EXTINF:-1,Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 #EXTINF:-1  tvg-id="moskva-24",Москва-24
 http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
 #EXTINF:-1,Кавказ 24
