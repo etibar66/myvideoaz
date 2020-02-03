@@ -271,7 +271,7 @@ http://54.36.109.228/19400/mono.m3u8
 #EXTINF:0,Большая Азия
 #EXTGRP:познавательное тв
 http://176.114.192.51:9988/udp/239.255.11.16:1234
-#EXTINF:0,RT Д Русский
+#EXTINF:-1  tvg-id="rtd-ru",RT Д Русский
 #EXTGRP:познавательное тв
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:0,Id xtra
