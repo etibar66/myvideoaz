@@ -198,9 +198,6 @@ http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:0,Живая планета
 #EXTGRP:познавательное тв
 http://185.32.44.154/jivayaplaneta/index.m3u8
-#EXTINF:0,В мире животных HD
-#EXTGRP:познавательное тв
-http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/animalfamilyhd/chunklist.m3u8
 #EXTINF:0,Zoo tv
 #EXTGRP:познавательное тв
 http://185.93.3.83:5010/play/a03k/index.m3u8
@@ -210,7 +207,7 @@ http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:0,Домашние животные
 #EXTGRP:познавательное тв
 http://185.32.44.154/domashniejivotnie/index.m3u8
-#EXTINF:0,LOVE NATURE
+#EXTINF:-1  tvg-id="love-nature-4k",Love Nature 4K
 #EXTGRP:познавательное тв
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 http-user-agent=OnlineTvAppDroid
@@ -298,22 +295,22 @@ http://185.32.44.154/istoriya/index.m3u8
 #EXTINF:0,History
 #EXTGRP:познавательное тв
 http://185.32.44.154/history/index.m3u8
-#EXTINF:0,Viasat History
+#EXTINF:-1  tvg-id="	viasat-history",Viasat History
 #EXTGRP:познавательное тв
 http://185.32.44.154/viasathistory/index.m3u8
-#EXTINF:0,Viasat Explore
+#EXTINF:-1  tvg-id="viasat-explore",Viasat Explore
 #EXTGRP:познавательное тв
 http://185.32.44.154/viasatexplorer/index.m3u8
-#EXTINF:0,Viasat Explore
+#EXTINF:-1  tvg-id="viasat-explore",Viasat Explore
 #EXTGRP:познавательное тв
 http://185.32.44.154/viasatexplorer/index.m3u8
-#EXTINF:0,Viasat Explore
+#EXTINF:-1  tvg-id="viasat-explore",Viasat Explore
 #EXTGRP:познавательное тв
 http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=109.248.236.41:4433/udp/238.1.1.18:1234
-#EXTINF:0,Viasat Explore
+#EXTINF:-1  tvg-id="viasat-explore",Viasat Explore
 #EXTGRP:познавательное тв
 http://185.32.44.154/viasatexplorer/index.m3u8
-#EXTINF:0,Viasat Nature
+#EXTINF:-1  tvg-id="viasat-nature",Viasat Nature
 #EXTGRP:познавательное тв
 http://185.32.44.154/viasatnature/index.m3u8
 #EXTINF:0,Fine Living
@@ -1456,4 +1453,3 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,Царьград ТВ
 #EXTGRP:Новости
 https://tsargrad-livehls.cdnvideo.ru/tsargrad-publish/streamtr_360p/chunklist.m3u8
-
