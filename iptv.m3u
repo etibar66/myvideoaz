@@ -195,13 +195,13 @@ http://50.7.136.50:8081/natgeowild/index.m3u8?wmsAuthSign=12217fdda74aaeb23935fd
 #EXTINF:0,Animal Planet
 #EXTGRP:познавательное тв
 http://185.32.44.154/animalplanet/index.m3u8
-#EXTINF:0,Живая планета
+#EXTINF:-1  tvg-id="zhivaya-planeta",zhivaya-planeta
 #EXTGRP:познавательное тв
 http://185.32.44.154/jivayaplaneta/index.m3u8
-#EXTINF:0,Zoo tv
+#EXTINF:-1  tvg-id="zoo-tv ",Зоо ТВ
 #EXTGRP:познавательное тв
 http://185.93.3.83:5010/play/a03k/index.m3u8
-#EXTINF:0,ZooПарк
+#EXTINF:-1  tvg-id="zoopark",ZooПарк
 #EXTGRP:познавательное тв
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:0,Домашние животные
@@ -250,22 +250,22 @@ http://185.32.44.154/rtg/index.m3u8
 #EXTINF:0,RTG TV
 #EXTGRP:познавательное тв
 http://50.7.136.50:8081/rtg/index.m3u8?wmsAuthSign=eca671df128426eb6989446e4ecf7942-1574471555-6i341i712i26
-#EXTINF:0,Travel Channel
+#EXTINF:-1  tvg-id="travel-channel",Travel Channel
 #EXTGRP:познавательное тв
 http://185.32.44.154/travelchannel/index.m3u8
-#EXTINF:0,Travel+Adventure
+#EXTINF:-1  tvg-id="travel-adventure",Travel+Adventure
 #EXTGRP:познавательное тв
 http://50.7.136.50:8081/travel_adventure/index.m3u8?wmsAuthSign=990af287ff2caab55b7b96634d790266-1574471534-6i341i712i26
-#EXTINF:0,Travel+Adventure
+#EXTINF:-1  tvg-id="travel-adventure",Travel+Adventure
 #EXTGRP:познавательное тв
 http://178.124.183.15/hls/TRH5A5QCPD/bw2000000/playlist.m3u8?version=2
 #EXTINF:0,Ugra Travel
 #EXTGRP:познавательное тв
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
-#EXTINF:0,Терра Инкогнита
+#EXTINF:-1  tvg-id="terra-inkognita",Терра Инкогнита
 #EXTGRP:познавательное тв
 https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:0,Терра
+#EXTINF:-1  tvg-id="terra",Терра
 #EXTGRP:познавательное тв
 http://54.36.109.228/19400/mono.m3u8
 #EXTINF:0,Большая Азия
@@ -295,7 +295,7 @@ http://185.32.44.154/istoriya/index.m3u8
 #EXTINF:0,History
 #EXTGRP:познавательное тв
 http://185.32.44.154/history/index.m3u8
-#EXTINF:-1  tvg-id="	viasat-history",Viasat History
+#EXTINF:-1  tvg-id="viasat-history",Viasat History
 #EXTGRP:познавательное тв
 http://185.32.44.154/viasathistory/index.m3u8
 #EXTINF:-1  tvg-id="viasat-explore",Viasat Explore
@@ -319,7 +319,7 @@ http://50.7.136.50:8081/fine_living/index.m3u8?wmsAuthSign=3619e75f6768681413826
 #EXTINF:0,Galaxy-TV
 #EXTGRP:познавательное тв
 http://185.32.44.154/galaxytv/index.m3u8
-#EXTINF:0,HDL
+#EXTINF:-1  tvg-id="hd-life",HD Life
 #EXTGRP:познавательное тв
 http://50.7.120.165:8081/hdlife/index.m3u8?wmsAuthSign=df2f1afb5a687e580602311bb8153219-1579394702-6i341i712i26
 #EXTINF:0,Дайвинг.TV
@@ -364,19 +364,19 @@ http://185.32.44.154/davinchilearning/index.m3u8
 #EXTINF:0,Luxury
 #EXTGRP:познавательное тв
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:0,brics
+#EXTINF:-1  tvg-id="tv-brics",TV BRICS
 #EXTGRP:познавательное тв
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:0,Загородная Жизнь
+#EXTINF:-1  tvg-id="zagorodnaya-zhizn",Загородная жизнь
 #EXTGRP:познавательное тв
 http://185.32.44.154/zaqorodnayajizn/index.m3u8
-#EXTINF:0,Загородый
+#EXTINF:-1  tvg-id="zagorodny",Загородный
 #EXTGRP:познавательное тв
 http://31.131.80.12:81/zagorodnyi/index.m3u8
 #EXTINF:0,Телекафе
 #EXTGRP:познавательное тв
 http://stream.euroasia.lfstrm.tv/telekafe/index.m3u8
-#EXTINF:0,Техно 24
+#EXTINF:-1  tvg-id="texno-24",Техно 24
 #EXTGRP:познавательное тв
 http://185.32.44.154/24texno/index.m3u8
 #EXTINF:0,Наука
@@ -385,13 +385,13 @@ http://185.32.44.154/nauka/index.m3u8
 #EXTINF:0,Кто есть кто
 #EXTGRP:познавательное тв
 http://185.32.44.154/ktoestkto/index.m3u8
-#EXTINF:0,Совершенно секретно
+#EXTINF:-1  tvg-id="	sovsek",Совершенно секретно
 #EXTGRP:познавательное тв
 http://185.32.44.154/sovershennosekretno/index.m3u8
-#EXTINF:0,Совершенно секретно
+#EXTINF:-1  tvg-id="sovsek",Совершенно секретно
 #EXTGRP:познавательное тв
 http://185.32.44.154/sovershennosekretno/index.m3u8
-#EXTINF:0,Вкусное TV
+#EXTINF:-1  tvg-id="vkusnoe-tv",Вкусное TV
 #EXTGRP:познавательное тв
 http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8http://185.32.44.154/tlcturk/index.m3u8
 #EXTINF:0,Dmax
