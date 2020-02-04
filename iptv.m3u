@@ -1332,76 +1332,76 @@ http://online.karapuztv.ru/content/33418/index.m3u8?token=karapuztv2018
 #EXTGRP:Детские
 http://185.220.33.11:8000/play/a001/index.m3u8?token=free
 #EXTINF:0,Матч! Арена HD
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/matcharenahd/index.m3u8
 #EXTINF:0,Матч! Арена
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/matcharena/index.m3u8
 #EXTINF:0,Матч! Планета
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://stream.euroasia.lfstrm.tv/boets/1/index.m3u8
 #EXTINF:0,Матч Премьер
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/nashfutbol/index.m3u8
 #EXTINF:0,Матч Премьер
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/nashfutbol/index.m3u8*
 #EXTINF:0,Матч! Наш спорт
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/nashsport/index.m3u8
 #EXTINF:0,Наш Футбол
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/nashfutbol/index.m3u8
 #EXTINF:0,Футбол
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/futbol/index.m3u8
 #EXTINF:0,Матч! Футбол 1
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/matchfutbol1/index.m3u8
 #EXTINF:0,Матч! Футбол 1
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://persik.by/stream/4451/252681/10266.m3u8
 #EXTINF:0,Матч! Футбол 2
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/matchfutbol2/index.m3u8
 #EXTINF:0,Матч! Футбол 2
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/futbol2/index.m3u8
 #EXTINF:0,Матч! Футбол 2
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://persik.by/stream/4451/252681/10267.m3u8
 #EXTINF:0,Матч! Футбол 3
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/matchfutbol3/index.m3u8
 #EXTINF:0,Матч! Футбол 3
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/futbol3/index.m3u8
 #EXTINF:0,Матч! Футбол 3
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://persik.by/stream/4451/252681/10218.m3u8
 #EXTINF:0,Матч! Боец
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/matchboets/index.m3u8
 #EXTINF:0,Матч! Боец
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://persik.by/stream/2944/263250/310.m3u8
 #EXTINF:0,Бокс ТВ
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/bokstv/index.m3u8
 #EXTINF:0,Bein sport 1
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/beinsport1/index.m3u8
 #EXTINF:0,Bein sports HD 11
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/beinsports2/index.m3u8
 #EXTINF:0,Viasat Sport
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/viasatsport/index.m3u8
 #EXTINF:0,Viasat Sport Baltics
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 http://185.32.44.154/viasatsport/index.m3u8
 #EXTINF:0,Setanta Sport
-#EXTGRP: group-title="фильм"
+#EXTGRP: group-title="спорт"
 https://sportbar.biz/lba/ZDU4YTFjMDNhMjE5ZmRkODYyODNjMDU3ODUyMGU2NTI=/g6/setantaukr.m3u8?token=ZDU4YTFjMDNhMjE5ZmRkODYyODNjMDU3ODUyMGU2NTI=&id=NTE5MTIzNzBjMTg5NTQyZTMyMzAwYjU5MDYzYzc5MDg=&vip=1572161867&dip=OTBlOTNjOGIzMjY4YTUyY2EwNjIzNjYzMTNiZTQ4YWY=&pip=109.214.128.111&hip=OWFhOTUzMjlhYjlhODFhNGMzODhlMzgxM2NjYTNkODU=
 #EXTINF:0,NTV (NTV Turkiye)
 #EXTGRP:Новости
