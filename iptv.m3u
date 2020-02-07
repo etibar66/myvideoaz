@@ -250,13 +250,13 @@ http://185.32.44.154/rtg/index.m3u8
 #EXTINF:0,RTG TV
 #EXTGRP: group-title="познавательное тв"
 http://50.7.136.50:8081/rtg/index.m3u8?wmsAuthSign=eca671df128426eb6989446e4ecf7942-1574471555-6i341i712i26
-#EXTGRP:  tvg-id="travel-channel",Travel Channel
+#EXTINF:0,  tvg-id="travel-channel",Travel Channel
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:0,  tvg-id="travel-adventure",Travel+Adventure
 #EXTGRP: group-title="познавательное тв"
 http://50.7.172.20:8081/s4g_traveladve/index.m3u8?wmsAuthSign=1580879793S00aea2b8044ab56848f05c150341d6cfS6h341h712h26
-#EXTINF:0,  tvg-id="travel-adventure",Travel+Adventure
+#EXTINF:0, tvg-id="travel-adventure",Travel+Adventure
 #EXTGRP: group-title="познавательное тв"
 http://178.124.183.15/hls/TRH5A5QCPD/bw2000000/playlist.m3u8?version=2
 #EXTINF:0,Ugra Travel
@@ -274,6 +274,9 @@ http://176.114.192.51:9988/udp/239.255.11.16:1234
 #EXTINF:0,  tvg-id="rtd-ru",RT Д Русский
 #EXTGRP: group-title="познавательное тв"
 https://hls.rt.com/hls/rtdru360.m3u8
+#EXTINF:0,  tvg-id="rtd-ru",RT Д Русский
+#EXTGRP: group-title="познавательное тв"
+https://nsk9.peers.tv/streaming/russia_today_doc/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5
 #EXTINF:0,Id xtra
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/idextra/index.m3u8
