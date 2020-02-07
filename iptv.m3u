@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,Animal planet
+https://nsk9.peers.tv/streaming/animal_planet/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5
 #EXTINF:0,CBC
 #EXTGRP: group-title="Общественное Тв"
 http://149.255.152.199/cbcaz.m3u8?bandwidth=796&e=1576965062&playlistlength=25&shift=0&token=c50a481e7ac369f1bd0728ec3a06ebf1&user=21138
