@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,xxxxxxx
-https://nsk9.peers.tv/streaming/animal_planet/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5
 #EXTINF:0,CBC
 #EXTGRP: group-title="Общественное Тв"
 http://149.255.152.199/cbcaz.m3u8?bandwidth=796&e=1576965062&playlistlength=25&shift=0&token=c50a481e7ac369f1bd0728ec3a06ebf1&user=21138
@@ -115,6 +113,9 @@ http://dmitry-tv.ru/his/DVB-T2/CH_TNT.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP: group-title="Общественное Тв"
 http://178.162.205.76/video/TfMx8drz-UQkXd7lUzoIPw/11/playlist.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP: group-title="Общественное Тв"
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
 #EXTINF:0,ТНТ international
 #EXTGRP: group-title="Общественное Тв"
 http://streams.tv.mts.by/tnt_international/1/index.m3u8
@@ -154,7 +155,8 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8?q=
 #EXTINF:0,ТВ Центр
 #EXTGRP: group-title="Общественное Тв"
 rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
-#EXTINF:0,ТВЦ 
+#EXTINF:0,ТВ Центр
+#EXTGRP: group-title="Общественное Тв"
 https://nsk9.peers.tv/streaming/tvc/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5&bytefog=7.3.14.6385
 #EXTINF:0,ТВ Центр (+2)
 #EXTGRP: group-title="Общественное Тв"
@@ -196,9 +198,16 @@ http://dmitry-tv.ru/his/itv_blrus/CH_NATGEO_WILD.m3u8
 #EXTINF:0,Nat Geo Wild
 #EXTGRP: group-title="познавательное тв"
 http://50.7.136.50:8081/natgeowild/index.m3u8?wmsAuthSign=12217fdda74aaeb23935fded41cd9ca5-1574471552-6i341i712i26
+#EXTINF:0,Nat Geo Wild
+#EXTGRP: group-title="познавательное тв"
+http://mfe31.svc.ott.zala.by/hls/ESCMSBZJ8X_HLS/variant.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/animalplanet/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP: group-title="познавательное тв
+https://nsk9.peers.tv/streaming/animal_planet/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5
+#EXTVLCOPT:http-user-agent=DuneHD/1.0.3
 #EXTINF:0,  tvg-id="zhivaya-planeta",zhivaya-planeta
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/jivayaplaneta/index.m3u8
@@ -214,7 +223,11 @@ http://185.32.44.154/domashniejivotnie/index.m3u8
 #EXTINF:0,  tvg-id="love-nature-4k",Love Nature 4K
 #EXTGRP: group-title="познавательное тв"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-http-user-agent=OnlineTvAppDroid
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
+#EXTINF:0,  tvg-id="love-nature-4k",Love Nature 4K
+#EXTGRP: group-title="познавательное тв"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+#EXTVLCOPT:http-user-agent=SmartLabs
 #EXTINF:0,Дикий
 #EXTGRP: group-title="познавательное тв"
 http://193.201.98.123:7000/play/a03g
@@ -254,13 +267,13 @@ http://185.32.44.154/rtg/index.m3u8
 #EXTINF:0,RTG TV
 #EXTGRP: group-title="познавательное тв"
 http://50.7.136.50:8081/rtg/index.m3u8?wmsAuthSign=eca671df128426eb6989446e4ecf7942-1574471555-6i341i712i26
-#EXTINF:0,  tvg-id="travel-channel",Travel Channel
+#EXTGRP:  tvg-id="travel-channel",Travel Channel
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:0,  tvg-id="travel-adventure",Travel+Adventure
 #EXTGRP: group-title="познавательное тв"
 http://50.7.172.20:8081/s4g_traveladve/index.m3u8?wmsAuthSign=1580879793S00aea2b8044ab56848f05c150341d6cfS6h341h712h26
-#EXTINF:0, tvg-id="travel-adventure",Travel+Adventure
+#EXTINF:0,  tvg-id="travel-adventure",Travel+Adventure
 #EXTGRP: group-title="познавательное тв"
 http://178.124.183.15/hls/TRH5A5QCPD/bw2000000/playlist.m3u8?version=2
 #EXTINF:0,Ugra Travel
@@ -278,7 +291,7 @@ http://176.114.192.51:9988/udp/239.255.11.16:1234
 #EXTINF:0,  tvg-id="rtd-ru",RT Д Русский
 #EXTGRP: group-title="познавательное тв"
 https://hls.rt.com/hls/rtdru360.m3u8
-#EXTINF:0,Russia today doc
+#EXTINF:0,russia today doc
 #EXTGRP: group-title="познавательное тв"
 https://nsk9.peers.tv/streaming/russia_today_doc/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5
 #EXTINF:0,Id xtra
@@ -296,6 +309,9 @@ http://185.32.44.154/nationalgeographic/index.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP: group-title="познавательное тв"
 http://dmitry-tv.ru/his/itv_blrus/CH_NATGEO.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP: group-title="познавательное тв"
+http://mfe31.svc.ott.zala.by/hls/CH_NATGEO_HLS/variant.m3u8
 #EXTINF:0,История
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/istoriya/index.m3u8
@@ -311,7 +327,7 @@ http://185.32.44.154/viasatexplorer/index.m3u8
 #EXTINF:0,  tvg-id="viasat-explore",Viasat Explore
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/viasatexplorer/index.m3u8
-#EXTGRP:  tvg-id="viasat-explore",Viasat Explore
+#EXTINF:0,  tvg-id="viasat-explore",Viasat Explore
 #EXTGRP: group-title="познавательное тв"
 http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=109.248.236.41:4433/udp/238.1.1.18:1234
 #EXTINF:0,  tvg-id="viasat-explore",Viasat Explore
@@ -326,6 +342,9 @@ http://50.7.136.50:8081/fine_living/index.m3u8?wmsAuthSign=3619e75f6768681413826
 #EXTINF:0,Galaxy-TV
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/galaxytv/index.m3u8
+#EXTINF:0,Galaxy-TV
+#EXTGRP: group-title="познавательное тв"
+http://mfe31.svc.ott.zala.by/hls/CH_GALAXY_HLS/variant.m3u8
 #EXTINF:0,  tvg-id="hd-life",HD Life
 #EXTGRP: group-title="познавательное тв"
 http://50.7.120.165:8081/hdlife/index.m3u8?wmsAuthSign=df2f1afb5a687e580602311bb8153219-1579394702-6i341i712i26
@@ -806,6 +825,9 @@ http://185.93.3.83:5010/play/a06i/index.m3u8
 #EXTINF:0,Cупер
 #EXTGRP:Развлекательное
 http://timeshift.e-yugansk.ru:180/282/tracks-v1a1/index.m3u8
+#EXTINF:0,Cупер HD
+#EXTGRP:Развлекательное
+https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
 #EXTINF:0,Супер (+2)
 #EXTGRP:Развлекательное
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
@@ -1437,6 +1459,9 @@ http://185.35.4.37:8087/moskva24/ch.m3u8
 #EXTINF:0,Москва 24
 #EXTGRP:Новости
 http://a3569455780-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Москва 24
+#EXTGRP:Новости
+https://nsk9.peers.tv/streaming/moskva_24/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5
 #EXTINF:0,Россия24
 #EXTGRP:Новости
 https://a3569455795-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b600000.m3u8
