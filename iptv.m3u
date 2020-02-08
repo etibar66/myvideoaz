@@ -230,7 +230,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3
 #EXTVLCOPT:http-user-agent=SmartLabs
 #EXTINF:0,Дикий
 #EXTGRP: group-title="познавательное тв"
-http://193.201.98.123:7000/play/a03g
+http://50.7.144.155:8081/dikij/index.m3u8?wmsAuthSign=1581215328S514d00e9f94d3ca6cf2a158588cb925bS6h341h712h26
 #EXTINF:0,Охота и рыбалка
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/oxotoiribalka/index.m3u8
