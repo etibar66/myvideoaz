@@ -236,9 +236,6 @@ http://50.7.144.155:8081/dikij/index.m3u8?wmsAuthSign=1581215328S514d00e9f94d3ca
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:0,Outdoor channel
 #EXTGRP: group-title="познавательное тв"
-http://50.7.136.50:8081/outdoor/index.m3u8?wmsAuthSign=1ddac1e83095e02ec29b5e27823e6224-1574471549-6i341i712i26
-#EXTINF:0,Outdoor channel
-#EXTGRP: group-title="познавательное тв"
 http://50.7.144.155:8081/outdoor/index.m3u8?wmsAuthSign=1581215758Sd2c9cd1cf5c368b45f02b3ace625f308S6h341h712h26
 #EXTINF:0,Бобер
 #EXTGRP: group-title="познавательное тв"
