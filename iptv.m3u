@@ -213,7 +213,7 @@ https://nsk9.peers.tv/streaming/animal_planet/126/tvrecw/playlist.m3u8?token=eyJ
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:0,  tvg-id="zoo-tv ",Зоо ТВ
 #EXTGRP: group-title="познавательное тв"
-http://185.93.3.83:5010/play/a03k/index.m3u8
+http://50.7.144.155:8081/zootv/index.m3u8?wmsAuthSign=1581215586Scc8ed3683faa65af619e8682ea0e4805S6h341h712h26
 #EXTINF:0,  tvg-id="zoopark",ZooПарк
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/zoopark/index.m3u8
@@ -239,7 +239,7 @@ http://185.32.44.154/oxotoiribalka/index.m3u8
 http://50.7.136.50:8081/outdoor/index.m3u8?wmsAuthSign=1ddac1e83095e02ec29b5e27823e6224-1574471549-6i341i712i26
 #EXTINF:0,Outdoor channel
 #EXTGRP: group-title="познавательное тв"
-http://185.93.3.83:5010/play/a05p/index.m3u8
+http://50.7.144.155:8081/outdoor/index.m3u8?wmsAuthSign=1581215758Sd2c9cd1cf5c368b45f02b3ace625f308S6h341h712h26
 #EXTINF:0,Бобер
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/bobertv/index.m3u8
