@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/20121210
 #EXTINF:0,CBC
 #EXTGRP: group-title="Общественное Тв"
 http://149.255.152.199/cbcaz.m3u8?bandwidth=796&e=1576965062&playlistlength=25&shift=0&token=c50a481e7ac369f1bd0728ec3a06ebf1&user=21138
@@ -134,6 +135,8 @@ http://persik.by/stream/6431/299492/64.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP: group-title="Общественное Тв"
 http://185.32.44.154/tntcomedy/index.m3u8
+#EXTINF:0,ТНТ4 HD (auto)
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
 #EXTINF:0,ТНТ4 (+2)
 #EXTGRP: group-title="Общественное Тв"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
@@ -155,9 +158,6 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8?q=
 #EXTINF:0,ТВ Центр
 #EXTGRP: group-title="Общественное Тв"
 rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
-#EXTINF:0,ТВ Центр
-#EXTGRP: group-title="Общественное Тв"
-https://nsk9.peers.tv/streaming/tvc/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5&bytefog=7.3.14.6385
 #EXTINF:0,ТВ Центр (+2)
 #EXTGRP: group-title="Общественное Тв"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
@@ -173,6 +173,9 @@ http://dprtv.phoenix-dnr.ru/first-republic-tv
 #EXTINF:0,Пятый канал
 #EXTGRP: group-title="Общественное Тв"
 http://185.32.44.154/5kanal/index.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP: group-title="Общественное Тв"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Пятый канал
 #EXTGRP: group-title="Общественное Тв"
 http://dmitry-tv.ru/his/DVB-T2/CH_5TV.m3u8
@@ -236,6 +239,9 @@ http://50.7.144.155:8081/dikij/index.m3u8?wmsAuthSign=1581215328S514d00e9f94d3ca
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:0,Outdoor channel
 #EXTGRP: group-title="познавательное тв"
+http://50.7.136.50:8081/outdoor/index.m3u8?wmsAuthSign=1ddac1e83095e02ec29b5e27823e6224-1574471549-6i341i712i26
+#EXTINF:0,Outdoor channel
+#EXTGRP: group-title="познавательное тв"
 http://50.7.144.155:8081/outdoor/index.m3u8?wmsAuthSign=1581215758Sd2c9cd1cf5c368b45f02b3ace625f308S6h341h712h26
 #EXTINF:0,Бобер
 #EXTGRP: group-title="познавательное тв"
@@ -288,9 +294,6 @@ http://176.114.192.51:9988/udp/239.255.11.16:1234
 #EXTINF:0,  tvg-id="rtd-ru",RT Д Русский
 #EXTGRP: group-title="познавательное тв"
 https://hls.rt.com/hls/rtdru360.m3u8
-#EXTINF:0,russia today doc
-#EXTGRP: group-title="познавательное тв"
-https://nsk9.peers.tv/streaming/russia_today_doc/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5
 #EXTINF:0,Id xtra
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/idextra/index.m3u8
@@ -807,6 +810,9 @@ http://185.32.44.154/pyatnicha/index.m3u8
 #EXTINF:0,Пятница
 #EXTGRP:Развлекательное
 http://dmitry-tv.ru/his/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:0,Пятница HD
+#EXTGRP:Развлекательное
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:0,Пятница! (+2)
 #EXTGRP:Развлекательное
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
@@ -819,6 +825,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
 #EXTINF:0,Перец Int
 #EXTGRP:Развлекательное
 http://185.93.3.83:5010/play/a06i/index.m3u8
+#EXTINF:0,СТС Love
+http://dmitry-tv.ru/his/itv_zabava/CH_STSLOVE.m3u8
 #EXTINF:0,Cупер
 #EXTGRP:Развлекательное
 http://timeshift.e-yugansk.ru:180/282/tracks-v1a1/index.m3u8
@@ -840,6 +848,8 @@ http://rusevertv.ru/480/rs_crf28_.m3u8
 #EXTINF:0,Ностальгия
 #EXTGRP:Развлекательное
 http://185.32.44.154/nostalgiya/index.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:0,Сарафан
 #EXTGRP:Развлекательное
 http://dmitry-tv.ru/his/itv_blrus/CH_SARAFAN.m3u8
@@ -1213,6 +1223,9 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NOY24_URAL_NOY/variant.m
 #EXTINF:0,НСК 49 (Новосибирск)
 #EXTGRP: group-title="региональные"
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8?version=2
+#EXTINF:0,Кубань 24 (Краснодар)
+#EXTVLCOPT:http-user-agent=SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/20121210
+http://dmitry-tv.ru/his/itv_zabava/CH_KUBAN24_KRDAR.m3u8
 #EXTINF:0,afontovo
 #EXTGRP: group-title="региональные"
 http://xstream.afontovo.ru/afontovo_sd.m3u8
@@ -1386,13 +1399,10 @@ http://185.32.44.154/nashfutbol/index.m3u8
 http://185.32.44.154/futbol/index.m3u8
 #EXTINF:0,Матч! Футбол 1
 #EXTGRP: group-title="спорт"
-http://185.32.44.154/matchfutbol1/index.m3u8
+http://185.32.44.154/futbol1/index.m3u8
 #EXTINF:0,Матч! Футбол 1
 #EXTGRP: group-title="спорт"
 http://persik.by/stream/4451/252681/10266.m3u8
-#EXTINF:0,Матч! Футбол 2
-#EXTGRP: group-title="спорт"
-http://185.32.44.154/matchfutbol2/index.m3u8
 #EXTINF:0,Матч! Футбол 2
 #EXTGRP: group-title="спорт"
 http://185.32.44.154/futbol2/index.m3u8
@@ -1401,28 +1411,19 @@ http://185.32.44.154/futbol2/index.m3u8
 http://persik.by/stream/4451/252681/10267.m3u8
 #EXTINF:0,Матч! Футбол 3
 #EXTGRP: group-title="спорт"
-http://185.32.44.154/matchfutbol3/index.m3u8
-#EXTINF:0,Матч! Футбол 3
-#EXTGRP: group-title="спорт"
 http://185.32.44.154/futbol3/index.m3u8
 #EXTINF:0,Матч! Футбол 3
 #EXTGRP: group-title="спорт"
 http://persik.by/stream/4451/252681/10218.m3u8
 #EXTINF:0,Матч! Боец
 #EXTGRP: group-title="спорт"
-http://185.32.44.154/matchboets/index.m3u8
+http://185.32.44.154/boets/index.m3u8
 #EXTINF:0,Матч! Боец
 #EXTGRP: group-title="спорт"
 http://persik.by/stream/2944/263250/310.m3u8
 #EXTINF:0,Бокс ТВ
 #EXTGRP: group-title="спорт"
 http://185.32.44.154/bokstv/index.m3u8
-#EXTINF:0,Bein sport 1
-#EXTGRP: group-title="спорт"
-http://185.32.44.154/beinsport1/index.m3u8
-#EXTINF:0,Bein sports HD 11
-#EXTGRP: group-title="спорт"
-http://185.32.44.154/beinsports2/index.m3u8
 #EXTINF:0,Viasat Sport
 #EXTGRP: group-title="спорт"
 http://185.32.44.154/viasatsport/index.m3u8
@@ -1452,10 +1453,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 #EXTINF:0,Москва 24
 #EXTGRP:Новости
-http://185.35.4.37:8087/moskva24/ch.m3u8
-#EXTINF:0,Москва 24
-#EXTGRP:Новости
-http://a3569455780-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=
 #EXTINF:0,Москва 24
 #EXTGRP:Новости
 https://nsk9.peers.tv/streaming/moskva_24/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5
