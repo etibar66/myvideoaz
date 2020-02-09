@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=SmartSDK/1.5.63-rt-25 Qt/4.7.3 API/20121210
+#EXTVLCOPT:http-user-agent=SmartLabs
 #EXTINF:0,CBC
 #EXTGRP: group-title="Общественное Тв"
 http://149.255.152.199/cbcaz.m3u8?bandwidth=796&e=1576965062&playlistlength=25&shift=0&token=c50a481e7ac369f1bd0728ec3a06ebf1&user=21138
@@ -1270,6 +1271,7 @@ http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_PERVYGORODSKOY/vari
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
 #EXTINF:0,Первый канал (+1) (Саратов)
 #EXTGRP: group-title="региональные"
+#EXTVLCOPT:http-user-agent=SmartLabs
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
 #EXTINF:0,Осетия-Ирыстон
 #EXTGRP: group-title="региональные"
