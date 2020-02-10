@@ -45,18 +45,21 @@ http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/rossiahd/chunklist.m3u8
 https://a3569458429-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:0,Россия 1 (+2)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
 #EXTINF:0,Россия 1 (+3)
 #EXTGRP: group-title="Общественное Тв"
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
 #EXTINF:0,Россия 1 (+4)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
 #EXTINF:0,Россия 1 (+5)
 #EXTGRP: group-title="Общественное Тв"
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2
 #EXTINF:0,Россия 1 (+6)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=2
 #EXTINF:0,Россия 1 (+7)
 #EXTGRP: group-title="Общественное Тв"
@@ -75,12 +78,15 @@ http://185.32.44.154/ntvplus/index.m3u8
 http://dmitry-tv.ru/his/DVB-T2/CH_NTV.m3u8
 #EXTINF:0,НТВ (+2)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
 #EXTINF:0,НТВ (+4)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
 #EXTINF:0,НТВ (+7)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
 #EXTINF:0,НТВ (+8)
 #EXTGRP: group-title="Общественное Тв"
@@ -99,9 +105,11 @@ http://dmitry-tv.ru/his/DVB-T2/CH_RENTV.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
 #EXTINF:0,РЕН ТВ (+2)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:0,РЕН ТВ (+7)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:0,Рен ТВ (+8)
 #EXTGRP: group-title="Общественное Тв"
@@ -123,12 +131,15 @@ https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f
 http://streams.tv.mts.by/tnt_international/1/index.m3u8
 #EXTINF:0,ТНТ (+2)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #EXTINF:0,ТНТ (+4)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
 #EXTINF:0,ТНТ (+7)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
 #EXTINF:0,ТНТ4
 #EXTGRP: group-title="Общественное Тв"
@@ -140,12 +151,15 @@ http://185.32.44.154/tntcomedy/index.m3u8
 https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
 #EXTINF:0,ТНТ4 (+2)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
 #EXTINF:0,ТНТ4 (+4)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 #EXTINF:0,ТНТ4 (+7)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 #EXTINF:0,ТВ Центр
 #EXTGRP: group-title="Общественное Тв"
@@ -161,12 +175,15 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8?q=
 rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
 #EXTINF:0,ТВ Центр (+2)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
 #EXTINF:0,ТВ Центр (+4)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
 #EXTINF:0,ТВ Центр (+7)
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
 #EXTINF:0,1-й Республиканский
 #EXTGRP: group-title="Общественное Тв"
@@ -176,6 +193,7 @@ http://dprtv.phoenix-dnr.ru/first-republic-tv
 http://185.32.44.154/5kanal/index.m3u8
 #EXTINF:0,Пятый канал
 #EXTGRP: group-title="Общественное Тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
 #EXTINF:0,Пятый канал
 #EXTGRP: group-title="Общественное Тв"
@@ -226,10 +244,12 @@ http://185.32.44.154/zoopark/index.m3u8
 http://185.32.44.154/domashniejivotnie/index.m3u8
 #EXTINF:0,  tvg-id="love-nature-4k",Love Nature 4K
 #EXTGRP: group-title="познавательное тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 #EXTINF:0,  tvg-id="love-nature-4k",Love Nature 4K
 #EXTGRP: group-title="познавательное тв"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 #EXTVLCOPT:http-user-agent=SmartLabs
 #EXTINF:0,Дикий
@@ -241,9 +261,6 @@ http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:0,Outdoor channel
 #EXTGRP: group-title="познавательное тв"
 http://50.7.136.50:8081/outdoor/index.m3u8?wmsAuthSign=1ddac1e83095e02ec29b5e27823e6224-1574471549-6i341i712i26
-#EXTINF:0,Outdoor channel
-#EXTGRP: group-title="познавательное тв"
-http://50.7.144.155:8081/outdoor/index.m3u8?wmsAuthSign=1581215758Sd2c9cd1cf5c368b45f02b3ace625f308S6h341h712h26
 #EXTINF:0,Бобер
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/bobertv/index.m3u8
@@ -295,8 +312,6 @@ http://176.114.192.51:9988/udp/239.255.11.16:1234
 #EXTINF:0,  tvg-id="rtd-ru",RT Д Русский
 #EXTGRP: group-title="познавательное тв"
 https://hls.rt.com/hls/rtdru360.m3u8
-#EXTINF:0,russia today doc
-https://nsk9.peers.tv/streaming/russia_today_doc/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODExOTI1MzMsImlhdCI6MTU4MTEwNjEzMywiY2lkIjo1LCJ1aWQiOjM2ODM5MTc1NSwicmVnIjpmYWxzZSwiaXAiOiI2Mi4yMTcuMTQzLjYifQ.LZMqTWx9TOGBWV8hdnGfFIMXGwlt_4L1zgY5KjMHikE&client=5
 #EXTINF:0,Id xtra
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/idextra/index.m3u8
@@ -372,6 +387,9 @@ http://91.192.168.242:9091
 #EXTINF:0,Морской
 #EXTGRP: group-title="познавательное тв"
 http://50.7.172.58:8081/592/index.m3u8?wmsAuthSign=1580880176p6i341i712i26S3fcdf8b0d0095b586193119751229dc0
+#EXTINF:0,Морской
+#EXTGRP: group-title="познавательное тв"
+http://tvfree7.ddns.net:9991/stream/channelid/258636164?profile=pass
 #EXTINF:0,Трофей
 #EXTGRP: group-title="познавательное тв"
 http://streamer-hls.fregat.net/hls/trofey.m3u8
@@ -452,7 +470,7 @@ http://185.32.44.154/indiskoekino/index.m3u8
 http://dmitry-tv.ru/his/itv_blrus/CH_INDIYSKOEKINO.m3u8
 #EXTINF:0,Zee Tv
 #EXTGRP: group-title="фильм"
-http://e98c5wrb.russtv.net/iptv/242YL5HXHCA4T4/1001/index.m3u8
+http://tvfree7.ddns.net:9991/stream/channelid/1662667983?profile=pass
 #EXTINF:0,Bollywood
 #EXTGRP: group-title="фильм"
 http://185.32.44.154/bollywoodtv/index.m3u8
@@ -485,12 +503,14 @@ http://178.162.205.76/video/TfMx8drz-UQkXd7lUzoIPw/9/playlist.m3u8
 http://185.32.44.154/ctc/index.m3u8
 #EXTINF:0,СТС (+2)
 #EXTGRP: group-title="фильм"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
 #EXTINF:0,СТС (+4)
 #EXTGRP: group-title="фильм"
 http://rt-sib-irk-htlive.775798291.addr.ngenix.net/hls/CH_R02_STS/variant.m3u8?version=2
 #EXTINF:0,СТС (+7)
 #EXTGRP: group-title="фильм"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
 #EXTINF:0,СТС (+8)
 #EXTGRP: group-title="фильм"
@@ -503,9 +523,11 @@ http://185.32.44.154/stslove/index.m3u8
 http://46.32.68.167/s/live/807/86.169.51.136/2/0.m3u8
 #EXTINF:0,СТС Love (+2)
 #EXTGRP: group-title="фильм"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
 #EXTINF:0,СТС Love (+7)
 #EXTGRP: group-title="фильм"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
 #EXTINF:0,Домашний
 #EXTGRP: group-title="фильм"
@@ -530,9 +552,11 @@ http://185.32.44.154/tv3/index.m3u8
 https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
 #EXTINF:0,ТВ 3 (+2)
 #EXTGRP: group-title="фильм"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
 #EXTINF:0,ТВ 3 (+7)
 #EXTGRP: group-title="фильм"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
 #EXTINF:0,Наше новое кино
 #EXTGRP: group-title="фильм"
@@ -806,6 +830,7 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?ver
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
 #EXTINF:0,Че (+7)
 #EXTGRP:Развлекательное
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
 #EXTINF:0,Пятница
 #EXTGRP:Развлекательное
@@ -818,17 +843,21 @@ http://dmitry-tv.ru/his/DVB-T2/CH_FRIDAY.m3u8
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:0,Пятница! (+2)
 #EXTGRP:Развлекательное
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
 #EXTINF:0,Пятница! (+4)
 #EXTGRP:Развлекательное
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
 #EXTINF:0,Пятница! (+7)
 #EXTGRP:Развлекательное
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
 #EXTINF:0,Перец Int
 #EXTGRP:Развлекательное
 http://185.93.3.83:5010/play/a06i/index.m3u8
 #EXTINF:0,СТС Love
+#EXTGRP:Развлекательное
 http://dmitry-tv.ru/his/itv_zabava/CH_STSLOVE.m3u8
 #EXTINF:0,Cупер
 #EXTGRP:Развлекательное
@@ -838,12 +867,15 @@ http://timeshift.e-yugansk.ru:180/282/tracks-v1a1/index.m3u8
 https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
 #EXTINF:0,Супер (+2)
 #EXTGRP:Развлекательное
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
 #EXTINF:0,Супер (+4)
 #EXTGRP:Развлекательное
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
 #EXTINF:0,Супер (+7)
 #EXTGRP:Развлекательное
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
 #EXTINF:0,Русский Север
 #EXTGRP:Развлекательное
@@ -864,7 +896,7 @@ http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8?version=2
 http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
 #EXTINF:0,Анекдот ТВ
 #EXTGRP:Развлекательное
-http-user-agent=SmartLabs
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/bw2000000/variant.m3u8?version=2
 #EXTINF:0,1 Music Channel
 #EXTGRP: group-title="Музика"
@@ -955,12 +987,15 @@ http://185.32.44.154/muztv/index.m3u8
 http://dmitry-tv.ru/his/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:0,Муз ТВ (+2)
 #EXTGRP: group-title="Музика"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
 #EXTINF:0,Муз ТВ (+4)
 #EXTGRP: group-title="Музика"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2
 #EXTINF:0,Муз ТВ (+7)
 #EXTGRP: group-title="Музика"
+#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8?version=2
 #EXTINF:0,La-minor
 #EXTGRP: group-title="Музика"
