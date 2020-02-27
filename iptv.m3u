@@ -263,7 +263,6 @@ http://mfe31.svc.ott.zala.by/hls/ESCMSBZJ8X_HLS/variant.m3u8
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTVLCOPT:http-user-agent=DuneHD/1.0.3
-#EXTINF:-1  tvg-id="ID_KANALA",NAZVANIE
 #EXTINF:-1  tvg-id="zhivaya-planeta",живая планета
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/jivayaplaneta/index.m3u8
