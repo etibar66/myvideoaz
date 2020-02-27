@@ -263,24 +263,25 @@ http://mfe31.svc.ott.zala.by/hls/ESCMSBZJ8X_HLS/variant.m3u8
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTVLCOPT:http-user-agent=DuneHD/1.0.3
-#EXTINF:0,  tvg-id="zhivaya-planeta",живая планета
+#EXTINF:-1  tvg-id="ID_KANALA",NAZVANIE
+#EXTINF:-1  tvg-id="zhivaya-planeta",живая планета
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/jivayaplaneta/index.m3u8
-#EXTINF:0,  tvg-id="zoo-tv ",Зоо ТВ
+#EXTINF:-1  tvg-id="zoo-tv ",Зоо ТВ
 #EXTGRP: group-title="познавательное тв"
 http://50.7.144.155:8081/zootv/index.m3u8?wmsAuthSign=1581215586Scc8ed3683faa65af619e8682ea0e4805S6h341h712h26
-#EXTINF:0,  tvg-id="zoopark",ZooПарк
+#EXTINF:-1  tvg-id="zoopark",ZooПарк
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:0,Домашние животные
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/domashniejivotnie/index.m3u8
-#EXTINF:0,  tvg-id="love-nature-4k",Love Nature 4K
+#EXTINF:-1  tvg-id="love-nature-4k",Love Nature 4K
 #EXTGRP: group-title="познавательное тв"
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-#EXTINF:0,  tvg-id="love-nature-4k",Love Nature 4K
+#EXTINF:-1  tvg-id="love-nature-4k",Love Nature 4K
 #EXTGRP: group-title="познавательное тв"
 #EXTVLCOPT:http-user-agent=OnlineTvAppDroid
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
@@ -348,10 +349,10 @@ http://176.114.192.51:9988/udp/239.255.11.16:1234
 #EXTINF:0,  tvg-id="rtd-ru",RT Д Русский
 #EXTGRP: group-title="познавательное тв"
 https://hls.rt.com/hls/rtdru360.m3u8
-#EXTINF:0,  tvg-id="rtd-ru",RT Д Русский
+#EXTINF:-1  tvg-id="rtd-ru",RT Д Русский
 #EXTGRP: group-title="познавательное тв"
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/98/stream.m3u8
-#EXTINF:0,  tvg-id="rtd-ru",RT Д Русский
+#EXTINF:-1  tvg-id="rtd-ru",RT Д Русский
 #EXTGRP: group-title="познавательное тв"
 http://s02.iptvx.tv:8090/s/4a9311f7/russia-today-doc-hd.m3u8
 #EXTINF:0,russia today doc
@@ -389,22 +390,22 @@ http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/81/stream.m3u8
 #EXTINF:0,DTX
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/dtx/index.m3u8
-#EXTINF:0,  tvg-id="viasat-history",Viasat History
+#EXTINF:-1  tvg-id="viasat-history",Viasat History
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/viasathistory/index.m3u8
-#EXTINF:0,  tvg-id="viasat-explore",Viasat Explore
+#EXTINF:-1  tvg-id="viasat-explore",Viasat Explore
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/viasatexplorer/index.m3u8
-#EXTINF:0,  tvg-id="viasat-explore",Viasat Explore
+#EXTINF:-1  tvg-id="viasat-explore",Viasat Explore
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/viasatexplorer/index.m3u8
-#EXTINF:0,  tvg-id="viasat-explore",Viasat Explore
+#EXTINF:-1  tvg-id="viasat-explore",Viasat Explore
 #EXTGRP: group-title="познавательное тв"
 http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=109.248.236.41:4433/udp/238.1.1.18:1234
 #EXTINF:0,  tvg-id="viasat-explore",Viasat Explore
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/viasatexplorer/index.m3u8
-#EXTINF:0,  tvg-id="viasat-nature",Viasat Nature
+#EXTINF:-1  tvg-id="viasat-nature",Viasat Nature
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/viasatnature/index.m3u8
 #EXTINF:0,История
@@ -458,7 +459,7 @@ http://185.32.44.154/davinchilearning/index.m3u8
 #EXTINF:0,Luxury
 #EXTGRP: group-title="познавательное тв"
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:0,  tvg-id="tv-brics",TV BRICS
+#EXTINF:-1  tvg-id="tv-brics",TV BRICS
 #EXTGRP: group-title="познавательное тв"
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:0,  tvg-id="zagorodnaya-zhizn",Загородная жизнь
@@ -479,10 +480,10 @@ http://185.32.44.154/nauka/index.m3u8
 #EXTINF:0,Кто есть кто
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/ktoestkto/index.m3u8
-#EXTINF:0,  tvg-id="	sovsek",Совершенно секретно
+#EXTINF:-1  tvg-id="sovsek",Совершенно секретно
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/sovershennosekretno/index.m3u8
-#EXTINF:0,  tvg-id="sovsek",Совершенно секретно
+#EXTINF:-1  tvg-id="sovsek",Совершенно секретно
 #EXTGRP: group-title="познавательное тв"
 http://185.32.44.154/sovershennosekretno/index.m3u8
 #EXTINF:0,365 дней ТВ
