@@ -23,7 +23,7 @@ http://s34351.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
 http://185.32.44.154/rossiya1/index.m3u8
 #EXTINF:-1 ,Россия
 http://dmitry-tv.ru/his/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 ,#EXTINF:-1 ,Россия 1 (+2)
+#EXTINF:-1 ,Россия 1 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
 #EXTINF:-1 ,Россия 1 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
