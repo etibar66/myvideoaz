@@ -3,7 +3,7 @@
 http://185.32.44.154/perviy/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/1/stream.m3u8
-#EXTINF:-1 ,Первый канал 
+#EXTINF:-1 ,Первый канал
 https://cdn.mytouchtv.tv/hlsl/10/Pervyy_Kanal/Pervyy_Kanal_1/index.m3u8
 #EXTINF:-1 ,Первый канал HD
 https://cdn.mytouchtv.tv/hlsl/1/First_HD/03.m3u8
@@ -129,9 +129,9 @@ http://185.32.44.154/natgeowild/index.m3u8
 https://plbl.m9.lfstrm.tv/nat_geo_wild/normal/1/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
-#EXTINF:-1,Nat Geo Wild HD
+#EXTINF:-1 ,Nat Geo Wild HD
 https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
-#EXTINF:-1,Nat Geo Wild HD
+#EXTINF:-1 ,Nat Geo Wild HD
 http://nl01.spr24.net/124/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
@@ -139,8 +139,6 @@ http://185.32.44.154/animalplanet/index.m3u8
 http://nl01.spr24.net/254/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
-#EXTINF:-1 ,Зоо ТВ
-https://rt-cache1.peers.tv/streaming/zoo_tv/16/tvrecw/playlist.m3u8
 #EXTINF:-1 ,ZooПарк
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1 ,ZooПарк
@@ -163,14 +161,10 @@ http://nl01.spr24.net/326/mpegts?token=rCEqTFvRhtEvXt
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,Oхотник и Рыболов HD
 https://plbl.m9.lfstrm.tv/ohotnik_i_rybolov_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:-1 ,Охотник и Рыболов HD
-http://nl01.spr24.net/144/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Outdoor channel
 http://russia.livetv.az/russia/outdoor_channel/playlist.m3u8
 #EXTINF:-1 ,Бобер
 http://185.32.44.154/bobertv/index.m3u8
-#EXTINF:-1 ,Трофей HD
-http://50.7.172.58:8081/575/index.m3u8?wmsAuthSign=1580880095p6i341i712i26Se087f62cdf17f7beff1a0c3e57672ba6
 #EXTINF:-1 ,Моя планета
 http://185.32.44.154/moyaplaneta/index.m3u8
 #EXTINF:-1 ,Моя планета
@@ -197,8 +191,6 @@ https://plbl.m9.lfstrm.tv/travel_and_adv/normal/1/index.m3u8
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
 https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,Телепутешествия
-https://rt-cache1.peers.tv/streaming/teleputeshestviya/16/tvrecw/playlist.m3u8
 #EXTINF:-1 ,Большая Азия HD
 https://plbl.m9.lfstrm.tv/bolshaya_asia_hd/normal/3/index.m3u8?account=e26beeeca5b722cf&amp;client=4eeab7d1d6bb1ef6&amp;env=s&amp;expires=1575381600&amp;mpltlh=auto&amp;origin=m9-tproxy&amp;profile=a8fd0c03f7290a64&amp;provider_id=5c37579b22855081e5d3f787®ion=ru.volga.nizhny_novgorod-obl.nizhny+novgorod&amp;token=tulluv3ZIbAb5F2Q1faXeg&amp;user=54432fea6b06b42f&amp;wlid=smotreshka
 #EXTINF:-1 ,Большая Азия
@@ -237,9 +229,9 @@ http://nl01.spr24.net/203/mpegts?token=rCEqTFvRhtEvXt
 http://185.32.44.154/discoverychannel/index.m3u8
 #EXTINF:-1 ,Discovery ChannelHD
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/80/stream.m3u8
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 ,Discovery HD
 http://nl01.spr24.net/267/mpegts?token=rCEqTFvRhtEvXt
-#EXTINF:-1,Discovery HD Showcase
+#EXTINF:-1 ,Discovery HD Showcase
 http://nl01.spr24.net/216/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Discovery Science
 http://185.32.44.154/discoveryscience/index.m3u8
@@ -269,9 +261,6 @@ http://nl01.spr24.net/259/mpegts?token=rCEqTFvRhtEvXt
 http://185.32.44.154/galaxytv/index.m3u8
 #EXTINF:-1 ,Fine Living
 http://78.129.228.178/iptv/7E9L6L8AV8KN99/735/index.m3u8
-#EXTINF:-1 ,Da Vinci learning
-
-https://rt-cache1.peers.tv/streaming/da_vinci/16/tvrecw/playlist.m3u8
 #EXTINF:-1 ,Eureka HD
 https://plbl.m9.lfstrm.tv/eureka_hd/normal/3/index.m3u8?account=b61070fc2bc6614c&amp;client=689fed54f633d6a4&amp;env=s&amp;expires=1582279200&amp;mpltlh=auto&amp;origin=m9-live1&amp;profile=a02e2f8f035f63ee&amp;provider_id=56f1230a4e2e675d26000075®ion=ru.north-west.saint_petersburg&amp;token=SzquK77mv-_tlknv3ipb9w&amp;user=f6c78e8b2e17d367&amp;wlid=smotreshka
 #EXTINF:-1 ,Ocean tv HD
@@ -492,8 +481,6 @@ http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 http://185.32.44.154/osnaction/index.m3u8
 #EXTINF:-1 ,Osn movies
 http://185.32.44.154/osnmovies/index.m3u8
-#EXTINF:-1 ,Че
-https://cdn.mytouchtv.tv/che.m3u8?bandwidth=1025&e=1584983111&playlistlength=25&shift=0&sid=media_server02&token=ed8369f0c8531f872111811c327b0a14&user=1801
 #EXTINF:-1 ,Че (+2)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 ,Че (+4)
@@ -520,8 +507,6 @@ https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/3/index.m3u8?account=3f378f783
 http://nl01.spr24.net/213/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Cупер HD
 https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
-#EXTINF:-1 ,Cупер
-https://cdn.mytouchtv.tv/super.m3u8?bandwidth=524&e=1584909747&playlistlength=25&shift=0&sid=media_server01&token=dfb125161f705c1b93298383461dac92&user=1801
 #EXTINF:-1 ,Cупер (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
 #EXTINF:-1 ,Cупер (+4)
@@ -536,8 +521,6 @@ http://185.32.44.154/nostalgiya/index.m3u8
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,ANEKDOT TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 ,PBN Music
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
 #EXTINF:-1 ,Kral Tv
 http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
 #EXTINF:-1 ,Kral Pop
@@ -624,8 +607,6 @@ https://tv.city.bg/play/tshls/citytv/3.m3u8
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1 ,Senzi
 http://109.74.144.130/live/senzitest/playlist.m3u8
-#EXTINF:-1 ,ALB MUSIC HD
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 ,Opoja TV HD
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 ,Retro Music TV
@@ -654,8 +635,6 @@ http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8?q=?seg-user-zona-iptv
 http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
 #EXTINF:-1 ,Melody Channel TV
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 ,IndieWave HD
-https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 #EXTINF:-1 ,88 FM Stereo
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
 #EXTINF:-1 ,SONG TV HD (Russia)
