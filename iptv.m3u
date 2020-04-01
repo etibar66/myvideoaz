@@ -24,7 +24,7 @@ http://s34351.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
 #EXTINF:-1 ,Россия
 http://185.32.44.154/rossiya1/index.m3u8
 #EXTINF:-1 ,Россия 1 HD
-http://nl01.spr24.net/129/mpegts?token=rCEqTFvRhtEvXt
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
 #EXTINF:-1 ,Россия 1 (+3)
@@ -43,8 +43,6 @@ http://s20441.cdn.ngenix.net/hls/CH_R04_OTT_DV_MGDN_ROSSIA1_MGDN_OTT/variant.m3u
 http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8?version=2
 #EXTINF:-1 ,НТВ
 http://185.32.44.154/ntvplus/index.m3u8
-#EXTINF:-1 ,НТВ HD
-http://nl01.spr24.net/253/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,НТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
 #EXTINF:-1 ,НТВ (+4)
@@ -59,8 +57,6 @@ http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_MURM_NTV/variant.m3u8?
 http://185.32.44.154/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
-#EXTINF:-1 ,Рен ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 ,Рен ТВ
 https://cdn.mytouchtv.tv/hlsl/10/REN_TV/REN_TV_1/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
@@ -77,8 +73,6 @@ https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f
 https://cdn.mytouchtv.tv/hlsl/10/TNT/TNT_1/index.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://plbl.m9.lfstrm.tv/tntmoskva_hd_ott/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-live4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:-1 ,ТНТ HD
-http://nl01.spr24.net/301/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #EXTINF:-1 ,ТНТ (+2)
@@ -131,12 +125,8 @@ https://plbl.m9.lfstrm.tv/nat_geo_wild/normal/1/index.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1 ,Nat Geo Wild HD
 https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
-#EXTINF:-1 ,Nat Geo Wild HD
-http://nl01.spr24.net/124/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
-#EXTINF:-1 ,Animal Planet HD
-http://nl01.spr24.net/254/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:-1 ,ZooПарк
@@ -151,12 +141,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3
 https://plbl.m9.lfstrm.tv/dialogi_o_ribalke_hd/normal/index.m3u8
 #EXTINF:-1 ,Дикий
 http://37.235.156.204:81/udp/225.50.64.51:1234
-#EXTINF:-1 ,Дикий
-http://nl01.spr24.net/6754/index.m3u8?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Дикая Рыбалка HD
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/116/stream.m3u8
-#EXTINF:-1 ,Дикая рыбалка HD
-http://nl01.spr24.net/326/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,Oхотник и Рыболов HD
@@ -181,8 +167,6 @@ http://185.32.44.154/rtg/index.m3u8
 https://cdn.mytouchtv.tv/hlsl/1/RTG_TV/02.m3u8
 #EXTINF:-1 ,Travel Channel
 http://185.32.44.154/travelchannel/index.m3u8
-#EXTINF:-1 ,Travel Channel HD
-http://nl01.spr24.net/261/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Travel+Adventure
 http://188.113.190.12/106/video.m3u8
 #EXTINF:-1 ,Travel+Adventure
@@ -195,8 +179,6 @@ https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
 https://plbl.m9.lfstrm.tv/bolshaya_asia_hd/normal/3/index.m3u8?account=e26beeeca5b722cf&amp;client=4eeab7d1d6bb1ef6&amp;env=s&amp;expires=1575381600&amp;mpltlh=auto&amp;origin=m9-tproxy&amp;profile=a8fd0c03f7290a64&amp;provider_id=5c37579b22855081e5d3f787®ion=ru.volga.nizhny_novgorod-obl.nizhny+novgorod&amp;token=tulluv3ZIbAb5F2Q1faXeg&amp;user=54432fea6b06b42f&amp;wlid=smotreshka
 #EXTINF:-1 ,Большая Азия
 https://cdn.mytouchtv.tv/hlsl/10/Bolshaya_Aziya/Bolshaya_Aziya_1/index.m3u8
-#EXTINF:-1 ,Глазами туриста HD
-http://nl01.spr24.net/252/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1 ,DocuBox
@@ -223,16 +205,10 @@ http://185.32.44.154/nationalgeographic/index.m3u8
 https://cdn.mytouchtv.tv/hlsl/1/NationalGeographic/01.m3u8
 #EXTINF:-1 ,National Geographic HD
 https://cdn.mytouchtv.tv/hlsl/10/National_Geographic_HD/National_Geographic_HD_2/index.m3u8
-#EXTINF:-1 ,National Geographic HD
-http://nl01.spr24.net/203/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Discovery Channel
 http://185.32.44.154/discoverychannel/index.m3u8
 #EXTINF:-1 ,Discovery ChannelHD
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/80/stream.m3u8
-#EXTINF:-1 ,Discovery HD
-http://nl01.spr24.net/267/mpegts?token=rCEqTFvRhtEvXt
-#EXTINF:-1 ,Discovery HD Showcase
-http://nl01.spr24.net/216/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Discovery Science
 http://185.32.44.154/discoveryscience/index.m3u8
 #EXTINF:-1 ,Discovery Science HD
@@ -255,8 +231,6 @@ http://185.32.44.154/istoriya/index.m3u8
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/105/stream.m3u8
 #EXTINF:-1 ,History
 http://185.32.44.154/history/index.m3u8
-#EXTINF:-1 ,History HD
-http://nl01.spr24.net/259/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Galaxy-TV
 http://185.32.44.154/galaxytv/index.m3u8
 #EXTINF:-1 ,Fine Living
@@ -279,8 +253,6 @@ https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 http://185.32.44.154/zaqorodnayajizn/index.m3u8
 #EXTINF:-1 ,Техно 24
 http://185.32.44.154/24texno/index.m3u8
-#EXTINF:-1 ,H2 HD
-http://nl01.spr24.net/205/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Наука
 http://185.32.44.154/nauka/index.m3u8
 #EXTINF:-1 ,Кто есть кто
@@ -371,12 +343,8 @@ http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/143/stream.m3u8
 http://188.113.190.12/107/video.m3u8
 #EXTINF:-1 ,Дом кино
 http://185.32.44.154/domkino/index.m3u8
-#EXTINF:-1 ,Дом кино
-http://nl01.spr24.net/333/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Дом кино премиум HD
 https://cdn.mytouchtv.tv/hlsl/10/Dom_Kino_Premium_HD/Dom_Kino_Premium_HD_1/index.m3u8
-#EXTINF:-1 ,Дом кино премиум HD
-http://nl01.spr24.net/108/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Film Box (RU)
 http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/1071/index.m3u8
 #EXTINF:-1 ,Супер HD
@@ -411,10 +379,6 @@ http://188.113.190.12/214/index.m3u8
 http://185.32.44.154/kinomiks/index.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://185.32.44.154/kinopremerahd/index.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-http://nl01.spr24.net/209/mpegts?token=rCEqTFvRhtEvXt
-#EXTINF:-1 ,КиноПремиум HD
-http://nl01.spr24.net/121/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Киносвидание
 http://185.32.44.154/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносвидание
@@ -441,16 +405,6 @@ http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/257/stream.m3u8
 http://188.113.190.12/316/video.m3u8
 #EXTINF:-1 ,Мужское кино
 https://plbl.m9.lfstrm.tv/interesnoetv/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:-1 ,Мужское кино
-http://nl01.spr24.net/287/mpegts?token=rCEqTFvRhtEvXt
-#EXTINF:-1 ,Остросюжетное HD
-http://nl01.spr24.net/122/mpegts?token=rCEqTFvRhtEvXt
-#EXTINF:-1 ,ViP Comedy
-http://nl01.spr24.net/102/mpegts?token=rCEqTFvRhtEvXt
-#EXTINF:-1 ,ViP Megahit
-http://nl01.spr24.net/103/mpegts?token=rCEqTFvRhtEvXt
-#EXTINF:-1 ,ViP Premiere
-http://nl01.spr24.net/104/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Кино ТВ
 http://185.32.44.154/kinotv/index.m3u8
 #EXTINF:-1 ,Еврокино
@@ -459,10 +413,6 @@ http://185.32.44.154/eurokino/index.m3u8
 http://185.32.44.154/foxrussia/index.m3u8
 #EXTINF:-1 ,НСТ
 http://185.32.44.154/nst/index.m3u8
-#EXTINF:-1 ,НСТ
-http://nl01.spr24.net/312/mpegts?token=rCEqTFvRhtEvXt
-#EXTINF:-1 ,Страшное HD
-http://nl01.spr24.net/218/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Киноужас HD
 http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/2056/index.m3u8
 #EXTINF:-1 ,Sony Sci-Fi
@@ -503,8 +453,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
 #EXTINF:-1 ,Пятница HD
 https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-live4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:-1 ,Пятница HD
-http://nl01.spr24.net/213/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Cупер HD
 https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
 #EXTINF:-1 ,Cупер (+2)
@@ -755,32 +703,18 @@ http://185.32.44.154/nashfutbol/index.m3u8
 http://185.32.44.154/futbol/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://185.32.44.154/futbol1/index.m3u8
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://nl01.spr24.net/130/mpegts?token=rCEqTFvRhtEvXt
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://nl01.spr24.net/131/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Матч! Футбол 2
 http://185.32.44.154/futbol2/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.32.44.154/futbol3/index.m3u8
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://nl01.spr24.net/132/mpegts?token=rCEqTFvRhtEvXt
-#EXTINF:-1 ,Матч! Премьер HD
-http://nl01.spr24.net/133/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Матч! Боец
 http://185.32.44.154/boets/index.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://nl01.spr24.net/230/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Бокс ТВ
 http://185.32.44.154/bokstv/index.m3u8
-#EXTINF:-1 ,Бокс ТВ
-http://nl01.spr24.net/346/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Fightbox
 http://188.113.190.12/147/video.m3u8
 #EXTINF:-1 ,Viasat Sport
 http://185.32.44.154/viasatsport/index.m3u8
-#EXTINF:-1 ,VIASAT SPORT HD
-http://nl01.spr24.net/106/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Viasat Sport Baltics
 http://185.32.44.154/viasatsport/index.m3u8
 #EXTINF:-1 ,Setanta Sport
@@ -795,8 +729,6 @@ http://185.32.44.154/euronews/index.m3u8
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 ,Россия24
 https://a3569455795-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b600000.m3u8
-#EXTINF:-1 ,Россия 24
-http://nl01.spr24.net/302/mpegts?token=rCEqTFvRhtEvXt
 #EXTINF:-1 ,Россия 24
 https://cdn.mytouchtv.tv/hlsl/10/Rossiya_24/Rossiya_24_1/index.m3u8
 #EXTINF:-1 ,Известия ТВ FHD
