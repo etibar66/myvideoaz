@@ -127,6 +127,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
 https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
+#EXTINF:-1 ,В мире животных HD
+https://plbl.m9.lfstrm.tv/animal_family_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1 ,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:-1 ,ZooПарк
@@ -171,6 +173,8 @@ http://185.32.44.154/travelchannel/index.m3u8
 http://188.113.190.12/106/video.m3u8
 #EXTINF:-1 ,Travel+Adventure
 https://plbl.m9.lfstrm.tv/travel_and_adv/normal/1/index.m3u8
+#EXTINF:-1 ,Приключения HD
+https://plbl.m9.lfstrm.tv/teletravel_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1 ,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
@@ -243,6 +247,8 @@ http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 http://91.192.168.242:9091
 #EXTINF:-1 ,Морской
 https://cdn.mytouchtv.tv/hlsl/2/Nautical_Channel_HD/01.m3u8
+#EXTINF:-1 ,Драйв
+https://plbl.m9.lfstrm.tv/drive/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr1&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1 ,Da Vinci Learning
 http://185.32.44.154/davinchilearning/index.m3u8
 #EXTINF:-1 ,Luxury
