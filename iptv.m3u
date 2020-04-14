@@ -59,6 +59,8 @@ http://185.32.44.154/rentv/index.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
 #EXTINF:-1 ,Рен ТВ
 https://cdn.mytouchtv.tv/hlsl/10/REN_TV/REN_TV_1/index.m3u8
+#EXTINF:-1 ,Рен ТВ
+https://cdn.mytouchtv.tv/hlsl/10/REN_TV/REN_TV_2/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1 ,Рен ТВ (+7)
@@ -241,12 +243,12 @@ http://185.32.44.154/galaxytv/index.m3u8
 http://78.129.228.178/iptv/7E9L6L8AV8KN99/735/index.m3u8
 #EXTINF:-1 ,Eureka HD
 https://plbl.m9.lfstrm.tv/eureka_hd/normal/3/index.m3u8?account=b61070fc2bc6614c&amp;client=689fed54f633d6a4&amp;env=s&amp;expires=1582279200&amp;mpltlh=auto&amp;origin=m9-live1&amp;profile=a02e2f8f035f63ee&amp;provider_id=56f1230a4e2e675d26000075®ion=ru.north-west.saint_petersburg&amp;token=SzquK77mv-_tlknv3ipb9w&amp;user=f6c78e8b2e17d367&amp;wlid=smotreshka
-#EXTINF:-1 ,Ocean tv HD
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 #EXTINF:-1 ,Ocean tv
 http://91.192.168.242:9091
 #EXTINF:-1 ,Морской
 https://cdn.mytouchtv.tv/hlsl/2/Nautical_Channel_HD/01.m3u8
+#EXTINF:-1 ,Морской
+https://cdn.mytouchtv.tv/hlsl/2/SeaTV/02.m3u8
 #EXTINF:-1 ,Драйв
 https://plbl.m9.lfstrm.tv/drive/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr1&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1 ,Da Vinci Learning
@@ -333,16 +335,12 @@ http://185.32.44.154/nashenovoekino/index.m3u8
 http://185.32.44.154/russkiyiluzion/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://188.113.190.12/44/video.m3u8
-#EXTINF:-1 ,Русский детектив
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/145/stream.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://185.32.44.154/russkiybetseller/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://188.113.190.12/100/video.m3u8
 #EXTINF:-1 ,Русский детектив
 http://188.113.190.12/164/video.m3u8
-#EXTINF:-1 ,Русский детектив
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/145/stream.m3u8
 #EXTINF:-1 ,Русский Роман
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/143/stream.m3u8
 #EXTINF:-1 ,Русский Роман
@@ -435,8 +433,6 @@ http://185.32.44.154/paramauntcomedy/index.m3u8
 http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:-1 ,Osn action
 http://185.32.44.154/osnaction/index.m3u8
-#EXTINF:-1 ,Osn movies
-http://185.32.44.154/osnmovies/index.m3u8
 #EXTINF:-1 ,Че (+2)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 ,Че (+4)
@@ -490,21 +486,15 @@ http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
 #EXTINF:-1 ,KRAL POP TV
 http://0ajuu84p.rocketcdn.com/kralpop_240/chunklist.m3u8
 #EXTINF:-1 ,DreamTurk
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1 ,DreamTurk
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1 ,POWER HD
 http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
 #EXTINF:-1 ,Retro music 80 – 90-р
 http://v3.catcast.me/content/36987/index.m3u8
-#EXTINF:-1 ,1_HD
-https://cdn.mytouchtv.tv/hlsl/10/1_HD_Music/1_HD_Music_2/index.m3u8
 #EXTINF:-1 ,Музыка Первого
 http://185.32.44.154/muzika1/index.m3u8
 #EXTINF:-1 ,RU.TV
 http://185.32.44.154/rutv/index.m3u8
-#EXTINF:-1 ,Song tv ru
-https://songtvru.ru/lhigh/playlist.m3u8
 #EXTINF:-1 ,Muz.Play TV
 http://hls.goodgame.ru/hls/154446.m3u8
 #EXTINF:-1 ,Муз ТВ
@@ -591,8 +581,6 @@ http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 ,88 FM Stereo
 http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
-#EXTINF:-1 ,SONG TV HD (Russia)
-https://songtvru.ru/hd/playlist.m3u8
 #EXTINF:-1 ,TVM
 http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
 #EXTINF:-1 ,Eurodance 90
@@ -639,10 +627,6 @@ http://live.trk-luch.ru/hls/live_mid.m3u8
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8?version=2
 #EXTINF:-1 ,Осетия Ирыстон HD
 http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8?version=2
-#EXTINF:-1 ,ОТВ (+7)
-http://s91030.cdn.ngenix.net/hls/CH_R01_OTTOTV/variant.m3u8?version=2
-#EXTINF:-1 ,ОТВ (+7) (Владивосток)
-http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTTOTV/variant.m3u8?version=2
 #EXTINF:-1 ,ОТВ (Екатеринбург)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8?version=2
 #EXTINF:-1 ,ОТВ (Сахалин)
@@ -665,8 +649,6 @@ http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:-1 ,4 канал Украина
 http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1 ,Киев ТВ
-http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
 #EXTINF:-1 ,Одеса
 http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
 #EXTINF:-1 ,Сонце
@@ -743,5 +725,9 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 #EXTINF:-1 ,Москва 24
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=
+#EXTINF:-1 ,Москва 24
+https://cdn.mytouchtv.tv/hlsl/10/Moskva_24/Moskva_24_2/index.m3u8
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 ,Время
+https://cdn.mytouchtv.tv/hlsl/10/Vremya/Vremya_1/index.m3u8
