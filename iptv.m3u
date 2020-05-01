@@ -130,29 +130,40 @@ https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:-1 ,В мире животных HD
-https://plbl.m9.lfstrm.tv/animal_family_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:-1 ,Живая Планета
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAnimalFamelyHD&login=PanGedgy&key=wC9xUmt#EXTINF:-1 ,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:-1 ,ZooПарк
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1 ,ZooПарк
 https://cdn.mytouchtv.tv/hlsl/10/Zoopark/Zoopark_3/index.m3u8
+#EXTINF:-1 ,Зоо ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZoo75e&login=PanGedgy&key=wC9xUmt
 #EXTINF:-1 ,Домашние животные
 http://185.32.44.154/domashniejivotnie/index.m3u8
+#EXTINF:-1 ,Пес и Ко
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPesiKo&login=PanGedgy&key=wC9xUmt
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке HD
 https://plbl.m9.lfstrm.tv/dialogi_o_ribalke_hd/normal/index.m3u8
 #EXTINF:-1 ,Дикий
 http://37.235.156.204:81/udp/225.50.64.51:1234
+#EXTINF:-1 ,Дикий
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDikiy&login=PanGedgy&key=wC9xUmt
 #EXTINF:-1 ,Дикая Рыбалка HD
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/116/stream.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
+#EXTINF:-1 ,Дикая охота HD
+http://s1.only4.tv/5518/video.m3u8?token=FJ9iXfYajH
 #EXTINF:-1 ,Oхотник и Рыболов HD
 https://plbl.m9.lfstrm.tv/ohotnik_i_rybolov_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1 ,Outdoor channel
 http://russia.livetv.az/russia/outdoor_channel/playlist.m3u8
+#EXTINF:-1 ,Фауна
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFauna&login=PanGedgy&key=wC9xUmt
+#EXTINF:-1 ,Терра
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTerra&login=PanGedgy&key=wC9xUmt
 #EXTINF:-1 ,Бобер
 http://185.32.44.154/bobertv/index.m3u8
 #EXTINF:-1 ,Моя планета
@@ -165,6 +176,8 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000
 http://188.113.190.12/56/video.m3u8
 #EXTINF:-1 ,Моя планета HD
 https://plbl.m9.lfstrm.tv/iq_hd/normal/3/index.m3u8?account=4d837b77a2610a6e&amp;client=689fed54f633d6a4&amp;env=s&amp;expires=1581962400&amp;mpltlh=auto&amp;origin=m9-live1&amp;profile=3a5c7adecb8ad667&amp;provider_id=5b0fdb8557971859510a2bdb®ion=&amp;token=ayN8vcUrZ3alc5UHUw81qg&amp;user=c4e905a972589199&amp;wlid=smotreshka
+#EXTINF:-1 ,Неизвестная планета
+https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1 ,RTG TV
 http://185.32.44.154/rtg/index.m3u8
 #EXTINF:-1 ,RTG TV
@@ -172,9 +185,9 @@ https://cdn.mytouchtv.tv/hlsl/1/RTG_TV/02.m3u8
 #EXTINF:-1 ,Travel Channel
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Travel+Adventure
-http://188.113.190.12/106/video.m3u8
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/travel-adventure.m3u8
 #EXTINF:-1 ,Travel+Adventure
-https://plbl.m9.lfstrm.tv/travel_and_adv/normal/1/index.m3u8
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTravelAdventureNTV&login=PanGedgy&key=wC9xUmt
 #EXTINF:-1 ,Приключения HD
 https://plbl.m9.lfstrm.tv/teletravel_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1 ,Ugra Travel
@@ -185,6 +198,12 @@ https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
 https://plbl.m9.lfstrm.tv/bolshaya_asia_hd/normal/3/index.m3u8?account=e26beeeca5b722cf&amp;client=4eeab7d1d6bb1ef6&amp;env=s&amp;expires=1575381600&amp;mpltlh=auto&amp;origin=m9-tproxy&amp;profile=a8fd0c03f7290a64&amp;provider_id=5c37579b22855081e5d3f787®ion=ru.volga.nizhny_novgorod-obl.nizhny+novgorod&amp;token=tulluv3ZIbAb5F2Q1faXeg&amp;user=54432fea6b06b42f&amp;wlid=smotreshka
 #EXTINF:-1 ,Большая Азия
 https://cdn.mytouchtv.tv/hlsl/10/Bolshaya_Aziya/Bolshaya_Aziya_1/index.m3u8
+#EXTINF:-1 ,Большая Азия HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fbolshajaasia&login=PanGedgy&key=wC9xUmt
+#EXTINF:-1 ,Глазами туриста HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FGlazamiTuristaHD&login=PanGedgy&key=wC9xUmthttp://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fbolshajaasia&login=PanGedgy&key=wC9xUmt
+#EXTINF:-1 ,Телепутешествия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTeleputishestvie&login=PanGedgy&key=wC9xUmt
 #EXTINF:-1 ,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1 ,DocuBox
@@ -197,10 +216,16 @@ http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/98/stream.m3u8
 http://188.113.190.12/193/video.m3u8
 #EXTINF:-1 ,Id xtra
 http://185.32.44.154/idextra/index.m3u8
+#EXTINF:-1 ,Investigation Discovery CEE
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FIDXEuropa&login=PanGedgy&key=wC9xUmt
+#EXTINF:-1 ,Id xtra
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/id-xtra.m3u8
 #EXTINF:-1 ,CBS Reality
 http://185.32.44.154/cbsreality/index.m3u8
 #EXTINF:-1 ,CBS Reality
 http://78.129.228.178/iptv/3NF96AQ32YGTUR/706/index.m3u8
+#EXTINF:-1 ,CBS Reality
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FCBSReality&login=PanGedgy&key=wC9xUmt
 #EXTINF:-1 ,TLC
 http://185.32.44.154/tlc/index.m3u8
 #EXTINF:-1 ,TLC
@@ -471,6 +496,10 @@ http://185.32.44.154/nostalgiya/index.m3u8
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,ANEKDOT TV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Сарафан
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSarafan&login=PanGedgy&key=wC9xUmt
+#EXTINF:-1 ,Сарафан
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sarafan.m3u8
 #EXTINF:-1 ,Kral Tv
 http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
 #EXTINF:-1 ,Kral Pop
