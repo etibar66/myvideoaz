@@ -786,3 +786,6 @@ http://185.32.44.154/kanal7/index.m3u8
 #EXTINF:-1,akilli tv 
 http://185.32.44.154/akillitv/index.m3u8 
 #EXTINF:-1,TRT1 
+http://185.32.44.154/trt1/index.m3u8 
+#EXTINF:-1,TRT avaz
+http://185.32.44.154/trtavaz/index.m3u8 
