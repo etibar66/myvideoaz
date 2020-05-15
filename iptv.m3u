@@ -137,8 +137,8 @@ http://185.32.44.154/jivayaplaneta/index.m3u8
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1 ,ZooПарк
 https://cdn.mytouchtv.tv/hlsl/10/Zoopark/Zoopark_3/index.m3u8
-#EXTINF:-1 ,Зоо ТВ
-http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZoo75e&login=PanGedgy&key=wC9xUmt
+#EXTINF:-1 ,pes i kot
+https://mhd.limehd.tv/p/L1Igbm9JVmoJkKZTvdOWSQ,1589489695/streaming/pesiko/324/vl2w/playlist.m3u8
 #EXTINF:-1 ,Домашние животные
 http://185.32.44.154/domashniejivotnie/index.m3u8
 #EXTINF:-1 ,Love Nature
@@ -737,3 +737,52 @@ https://cdn.mytouchtv.tv/hlsl/10/Moskva_24/Moskva_24_2/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,Время
 https://cdn.mytouchtv.tv/hlsl/10/Vremya/Vremya_1/index.m3u8
+#EXTINF:-1,aztv 
+http://185.32.44.154/aztv/index.m3u8
+#EXTINF:-1,Ictimaitv
+http://185.32.44.154/ictimaitv/index.m3u8 
+#EXTINF:-1,ARB 
+http://185.32.44.154/arb/index.m3u8 
+#EXTINF:-1,Azad Tv
+http://185.32.44.154/azadazerbaycan/index.m3u8
+#EXTINF:-1,ATV-2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1,ATV-4
+http://85.132.81.184:8080/atv-4/index.m3u8 
+#EXTINF:-1,Xezer Tv
+http://185.32.44.154/xezertv/index.m3u8
+#EXTINF:-1,Space tv
+http://185.32.44.154/spacetv/index.m3u8   
+#EXTINF:-1,Dalga tv
+http://185.32.44.154/dalgatv/index.m3u8
+#EXTINF:-1,Lider tv
+http://185.32.44.154/lidertv/index.m3u8 
+#EXTINF:-1,medeniyyet 
+http://185.32.44.154/medeniyyet/index.m3u8
+#EXTINF:-1,Dunya Tv
+http://185.32.44.154/dunyatv/index.m3u8
+#EXTINF:-1,Kepez TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8 
+#EXTINF:-1,ARB24
+http://185.32.44.154/arb24/index.m3u8   
+#EXTINF:-1,CBC 
+http://185.32.44.154/cbc/index.m3u8 
+#EXTINF:-1,atv turk 
+http://185.32.44.154/atvturk/index.m3u8
+#EXTINF:-1,Show tv
+http://185.32.44.154/showtv/index.m3u8  
+#EXTINF:-1,tv8
+http://185.32.44.154/tv8/index.m3u8 
+#EXTINF:-1,tv8hd
+http://185.32.44.154/tv8hd/index.m3u8
+#EXTINF:-1,STAR TV 
+http://185.32.44.154/startv/index.m3u8 
+#EXTINF:-1,Kanal D 
+http://185.32.44.154/kanald/index.m3u8 
+#EXTINF:-1,TV 2 
+http://185.32.44.154/tv2/index.m3u8
+#EXTINF:-1,Kanal 7
+http://185.32.44.154/kanal7/index.m3u8  
+#EXTINF:-1,akilli tv 
+http://185.32.44.154/akillitv/index.m3u8 
+#EXTINF:-1,TRT1 
