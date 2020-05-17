@@ -115,6 +115,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
 http://185.32.44.154/zvezda/index.m3u8
 #EXTINF:-1 ,Звезда
 https://cdn.mytouchtv.tv/hlsl/10/Zvezda/Zvezda_1/index.m3u8
+#EXTINF:-1 ,Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 ,Мир
 http://sc.id-tv.kz/Mir_38_39.m3u8
 #EXTINF:-1 ,МИР Premium
@@ -122,37 +124,27 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
-https://plbl.m9.lfstrm.tv/nat_geo_wild/normal/1/index.m3u8
-#EXTINF:-1 ,Nat Geo Wild
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1 ,Nat Geo Wild HD
 https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
-#EXTINF:-1 ,В мире животных HD
-http://s1.only4.tv/5599/video.m3u8?token=FJ9iXfYajH
 #EXTINF:-1 ,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:-1 ,ZooПарк
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1 ,ZooПарк
 https://cdn.mytouchtv.tv/hlsl/10/Zoopark/Zoopark_3/index.m3u8
-#EXTINF:-1 ,pes i kot
-https://mhd.limehd.tv/p/L1Igbm9JVmoJkKZTvdOWSQ,1589489695/streaming/pesiko/324/vl2w/playlist.m3u8
 #EXTINF:-1 ,Домашние животные
 http://185.32.44.154/domashniejivotnie/index.m3u8
 #EXTINF:-1 ,Love Nature
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 ,Диалоги о рыбалке HD
-http://s1.only4.tv/2105/video.m3u8?token=FJ9iXfYajH
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 ,Дикая Рыбалка HD
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/116/stream.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
-#EXTINF:-1 ,Дикая охота HD
-http://s1.only4.tv/5518/video.m3u8?token=FJ9iXfYajH
-#EXTINF:-1 ,Oхотник и Рыболов HD
-https://plbl.m9.lfstrm.tv/ohotnik_i_rybolov_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:-1 ,Охота и рыбалка
+http://178.217.72.66:80/225.201.2.96/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Outdoor channel
 http://russia.livetv.az/russia/outdoor_channel/playlist.m3u8
 #EXTINF:-1 ,Бобер
@@ -165,8 +157,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Моя планета
 http://188.113.190.12/56/video.m3u8
-#EXTINF:-1 ,Моя планета HD
-https://plbl.m9.lfstrm.tv/iq_hd/normal/3/index.m3u8?account=4d837b77a2610a6e&amp;client=689fed54f633d6a4&amp;env=s&amp;expires=1581962400&amp;mpltlh=auto&amp;origin=m9-live1&amp;profile=3a5c7adecb8ad667&amp;provider_id=5b0fdb8557971859510a2bdb®ion=&amp;token=ayN8vcUrZ3alc5UHUw81qg&amp;user=c4e905a972589199&amp;wlid=smotreshka
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1 ,RTG TV
@@ -179,8 +169,6 @@ https://cdn.mytouchtv.tv/hlsl/1/RTG_TV/02.m3u8
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Travel+Adventure
 http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/travel-adventure.m3u8
-#EXTINF:-1 ,Travel+Adventure
-http://s1.only4.tv/713/video.m3u8?token=FJ9iXfYajH
 #EXTINF:-1 ,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
@@ -189,6 +177,8 @@ https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
 https://cdn.mytouchtv.tv/hlsl/10/Bolshaya_Aziya/Bolshaya_Aziya_1/index.m3u8
 #EXTINF:-1 ,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1 ,HD Life
+http://89.106.234.3:80/hdl_34_35.m3u8
 #EXTINF:-1 ,DocuBox
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:-1 ,RT Д Русский
@@ -217,8 +207,6 @@ https://cdn.mytouchtv.tv/hlsl/1/NationalGeographic/01.m3u8
 https://cdn.mytouchtv.tv/hlsl/10/National_Geographic_HD/National_Geographic_HD_2/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://185.32.44.154/discoverychannel/index.m3u8
-#EXTINF:-1 ,Discovery ChannelHD
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/80/stream.m3u8
 #EXTINF:-1 ,Discovery Science
 http://185.32.44.154/discoveryscience/index.m3u8
 #EXTINF:-1 ,Discovery Science HD
@@ -245,16 +233,12 @@ http://185.32.44.154/history/index.m3u8
 http://185.32.44.154/galaxytv/index.m3u8
 #EXTINF:-1 ,Fine Living
 http://78.129.228.178/iptv/7E9L6L8AV8KN99/735/index.m3u8
-#EXTINF:-1 ,Eureka HD
-https://plbl.m9.lfstrm.tv/eureka_hd/normal/3/index.m3u8?account=b61070fc2bc6614c&amp;client=689fed54f633d6a4&amp;env=s&amp;expires=1582279200&amp;mpltlh=auto&amp;origin=m9-live1&amp;profile=a02e2f8f035f63ee&amp;provider_id=56f1230a4e2e675d26000075®ion=ru.north-west.saint_petersburg&amp;token=SzquK77mv-_tlknv3ipb9w&amp;user=f6c78e8b2e17d367&amp;wlid=smotreshka
 #EXTINF:-1 ,Ocean tv
 http://91.192.168.242:9091
 #EXTINF:-1 ,Морской
 https://cdn.mytouchtv.tv/hlsl/2/Nautical_Channel_HD/01.m3u8
 #EXTINF:-1 ,Морской
 https://cdn.mytouchtv.tv/hlsl/2/SeaTV/02.m3u8
-#EXTINF:-1 ,Драйв
-https://plbl.m9.lfstrm.tv/drive/normal/1/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-dvr1&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1 ,Da Vinci Learning
 http://185.32.44.154/davinchilearning/index.m3u8
 #EXTINF:-1 ,Luxury
@@ -271,8 +255,6 @@ http://185.32.44.154/nauka/index.m3u8
 http://185.32.44.154/ktoestkto/index.m3u8
 #EXTINF:-1 ,Мужской
 http://188.113.190.12/64/index.m3u8
-#EXTINF:-1 ,Поехали!
-http://s1.only4.tv/805/video.m3u8?token=FJ9iXfYajH
 #EXTINF:-1 ,Совершенно секретно
 http://185.32.44.154/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
@@ -289,12 +271,12 @@ http://185.32.44.154/avtoplyus/index.m3u8
 http://185.32.44.154/avto24/index.m3u8
 #EXTINF:-1 ,1 авто
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 ,CBC
+https://besttv520.aoslive.it.best-tv.com/egress/bhandler/ikomg/cbc/chunklist_b2076672.m3u8
 #EXTINF:-1 ,Zigfreed TV
 http://zigfreed.cc.ua/channel/index.m3u8
 #EXTINF:-1 ,Индийское кино
 http://185.32.44.154/indiskoekino/index.m3u8
-#EXTINF:-1 ,Индийское кино
-https://plbl.m9.lfstrm.tv/indiya/normal/1/index.m3u8
 #EXTINF:-1 ,Zee TV
 http://188.113.190.12/51/video.m3u8
 #EXTINF:-1 ,Zee TV
@@ -305,8 +287,6 @@ https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 http://185.32.44.154/ctc/index.m3u8
 #EXTINF:-1 ,СТС
 https://cdn.mytouchtv.tv/hlsl/10/STS/STS_3/index.m3u8
-#EXTINF:-1 ,СТС HD
-https://plbl.m9.lfstrm.tv/sts_hd/normal/3/index.m3u8?account=4d837b77a2610a6e&amp;client=689fed54f633d6a4&amp;env=s&amp;expires=1581962400&amp;mpltlh=auto&amp;origin=m9-live4&amp;profile=3a5c7adecb8ad667&amp;provider_id=5b0fdb8557971859510a2bdb®ion=&amp;token=c7ZWdO576VIrQkWLxL1wpw&amp;user=c4e905a972589199&amp;wlid=smotreshka
 #EXTINF:-1 ,СТС (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
 #EXTINF:-1 ,СТС (+7)
@@ -323,8 +303,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
 http://185.32.44.154/domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/14/stream.m3u8
-#EXTINF:-1 ,Домашний HD
-https://plbl.m9.lfstrm.tv/domashniy_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-live4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1 ,Домашний
 https://cdn.mytouchtv.tv/hlsl/10/Domashniy/Domashniy_2/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -357,8 +335,6 @@ http://185.32.44.154/domkino/index.m3u8
 https://cdn.mytouchtv.tv/hlsl/10/Dom_Kino_Premium_HD/Dom_Kino_Premium_HD_1/index.m3u8
 #EXTINF:-1 ,Film Box (RU)
 http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/1071/index.m3u8
-#EXTINF:-1 ,Супер HD
-https://plbl.m9.lfstrm.tv/super_hd_ott/normal/3/index.m3u8?account=b61070fc2bc6614c&amp;client=689fed54f633d6a4&amp;env=s&amp;expires=1582279200&amp;mpltlh=auto&amp;origin=m9-live4&amp;profile=a02e2f8f035f63ee&amp;provider_id=56f1230a4e2e675d26000075®ion=ru.north-west.saint_petersburg&amp;token=uSKMtUwqfhLE_WcViYM12g&amp;user=f6c78e8b2e17d367&amp;wlid=smotreshka
 #EXTINF:-1 ,Мир сериала
 http://185.32.44.154/mirseriala/index.m3u8
 #EXTINF:-1 ,Мир сериала
@@ -413,8 +389,6 @@ http://185.32.44.154/illuzion/index.m3u8
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/257/stream.m3u8
 #EXTINF:-1 ,Мужское кино
 http://188.113.190.12/316/video.m3u8
-#EXTINF:-1 ,Мужское кино
-https://plbl.m9.lfstrm.tv/interesnoetv/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1 ,Кино ТВ
 http://185.32.44.154/kinotv/index.m3u8
 #EXTINF:-1 ,Еврокино
@@ -451,6 +425,8 @@ http://185.32.44.154/pyatnicha/index.m3u8
 http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/16/stream.m3u8
 #EXTINF:-1 ,Пятница
 http://stream3.kuvalda.tv/hls/pyatnica.m3u8
+#EXTINF:-1 ,Пятница HD
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1 ,Пятница
 https://cdn.mytouchtv.tv/hlsl/10/Pyatnitsa/Pyatnitsa_1/index.m3u8
 #EXTINF:-1 ,Пятница (+2)
@@ -459,8 +435,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
 #EXTINF:-1 ,Пятница (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
-#EXTINF:-1 ,Пятница HD
-https://plbl.m9.lfstrm.tv/pyatnitsa_hd_ott/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-live4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:-1 ,Cупер HD
 https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
 #EXTINF:-1 ,Cупер (+2)
@@ -681,6 +655,22 @@ http://185.32.44.154/2x2/index.m3u8
 http://md-store4.tulix.tv/rustavi2/playlist.m3u8
 #EXTINF:-1 ,11 канал Израиль
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8
+#EXTINF:-1 ,BRASIL
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w2082013272_b1540000.m3u8
+#EXTINF:-1 ,BRASIL 2
+https://stream1.asaweb.com.br:444/tvpantanalms/tvpantanalms/chunks.m3u8?nimblesessionid=15736848
+#EXTINF:-1 ,BRASIL 3
+http://wms.shared.streamshow.it/canale51/canale51/chunklist_w917435365.m3u8
+#EXTINF:-1 ,ARGENTINA
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1923571598.m3u8
+#EXTINF:-1 ,ARGENTINA 2
+https://elonce.zapto.org/hls/live_240p1000kbs.m3u8
+#EXTINF:-1 ,ARGENTINA 3
+https://panel.dattalive.com/8250/8250/chunklist_w161665594.m3u8
+#EXTINF:-1 ,ARGENTINA 4
+https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=78114
+#EXTINF:-1 ,URUGVAY
+https://vxlive.cdn.antel.net.uy/auth_livesignal_454,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDU0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE1ODk3NDcwNDcmcmFuZG9tPURtSm1sblBVUEomYy1pcD0xODUuMTI5LjAuMTY2LGQ0MTRkOGNjNmVmZGQ1OTc2MWUwYjA3MjY2MGI5YTE3NDM0NDJiZjk2MWYwZjZmZmFjN2FjNTE2NjFjZmE1ODc=/vxfmt=hls/h_e9e31ce7b7b0f375a7f0a07ccffb2672/var1200000/playlist.m3u8
 #EXTINF:-1 ,Cartoon Network Turk
 http://185.32.44.154/cartoonnetworkturk/index.m3u8
 #EXTINF:-1 ,Cartoon Network Rus
