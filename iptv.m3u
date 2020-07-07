@@ -133,6 +133,8 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?ver
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 ,Че (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
+#EXTINF:-1 ,Перец International
+http://persik.tv/stream/6299/10/10273.m3u8
 #EXTINF:-1 ,Пятница
 http://185.32.44.154/pyatnicha/index.m3u8
 #EXTINF:-1 ,Пятница
@@ -164,12 +166,11 @@ http://185.32.44.154/nostalgiya/index.m3u8
 #EXTINF:-1 ,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,Сарафан
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sarafan.m3u8
-#EXTINF:-1 ,Kral Tv
+http://50.7.231.220:8081/209/index.m3u8?wmsAuthSign=1594151801p661i0i921i581Sa86ff1ad7136838ba04a47d87810a966
 #EXTINF:-1 ,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
+https://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_NATGEOWILD/bw2000000/playlist.m3u8?utcstart=1593864000
 #EXTINF:-1 ,Nat Geo Wild HD
 https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -184,8 +185,6 @@ https://cdn.mytouchtv.tv/hlsl/10/Zoopark/Zoopark_3/index.m3u8
 http://185.32.44.154/domashniejivotnie/index.m3u8
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
-#EXTINF:-1 ,Дикая Рыбалка HD
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/116/stream.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -200,8 +199,6 @@ http://185.32.44.154/moyaplaneta/index.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Моя планета
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,Моя планета
-http://188.113.190.12/56/video.m3u8
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1 ,RTG TV
@@ -210,20 +207,26 @@ http://185.32.44.154/rtg/index.m3u8
 http://185.112.140.9:8000/play/a031
 #EXTINF:-1 ,RTG TV
 https://cdn.mytouchtv.tv/hlsl/1/RTG_TV/02.m3u8
+#EXTINF:-1 ,Приключения HD
+http://50.7.172.58:8081/542/index.m3u8?wmsAuthSign=1594152139p661i0i921i581S1cd8fbdf4024b7bee44e2c8f043c2d22
 #EXTINF:-1 ,Travel Channel
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Travel+Adventure
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/travel-adventure.m3u8
+http://50.7.231.220:8081/112/index.m3u8?wmsAuthSign=1594147446p661i0i921i581S0186dbbafcaabc8ac263a30e8c1cd437
 #EXTINF:-1 ,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
 https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,Большая Азия
 https://cdn.mytouchtv.tv/hlsl/10/Bolshaya_Aziya/Bolshaya_Aziya_1/index.m3u8
+#EXTINF:-1 ,Большая Азия HD
+http://vs-msk-02.tv.ti.ru:80/dtv/id609_NBN_SG--BigAsia/03/plst.m3u8
 #EXTINF:-1 ,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1 ,HD Life
 http://89.106.234.3:80/hdl_34_35.m3u8
+#EXTINF:-1 ,HD Life
+http://hlstv.kem.211.ru/239.211.200.6/stream.m3u8
 #EXTINF:-1 ,DocuBox
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:-1 ,RT Д Русский
@@ -276,6 +279,8 @@ http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/105/stream.m3u8
 http://185.32.44.154/history/index.m3u8
 #EXTINF:-1 ,Galaxy-TV
 http://185.32.44.154/galaxytv/index.m3u8
+#EXTINF:-1 ,Galaxy-TV
+http://50.7.231.220:8081/205/index.m3u8?wmsAuthSign=1594148007p661i0i921i581Scc46b0cf4a48947866e63e6bcf55211a
 #EXTINF:-1 ,Fine Living
 http://78.129.228.178/iptv/7E9L6L8AV8KN99/735/index.m3u8
 #EXTINF:-1 ,Ocean tv
@@ -323,7 +328,7 @@ http://zigfreed.cc.ua/channel/index.m3u8
 #EXTINF:-1 ,Индийское кино
 http://185.32.44.154/indiskoekino/index.m3u8
 #EXTINF:-1 ,Zee TV
-http://188.113.190.12/51/video.m3u8
+http://176.51.67.151:1234/udp/233.7.70.41:5000?denms.ru
 #EXTINF:-1 ,Zee TV
 https://plbl.m9.lfstrm.tv/zee_tv/normal/1/index.m3u8
 #EXTINF:-1 ,Bollywood HD
@@ -463,6 +468,8 @@ http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:-1 ,Osn action
 http://185.32.44.154/osnaction/index.m3u8
 http://mid5dg6m.rocketcdn.com/kraltv_360/chunklist.m3u8
+#EXTINF:-1 ,Muz TV AZ
+http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 #EXTINF:-1 ,Kral Pop
 http://185.32.44.154/kralpop/index.m3u8
 #EXTINF:-1 ,Kral Pop
