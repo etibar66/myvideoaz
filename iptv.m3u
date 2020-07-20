@@ -173,6 +173,8 @@ http://185.32.44.154/natgeowild/index.m3u8
 https://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_NATGEOWILD/bw2000000/playlist.m3u8?utcstart=1593864000
 #EXTINF:-1 ,Nat Geo Wild HD
 https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 ,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:-1 ,Живая Планета
@@ -185,6 +187,8 @@ https://cdn.mytouchtv.tv/hlsl/10/Zoopark/Zoopark_3/index.m3u8
 http://185.32.44.154/domashniejivotnie/index.m3u8
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 ,Диалоги о рыбалке
+http://178.217.72.66:80/225.201.2.96/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -211,8 +215,8 @@ https://cdn.mytouchtv.tv/hlsl/1/RTG_TV/02.m3u8
 http://50.7.172.58:8081/542/index.m3u8?wmsAuthSign=1594152139p661i0i921i581S1cd8fbdf4024b7bee44e2c8f043c2d22
 #EXTINF:-1 ,Travel Channel
 http://185.32.44.154/travelchannel/index.m3u8
-#EXTINF:-1 ,Travel+Adventure
-http://50.7.231.220:8081/112/index.m3u8?wmsAuthSign=1594147446p661i0i921i581S0186dbbafcaabc8ac263a30e8c1cd437
+#EXTINF:-1 ,Travel Adventure
+http://178.217.72.66:80/225.201.2.233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
@@ -231,14 +235,8 @@ http://hlstv.kem.211.ru/239.211.200.6/stream.m3u8
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:-1 ,RT Д Русский
 https://hls.rt.com/hls/rtdru360.m3u8
-#EXTINF:-1 ,RT Д Русский
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/98/stream.m3u8
-#EXTINF:-1 ,RT Д Русский
-http://188.113.190.12/193/video.m3u8
 #EXTINF:-1 ,Id xtra
 http://185.32.44.154/idextra/index.m3u8
-#EXTINF:-1 ,Id xtra
-http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/id-xtra.m3u8
 #EXTINF:-1 ,CBS Reality
 http://185.32.44.154/cbsreality/index.m3u8
 #EXTINF:-1 ,CBS Reality
@@ -257,8 +255,6 @@ https://cdn.mytouchtv.tv/hlsl/10/National_Geographic_HD/National_Geographic_HD_2
 http://185.32.44.154/discoverychannel/index.m3u8
 #EXTINF:-1 ,Discovery Science
 http://185.32.44.154/discoveryscience/index.m3u8
-#EXTINF:-1 ,Discovery Science HD
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/81/stream.m3u8
 #EXTINF:-1 ,DTX
 http://185.32.44.154/dtx/index.m3u8
 #EXTINF:-1 ,Viasat History
@@ -273,8 +269,6 @@ http://185.32.44.154/viasatexplorer/index.m3u8
 http://185.32.44.154/viasatnature/index.m3u8
 #EXTINF:-1 ,История
 http://185.32.44.154/istoriya/index.m3u8
-#EXTINF:-1 ,История
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/105/stream.m3u8
 #EXTINF:-1 ,History
 http://185.32.44.154/history/index.m3u8
 #EXTINF:-1 ,Galaxy-TV
@@ -309,8 +303,6 @@ http://188.113.190.12/64/index.m3u8
 http://185.32.44.154/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
 http://185.32.44.154/sovershennosekretno/index.m3u8
-#EXTINF:-1 ,365 дней ТВ
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/247/stream.m3u8
 #EXTINF:-1 ,TRT BELGESEL
 http://185.32.44.154/trtbelgesel/index.m3u8
 #EXTINF:-1 ,TLC Turk
@@ -352,8 +344,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
 #EXTINF:-1 ,Домашний
 http://185.32.44.154/domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/14/stream.m3u8
-#EXTINF:-1 ,Домашний
 https://cdn.mytouchtv.tv/hlsl/10/Domashniy/Domashniy_2/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://185.32.44.154/tv3/index.m3u8
@@ -379,8 +369,6 @@ http://185.32.44.154/russkiybetseller/index.m3u8
 http://188.113.190.12/100/video.m3u8
 #EXTINF:-1 ,Русский детектив
 http://188.113.190.12/164/video.m3u8
-#EXTINF:-1 ,Русский Роман
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/143/stream.m3u8
 #EXTINF:-1 ,Русский Роман
 http://188.113.190.12/107/video.m3u8
 #EXTINF:-1 ,Дом кино
@@ -439,8 +427,6 @@ http://185.32.44.154/kinoxit/index.m3u8
 http://188.113.190.12/313/video.m3u8
 #EXTINF:-1 ,Иллюзион +
 http://185.32.44.154/illuzion/index.m3u8
-#EXTINF:-1 ,Мужское кино
-http://streamer-1.obozrenie.tv/18/16bd6a6bb9baab4344ab7695/257/stream.m3u8
 #EXTINF:-1 ,Мужское кино
 http://188.113.190.12/316/video.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -688,8 +674,12 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1923571598.m3u8
 https://panel.dattalive.com/8250/8250/chunklist_w161665594.m3u8
 #EXTINF:-1 ,Cartoon Network Turk
 http://185.32.44.154/cartoonnetworkturk/index.m3u8
+#EXTINF:-1 ,Cartoon Network Turk
+https://streams.livetv.az/turk/cartoon/chunks.m3u8?nimblesessionid=171885467
 #EXTINF:-1 ,Cartoon Network Rus
 http://185.32.44.154/cartoonnetworkrus/index.m3u8
+#EXTINF:-1 , Turk Disney
+http://streams.livetv.az/turk/disney/playlist.m3u8
 #EXTINF:-1 ,Матч! Арена
 http://185.32.44.154/matcharena/index.m3u8
 #EXTINF:-1 ,Матч Премьер
@@ -760,6 +750,8 @@ http://185.32.44.154/xezertv/index.m3u8
 http://185.32.44.154/spacetv/index.m3u8   
 #EXTINF:-1,Dalga tv
 http://185.32.44.154/dalgatv/index.m3u8
+#EXTINF:-1,Dalga tv
+http://streams.livetv.az/azerbaijan/dalga/playlist.m3u8
 #EXTINF:-1,Lider tv
 http://185.32.44.154/lidertv/index.m3u8 
 #EXTINF:-1,medeniyyet 
@@ -767,11 +759,19 @@ http://185.32.44.154/medeniyyet/index.m3u8
 #EXTINF:-1,Dunya Tv
 http://185.32.44.154/dunyatv/index.m3u8
 #EXTINF:-1,Kepez TV
-http://85.132.81.184:8080/arbkepez/live/index.m3u8 
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 ,QAFQAZ TV
+http://streams.livetv.az/azerbaijan/qafqaztv/playlist.m3u8 
+#EXTINF:-1 ,arbkepez
+http://streams.livetv.az/arbkepez/live/playlist.m3u8
 #EXTINF:-1,ARB24
 http://185.32.44.154/arb24/index.m3u8   
 #EXTINF:-1,CBC 
-http://185.32.44.154/cbc/index.m3u8 
+http://185.32.44.154/cbc/index.m3u8
+#EXTINF:-1,Muz TV AZ 
+https://streams.livetv.az/azerbaijan/muztv/playlist.m3u8
+#EXTINF:-1,atv
+http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1,atv turk 
 http://185.32.44.154/atvturk/index.m3u8
 #EXTINF:-1,Show tv
