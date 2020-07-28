@@ -221,6 +221,8 @@ http://hlstv.kem.211.ru/239.211.200.23/stream.m3u8
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Travel Adventure
 http://178.217.72.66:80/225.201.2.233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Travel Adventure
+http://31.40.16.230:8000/play/a142/index.m3u8
 #EXTINF:-1 ,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
