@@ -179,6 +179,8 @@ https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 ,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
+#EXTINF:0, Animal Planet (HD)
+http://live-ng-01.more.tv/hls/Animal_Planet_HD/index_1.m3u8
 #EXTINF:-1 ,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:-1,Zoo
@@ -253,6 +255,8 @@ http://185.32.44.154/tlc/index.m3u8
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1 ,National Geographic
 http://185.32.44.154/nationalgeographic/index.m3u8
+#EXTINF:0, National Geographic
+http://hlstv.kem.211.ru/239.211.211.40/stream.m3u8
 #EXTINF:-1 ,National Geographic
 https://cdn.mytouchtv.tv/hlsl/1/NationalGeographic/01.m3u8
 #EXTINF:-1 ,National Geographic HD
@@ -265,18 +269,24 @@ http://185.32.44.154/discoveryscience/index.m3u8
 http://185.32.44.154/dtx/index.m3u8
 #EXTINF:-1 ,Viasat History
 http://185.32.44.154/viasathistory/index.m3u8
+#EXTINF:0,Viasat History (HD)
+http://live-ng-01.more.tv/hls/Viasat_History_HD/index_5.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://185.32.44.154/viasatexplorer/index.m3u8
-#EXTINF:-1 ,Viasat Explore
-http://185.32.44.154/viasatexplorer/index.m3u8
-#EXTINF:-1 ,Viasat Explore
-http://185.32.44.154/viasatexplorer/index.m3u8
+#EXTINF:0,Viasat Explore (HD)
+http://live-ng-01.more.tv/hls/Viasat_Explore_HD/index_5.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://185.32.44.154/viasatnature/index.m3u8
+#EXTINF:0,Viasat Nature (HD)
+http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_5.m3u8
 #EXTINF:-1 ,История
 http://185.32.44.154/istoriya/index.m3u8
 #EXTINF:-1 ,History
 http://185.32.44.154/history/index.m3u8
+#EXTINF:0,History HD
+http://45.67.229.107:7272/rmtv/aHR0cHM6Ly9hMzU2OTQ1NjAyNS16YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0OjQ0My9obHMvQ0hfQzA1X0hESElTVE9SWS9idzUwMDAwMDAvcGxheWxpc3QubTN1OD91dGNzdGFydD0xNTk1NzAzNjAw/variant.m3u8
+#EXTINF:0,History2 HD
+http://45.67.229.107:7272/rmtv/aHR0cHM6Ly9hMzU2OTQ1NjAwMC16YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0OjQ0My9obHMvQ0hfSDJIRC9idzUwMDAwMDAvcGxheWxpc3QubTN1OD91dGNzdGFydD0xNTk1NzAzNjAw/variant.m3u8
 #EXTINF:-1 ,Galaxy-TV
 http://185.32.44.154/galaxytv/index.m3u8
 #EXTINF:-1 ,Galaxy-TV
@@ -395,6 +405,12 @@ http://185.32.44.154/amedia2/index.m3u8
 http://185.32.44.154/amediahit/index.m3u8
 #EXTINF:-1 ,AMEDIA PREMIUM HD
 https://cdn.mytouchtv.tv/hlsl/10/Amedia_Premium_HD/Amedia_Premium_HD_2/index.m3u8
+#EXTINF:0,VIP Premiere (HD)
+http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_6.m3u8
+#EXTINF:0,VIP Megahit (HD)
+http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_6.m3u8
+#EXTINF:0,VIP Comedy (HD)
+http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_6.m3u8
 #EXTINF:-1 ,TV1000
 http://185.32.44.154/tv1000/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
@@ -443,6 +459,10 @@ http://185.32.44.154/eurokino/index.m3u8
 http://185.32.44.154/foxrussia/index.m3u8
 #EXTINF:-1 ,НСТ
 http://185.32.44.154/nst/index.m3u8
+#EXTINF:-1 ,НСТ
+http://hlstv.kem.211.ru/239.211.211.107/stream.m3u8
+#EXTINF:0,Страшное (HD)
+http://144.76.199.108:8002/play/a0aw?auth=iiyii233:oVfH18jbKYWADl6
 #EXTINF:-1 ,Киноужас HD
 http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/2056/index.m3u8
 #EXTINF:-1 ,Sony Sci-Fi
