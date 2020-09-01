@@ -143,8 +143,10 @@ https://a3569457540-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_OTT/bw2000000/
 http://stream3.kuvalda.tv/hls/pyatnica.m3u8
 #EXTINF:-1 ,Пятница HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1 ,Пятница
+#EXTINF:-1 ,Пятница  Пятница! (-1)
 https://cdn.mytouchtv.tv/hlsl/10/Pyatnitsa/Pyatnitsa_1/index.m3u8
+#EXTINF:-1 ,Пятница! (-1)
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY-1.m3u8
 #EXTINF:-1 ,Пятница (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
 #EXTINF:-1 ,Пятница (+4)
@@ -193,8 +195,10 @@ https://cdn.mytouchtv.tv/hlsl/10/Zoopark/Zoopark_3/index.m3u8
 http://185.32.44.154/domashniejivotnie/index.m3u8
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
-#EXTINF:-1 ,Диалоги о рыбалке
-http://178.217.72.66:80/225.201.2.96/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дикая охота HD
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYAOHOTAHD.m3u8
+#EXTINF:-1 ,Дикая рыбалка HD
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYARYBALKAHD.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
