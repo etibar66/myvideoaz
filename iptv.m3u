@@ -143,7 +143,7 @@ https://a3569457540-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_OTT/bw2000000/
 http://stream3.kuvalda.tv/hls/pyatnica.m3u8
 #EXTINF:-1 ,Пятница HD
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1 ,Пятница  Пятница! (-1)
+#EXTINF:-1 ,Пятница! (-1)
 https://cdn.mytouchtv.tv/hlsl/10/Pyatnitsa/Pyatnitsa_1/index.m3u8
 #EXTINF:-1 ,Пятница! (-1)
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY-1.m3u8
@@ -168,7 +168,7 @@ http://185.32.44.154/nostalgiya/index.m3u8
 #EXTINF:-1 ,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,Сарафан
-http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
+http://s1.ttranslit.com:8081/sarafan/index.m3u8?wmsAuthSign=1599165035S5a37bfe36a91e540760a7b13df65f113S661h0h921h581
 #EXTINF:-1,Юмор
 http://hlstv.kem.211.ru/239.211.211.87/stream.m3u8
 #EXTINF:-1 ,Nat Geo Wild
@@ -195,6 +195,8 @@ https://cdn.mytouchtv.tv/hlsl/10/Zoopark/Zoopark_3/index.m3u8
 http://185.32.44.154/domashniejivotnie/index.m3u8
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 ,Дикий
+http://s1.ttranslit.com:8081/dikij/index.m3u8?wmsAuthSign=1599165399Sc5db33faf0a3d1f6a814b225631f6cc4S661h0h921h581
 #EXTINF:-1 ,Дикая охота HD
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYAOHOTAHD.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
@@ -222,13 +224,13 @@ http://185.112.140.9:8000/play/a031
 #EXTINF:-1 ,RTG TV
 https://cdn.mytouchtv.tv/hlsl/1/RTG_TV/02.m3u8
 #EXTINF:-1 ,Приключения HD
-http://hlstv.kem.211.ru/239.211.200.23/stream.m3u8
+http://s1.ttranslit.com:8081/prikljuchenija/index.m3u8?wmsAuthSign=1599164960S30334d9fc9b8101957fefa8e2ed7b4ecS661h0h921h581
 #EXTINF:-1 ,Travel Channel
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Travel Adventure
 http://178.217.72.66:80/225.201.2.233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Travel Adventure
-http://31.40.16.230:8000/play/a142/index.m3u8
+http://s2.ttranslit.com:8081/s4g_traveladve/index.m3u8?wmsAuthSign=1599165568S734f279171597861e5dab89671b27dbaS661h0h921h581
 #EXTINF:-1 ,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
@@ -465,10 +467,12 @@ http://185.32.44.154/foxrussia/index.m3u8
 http://185.32.44.154/nst/index.m3u8
 #EXTINF:-1 ,НСТ
 http://hlstv.kem.211.ru/239.211.211.107/stream.m3u8
+#EXTINF:-1 ,Телеканал Шокирующее HD
+http://s2.ttranslit.com:8081/s4g_shokiruyusche/index.m3u8?wmsAuthSign=1599164836S26c70c414fb8ae709d94efec05fe5fd1S661h0h921h581
 #EXTINF:0,Страшное (HD)
 http://144.76.199.108:8002/play/a0aw?auth=iiyii233:oVfH18jbKYWADl6
-#EXTINF:-1 ,Киноужас HD
-http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/2056/index.m3u8
+#EXTINF:-1 ,Телеканал Остросюжетное HD
+http://s1.ttranslit.com:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=1599165253S0ea92ef69b6be6e547be68a80f8feaadS661h0h921h581
 #EXTINF:-1 ,Sony Sci-Fi
 http://185.32.44.154/sonyscifi/index.m3u8
 #EXTINF:-1 ,Sony ТВ
