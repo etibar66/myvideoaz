@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Первый канал
-http://185.32.44.154/perviy/index.m3u8
+http://185.32.44.154/perviy/mpegts
 #EXTINF:-1 ,Первый канал
 https://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_1TV/bw2000000/playlist.m3u8?utcstart=1589997600
 #EXTINF:-1 ,Первый канал
@@ -168,7 +168,9 @@ http://185.32.44.154/nostalgiya/index.m3u8
 #EXTINF:-1 ,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,Сарафан
-http://s1.ttranslit.com:8081/sarafan/index.m3u8?wmsAuthSign=1599165035S5a37bfe36a91e540760a7b13df65f113S661h0h921h581
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMV9TQVJBRkFOL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0,Сарафан
+http://45.15.112.4:8082/46/mpegts
 #EXTINF:-1,Юмор
 http://hlstv.kem.211.ru/239.211.211.87/stream.m3u8
 #EXTINF:-1 ,Nat Geo Wild
@@ -180,13 +182,13 @@ https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 ,Animal Planet
-http://185.32.44.154/animalplanet/index.m3u8
+http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
 #EXTINF:0, Animal Planet (HD)
 http://live-ng-01.more.tv/hls/Animal_Planet_HD/index_1.m3u8
 #EXTINF:-1 ,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
-#EXTINF:-1,Zoo
-http://hlstv.kem.211.ru/239.211.211.57/stream.m3u8
+#EXTINF:-1,Живая Планета
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0pJVkFZQVBMQU5FVEEvdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:-1 ,ZooПарк
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1 ,ZooПарк
@@ -196,15 +198,17 @@ http://185.32.44.154/domashniejivotnie/index.m3u8
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 ,Дикий
-http://s1.ttranslit.com:8081/dikij/index.m3u8?wmsAuthSign=1599165399Sc5db33faf0a3d1f6a814b225631f6cc4S661h0h921h581
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJS0lZL3ZhcmlhbnQubTN1OA==/playlist.m3u8
 #EXTINF:-1 ,Дикая охота HD
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYAOHOTAHD.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYARYBALKAHD.m3u8
 #EXTINF:-1 ,Охота и рыбалка
-http://185.32.44.154/oxotoiribalka/index.m3u8
-#EXTINF:-1 ,Охота и рыбалка
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX09IT1RBSVJZQkFMS1MvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:-1 ,Диалоги о рыбалке HD
 http://178.217.72.66:80/225.201.2.96/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Охотник и Рыболов HD
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX09IT1ROSUtJUllCT0xPVkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
 #EXTINF:-1 ,Outdoor channel
 http://russia.livetv.az/russia/outdoor_channel/playlist.m3u8
 #EXTINF:-1 ,Бобер
@@ -250,7 +254,9 @@ https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:-1 ,RT Д Русский
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 ,Id xtra
-http://185.32.44.154/idextra/index.m3u8
+http://45.15.112.4:8082/118/mpegts
+#EXTINF:-1 ,Id xtra
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJU0NPVkVSWUlOVkVTVElHQVRJT04vdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:-1 ,CBS Reality
 http://185.32.44.154/cbsreality/index.m3u8
 #EXTINF:-1 ,CBS Reality
@@ -301,6 +307,8 @@ http://hlstv.kem.211.ru/239.211.211.39/stream.m3u8
 http://78.129.228.178/iptv/7E9L6L8AV8KN99/735/index.m3u8
 #EXTINF:-1 ,Ocean tv
 http://91.192.168.242:9091
+#EXTINF:0,Ocean TV
+http://45.15.112.4:8082/126/mpegts
 #EXTINF:-1 ,Морской
 https://cdn.mytouchtv.tv/hlsl/2/Nautical_Channel_HD/01.m3u8
 #EXTINF:-1 ,Морской
@@ -470,7 +478,7 @@ http://hlstv.kem.211.ru/239.211.211.107/stream.m3u8
 #EXTINF:-1 ,Телеканал Шокирующее HD
 http://s2.ttranslit.com:8081/s4g_shokiruyusche/index.m3u8?wmsAuthSign=1599164836S26c70c414fb8ae709d94efec05fe5fd1S661h0h921h581
 #EXTINF:0,Страшное (HD)
-http://144.76.199.108:8002/play/a0aw?auth=iiyii233:oVfH18jbKYWADl6
+http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMV9TVFJBU0hOT0VIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
 #EXTINF:-1 ,Телеканал Остросюжетное HD
 http://s1.ttranslit.com:8081/ostrosujetnoe/index.m3u8?wmsAuthSign=1599165253S0ea92ef69b6be6e547be68a80f8feaadS661h0h921h581
 #EXTINF:-1 ,Sony Sci-Fi
@@ -828,3 +836,116 @@ http://185.32.44.154/akillitv/index.m3u8
 http://185.32.44.154/trt1/index.m3u8 
 #EXTINF:-1,TRT avaz
 http://185.32.44.154/trtavaz/index.m3u8 
+#EXTINF:-1,KinoXXX
+http://50.7.172.58:8081/49/index.m3u8?wmsAuthSign=1599613433p971i85i81i73S848d3b0b0905b36f8f9feeb16328083a
+#EXTINF:-1,XXL 
+http://50.7.172.58:8081/30/index.m3u8?wmsAuthSign=1599614173p971i85i81i73S8979f48e5ab2ca53a989756501635582
+#EXTINF:-1,Brazzers TV Europe
+http://50.7.172.58:8081/2/index.m3u8?wmsAuthSign=1599615071p971i85i81i73S094f7589ae7877e45612d8acc425bbbf
+#EXTINF:-1,FAP TV BBW
+http://50.7.172.58:8081/38/index.m3u8?wmsAuthSign=1599613730p971i85i81i73S2d540ca07a1e07a06703d38e991a934c
+#EXTINF:-1,Big Ass (18+)
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1,Cuckold HD 720 (18+)
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1,Interracial HD 720 (18+)
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1,PENTHOUSE HD 1
+http://50.7.172.58:8081/39/index.m3u8?wmsAuthSign=1599614962p971i85i81i73Safb1d1a716c6099db3f44216f5bd6699
+#EXTINF:-1,PENTHOUSE HD 2
+http://50.7.172.58:8081/16/index.m3u8?wmsAuthSign=1599615022p971i85i81i73S65bc32f5ce2545e3b07f62c61bcbe5b8
+#EXTINF:-1,Dusk
+http://50.7.161.20:8081/53/index.m3u8?wmsAuthSign=1591279180p661i0i921i581Sd7122f5dafb1416fc2b520d572bedece
+#EXTINF:-1,OX-AX HD
+http://50.7.172.58:8081/1/index.m3u8?wmsAuthSign=1599615566p971i85i81i73S07b9d2184441c2e163a6e8670a8caa19
+#EXTINF:-1,XY Mix HD
+http://50.7.172.58:8081/55/index.m3u8?wmsAuthSign=1599615873p971i85i81i73S825d02f74b54d49dd5eb7d121a524124
+#EXTINF:-1,XY Plus HD
+http://50.7.172.58:8081/50/index.m3u8?wmsAuthSign=1599615827p971i85i81i73S836db0eefa47e92e40de62064fea846a
+#EXTINF:-1,XY MAX HD
+http://50.7.172.58:8081/43/index.m3u8?wmsAuthSign=1599615768p971i85i81i73Sfdb6089336306487a6a0da860e7e9149
+#EXTINF:-1,Reality Kings
+http://50.7.172.58:8081/57/index.m3u8?wmsAuthSign=1599613797p971i85i81i73Sec746b0f6efd3f44b626df0af227d165
+#EXTINF:-1,Barely legal
+http://50.7.172.58:8081/42/index.m3u8?wmsAuthSign=1599613928p971i85i81i73S2bace1b9a1ee074245bd529f7ce1664f
+#EXTINF:-1,Brazzers
+http://50.7.172.58:8081/46/tracks-1,2/index.m3u8?wmsAuthSign=1599615180p971i85i81i73S05dcfc75a912e5fe5639b9d6f8233cc8
+#EXTINF:-1,Dorcel TV
+http://50.7.172.58:8081/21/tracks-1,2/index.m3u8?wmsAuthSign=1599613598p971i85i81i73S59a6d355e6b737fd210d4885bc2c57e6
+#EXTINF:-1,Private Hd
+http://50.7.172.58:8081/11/index.m3u8?wmsAuthSign=1599614545p971i85i81i73Sec90756b7c83aaf9704bf43571c92032
+#EXTINF:-1,Redlight HD
+http://50.7.172.58:8081/12/index.m3u8?wmsAuthSign=1599613297p971i85i81i73S508d3d57a250bad212cec261b4e46d23
+#EXTINF:-1,Hustler HD
+http://50.7.172.58:8081/10/index.m3u8?wmsAuthSign=1599615706p971i85i81i73S8d3df6ac3f317fd7333181e607a98524
+#EXTINF:-1,Extasy HD
+http://50.7.172.58:8081/29/index.m3u8?wmsAuthSign=1599614813p971i85i81i73Sdc1949270c5448f511ad251a0383fa08
+#EXTINF:-1,Big Dick (18+)
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1,Big Tits (18+)
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1,Milf HD 720 (18+)
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1,Pornstar HD 720 (18+)
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1,POV HD 720 (18+)
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1,Russian HD 720 (18+)
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1,Blowjob (18+)
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1,Hard Core (18+)
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1,Three Some (18+)
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1,Fetish HD 720 (18+)
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1,Latina HD 720 (18+)
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1,EROXXXX
+http://50.7.172.58:8081/47/index.m3u8?wmsAuthSign=1599614049p971i85i81i73Sc5b28ca2051d3582b0647b0c35198c39
+#EXTINF:-1,Super One HD (18+)
+http://50.7.172.58:8081/45/index.m3u8?wmsAuthSign=1599614190p971i85i81i73S95cc3c2cdbe0977581578b454074b838
+#EXTINF:-1,Hot Pleasure
+http://50.7.172.58:8081/52/index.m3u8?wmsAuthSign=1599614350p971i85i81i73Sfc8910eafea5e3eae59d94e5d8526c9f
+#EXTINF:-1,FAP TV 2
+
+http://50.7.161.20:8081/26/index.m3u8?wmsAuthSign=1591277709p661i0i921i581Sf26868f1981a0018e845c14b2d562533
+#EXTINF:-1,FAP TV 3
+
+http://50.7.161.20:8081/27/index.m3u8?wmsAuthSign=1591277776p661i0i921i581Sa0c7616ff66d8671a8b252c2a56c35ad
+#EXTINF:-1,FAP TV 4
+
+http://50.7.161.20:8081/28/index.m3u8?wmsAuthSign=1591277824p661i0i921i581S4e5b50312c9b635ba99210dd4c0b56ea
+#EXTINF:-1,FAP TV Anal
+
+http://50.7.161.20:8081/35/index.m3u8?wmsAuthSign=1591277871p661i0i921i581S118641c7476e96439b4cbd6452720d68
+#EXTINF:-1,FAP TV Compilation
+http://50.7.161.20:8081/34/index.m3u8?wmsAuthSign=1591277997p661i0i921i581Sc2da32096c587d53c86e3c1d509184f6
+#EXTINF:-1,FAP TV Parody
+http://50.7.161.20:8081/32/index.m3u8?wmsAuthSign=1591278042p661i0i921i581Sd92c3fcb44b80046a72ae4d1fad24a54
+#EXTINF:-1,Vivid Red
+http://50.7.172.58:8081/7/index.m3u8?wmsAuthSign=1599615515p971i85i81i73S83844483d97f6c11aa6baa3fab2f29a4
+#EXTINF:-1,Развлечение тв HD
+http://50.7.172.58:8081/56/index.m3u8?wmsAuthSign=1599614449p971i85i81i73Sb404038caf220dc237c2fa1b365bbdae
+#EXTINF:-1,O-la-la
+http://50.7.172.58:8081/17/index.m3u8?wmsAuthSign=1599615446p971i85i81i73S1c823cff116c4f05f8f97a9110d73933
+#EXTINF:-1,Шалун
+http://50.7.172.58:8081/20/index.m3u8?wmsAuthSign=1599613866p971i85i81i73S8eea7cc6abfa6913877dd816d0e3ae87
+#EXTINF:-1,Erox HD
+http://50.7.161.20:8081/9/index.m3u8?wmsAuthSign=1591280033p661i0i921i581S662eb9b8e56c6580a58acebc23cec211
+#EXTINF:-1,Eroxxx HD
+http://50.7.172.58:8081/9/index.m3u8?wmsAuthSign=1599613984p971i85i81i73Scaaa67bc5dca7b167bb46e7e155a8113
+#EXTINF:-1,Blue Hustler
+http://50.7.161.20:8081/19/index.m3u8?wmsAuthSign=1591278892p661i0i921i581S593030a9735f1d8d3dfd11e943594066
+#EXTINF:-1,Blue Hustler Europe
+http://50.7.161.20:8081/54/index.m3u8?wmsAuthSign=1591278561p661i0i921i581S9de6fb130fb38a777622af51539bfbc1
+#EXTINF:0,Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:0,EXXXOTICA HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/variant.m3u8
+#EXTINF:-1,AST TV 1 (18+)
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1,AST TV 2 (18+)
+https://www.ast.tv/stream/2/cellular.m3u8
+http://live.redtraffic.xyz/bigdick.m3u8
