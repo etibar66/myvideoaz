@@ -213,6 +213,8 @@ http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQv
 http://russia.livetv.az/russia/outdoor_channel/playlist.m3u8
 #EXTINF:-1 ,Бобер
 http://185.32.44.154/bobertv/index.m3u8
+#EXTINF:-1 ,РТС Живот
+http://mytv.fun:8080/grady/41wou5l4t9/627835
 #EXTINF:-1 ,Моя планета
 http://185.32.44.154/moyaplaneta/index.m3u8
 #EXTINF:-1 ,Моя планета
@@ -343,6 +345,38 @@ http://185.32.44.154/avtoplyus/index.m3u8
 http://185.32.44.154/avto24/index.m3u8
 #EXTINF:-1 ,1 авто
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,TRT Belgesel HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/678140
+#EXTINF:-1,beIN Gurme HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/678454
+#EXTINF:-1,beIN IZ TV HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/678455
+#EXTINF:-1,BBC Earth TR
+http://mytv.fun:8080/grady/41wou5l4t9/6902
+#EXTINF:-1,History Channel FHD TR
+http://mytv.fun:8080/grady/41wou5l4t9/6870
+#EXTINF:-1,Da Vinci Learning HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/8643
+#EXTINF:-1,Da Vinci Learning TR
+http://mytv.fun:8080/grady/41wou5l4t9/6893
+#EXTINF:-1,Animal Planet TR
+http://mytv.fun:8080/grady/41wou5l4t9/8708
+#EXTINF:-1,TGRT Belgesel TR
+http://mytv.fun:8080/grady/41wou5l4t9/627058
+#EXTINF:-1,Discovery Channel TR
+http://mytv.fun:8080/grady/41wou5l4t9/6895
+#EXTINF:-1,Discovery ID TR
+http://mytv.fun:8080/grady/41wou5l4t9/6891
+#EXTINF:-1,Discovery Science TR
+http://mytv.fun:8080/grady/41wou5l4t9/6890
+#EXTINF:-1,Nat Geo People HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/6845
+#EXTINF:-1,Nat Geo Wild HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/6844
+#EXTINF:-1,National Geographic HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/6846
+#EXTINF:-1,Yaban TV TR
+http://mytv.fun:8080/grady/41wou5l4t9/8004
 #EXTINF:-1 ,CBC
 https://besttv520.aoslive.it.best-tv.com/egress/bhandler/ikomg/cbc/chunklist_b2076672.m3u8
 #EXTINF:-1 ,Zigfreed TV
