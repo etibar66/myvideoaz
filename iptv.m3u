@@ -56,7 +56,7 @@ http://s20441.cdn.ngenix.net/hls/CH_R01_OTT_DV_MGDN_NTV_MGD_OTT/variant.m3u8?ver
 #EXTINF:-1 ,НТВ (Мурманск)
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_MURM_NTV/variant.m3u8?version=2
 #EXTINF:-1 ,Рен ТВ
-http://185.32.44.154/rentv/index.m3u8
+http://tinyurl.com/wgryht4/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 ,Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
 #EXTINF:-1 ,Рен ТВ
@@ -186,7 +186,7 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 ,Animal Planet
 http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
 #EXTINF:0, Animal Planet (HD)
-http://live-ng-01.more.tv/hls/Animal_Planet_HD/index_1.m3u8
+http://tinyurl.com/ya4ofvhr/Animal_Planet_HD/master.m3u8
 #EXTINF:-1 ,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:-1,Живая Планета
@@ -200,7 +200,7 @@ http://185.32.44.154/domashniejivotnie/index.m3u8
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 ,Дикий
-http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJS0lZL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+http://tinyurl.com/ycnsp9kb/a00w
 #EXTINF:-1 ,Дикая охота HD
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYAOHOTAHD.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
@@ -266,11 +266,11 @@ http://185.32.44.154/cbsreality/index.m3u8
 #EXTINF:-1 ,CBS Reality
 http://78.129.228.178/iptv/3NF96AQ32YGTUR/706/index.m3u8
 #EXTINF:-1 ,TLC
-http://185.32.44.154/tlc/index.m3u8
+http://tinyurl.com/ya4ofvhr/TLC_Russia_HD/master.m3u8
 #EXTINF:-1 ,TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1 ,National Geographic
-http://185.32.44.154/nationalgeographic/index.m3u8
+http://tinyurl.com/ya4ofvhr/NGC_HD/master.m3u8
 #EXTINF:0, National Geographic
 http://hlstv.kem.211.ru/239.211.211.40/stream.m3u8
 #EXTINF:-1 ,National Geographic
@@ -278,21 +278,21 @@ https://cdn.mytouchtv.tv/hlsl/1/NationalGeographic/01.m3u8
 #EXTINF:-1 ,National Geographic HD
 https://cdn.mytouchtv.tv/hlsl/10/National_Geographic_HD/National_Geographic_HD_2/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://185.32.44.154/discoverychannel/index.m3u8
+http://tinyurl.com/ya4ofvhr/Discovery_HD/master.m3u8
 #EXTINF:-1 ,Discovery Science
-http://185.32.44.154/discoveryscience/index.m3u8
+http://tinyurl.com/ya4ofvhr/Discovery_Science_HD/master.m3u8
 #EXTINF:-1 ,DTX
 http://185.32.44.154/dtx/index.m3u8
 #EXTINF:-1 ,Viasat History
-http://185.32.44.154/viasathistory/index.m3u8
+http://tinyurl.com/ya4ofvhr/Viasat_History_HD/master.m3u8
 #EXTINF:0,Viasat History (HD)
 http://live-ng-01.more.tv/hls/Viasat_History_HD/index_5.m3u8
 #EXTINF:-1 ,Viasat Explore
-http://185.32.44.154/viasatexplorer/index.m3u8
+http://tinyurl.com/ya4ofvhr/Viasat_Explore_HD/master.m3u8
 #EXTINF:0,Viasat Explore (HD)
 http://live-ng-01.more.tv/hls/Viasat_Explore_HD/index_5.m3u8
 #EXTINF:-1 ,Viasat Nature
-http://185.32.44.154/viasatnature/index.m3u8
+http://tinyurl.com/ya4ofvhr/Viasat_Nature_HD/master.m3u8
 #EXTINF:0,Viasat Nature (HD)
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_5.m3u8
 #EXTINF:-1 ,История
@@ -318,7 +318,7 @@ https://cdn.mytouchtv.tv/hlsl/2/Nautical_Channel_HD/01.m3u8
 #EXTINF:-1 ,Морской
 https://cdn.mytouchtv.tv/hlsl/2/SeaTV/02.m3u8
 #EXTINF:-1 ,Da Vinci Learning
-http://185.32.44.154/davinchilearning/index.m3u8
+http://tinyurl.com/ya4ofvhr/Da_Vinci/master.m3u8
 #EXTINF:-1 ,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 ,TV BRICS
@@ -347,48 +347,14 @@ http://185.32.44.154/avtoplyus/index.m3u8
 http://185.32.44.154/avto24/index.m3u8
 #EXTINF:-1 ,1 авто
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1,TRT Belgesel HD TR
-http://mytv.fun:8080/grady/41wou5l4t9/678140
-#EXTINF:-1,beIN Gurme HD TR
-http://mytv.fun:8080/grady/41wou5l4t9/678454
-#EXTINF:-1,beIN IZ TV HD TR
-http://mytv.fun:8080/grady/41wou5l4t9/678455
-#EXTINF:-1,BBC Earth TR
-http://mytv.fun:8080/grady/41wou5l4t9/6902
-#EXTINF:-1,History Channel FHD TR
-http://mytv.fun:8080/grady/41wou5l4t9/6870
-#EXTINF:-1,Da Vinci Learning HD TR
-http://mytv.fun:8080/grady/41wou5l4t9/8643
-#EXTINF:-1,Da Vinci Learning TR
-http://mytv.fun:8080/grady/41wou5l4t9/6893
-#EXTINF:-1,Animal Planet TR
-http://mytv.fun:8080/grady/41wou5l4t9/8708
-#EXTINF:-1,TGRT Belgesel TR
-http://mytv.fun:8080/grady/41wou5l4t9/627058
-#EXTINF:-1,Discovery Channel TR
-http://mytv.fun:8080/grady/41wou5l4t9/6895
-#EXTINF:-1,Discovery ID TR
-http://mytv.fun:8080/grady/41wou5l4t9/6891
-#EXTINF:-1,Discovery Science TR
-http://mytv.fun:8080/grady/41wou5l4t9/6890
-#EXTINF:-1,Nat Geo People HD TR
-http://mytv.fun:8080/grady/41wou5l4t9/6845
-#EXTINF:-1,Nat Geo Wild HD TR
-http://mytv.fun:8080/grady/41wou5l4t9/6844
-#EXTINF:-1,National Geographic HD TR
-http://mytv.fun:8080/grady/41wou5l4t9/6846
-#EXTINF:-1,Yaban TV TR
-http://mytv.fun:8080/grady/41wou5l4t9/8004
 #EXTINF:-1 ,CBC
 https://besttv520.aoslive.it.best-tv.com/egress/bhandler/ikomg/cbc/chunklist_b2076672.m3u8
 #EXTINF:-1 ,Zigfreed TV
 http://zigfreed.cc.ua/channel/index.m3u8
 #EXTINF:-1 ,Индийское кино
-http://185.32.44.154/indiskoekino/index.m3u8
+http://tinyurl.com/ycnsp9kb/a008
 #EXTINF:-1 ,Zee TV
 http://176.51.67.151:1234/udp/233.7.70.41:5000?denms.ru
-#EXTINF:-1 ,Zee TV
-https://plbl.m9.lfstrm.tv/zee_tv/normal/1/index.m3u8
 #EXTINF:-1 ,Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 ,СТС
@@ -402,7 +368,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
 #EXTINF:-1 ,СТС (+8)
 http://s20441.cdn.ngenix.net/hls/CH_R01_OTT_DV_MGDN_STS_MGD_OTT/variant.m3u8?version=2
 #EXTINF:-1 ,СТС Love
-http://188.113.190.12/93/video.m3u8
+http://tinyurl.com/wgryht4/CH_STSLOVE_2/bw2000000/variant.m3u8?%7CUser-agent=smartlabs
 #EXTINF:-1 ,СТС Love (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
 #EXTINF:-1 ,СТС Love (+7)
@@ -464,11 +430,11 @@ http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_6.m3u8
 #EXTINF:0,VIP Comedy (HD)
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_6.m3u8
 #EXTINF:-1 ,TV1000
-http://185.32.44.154/tv1000/index.m3u8
+https://tinyurl.com/ybegdset/variant.m3u8?%7CUser-agent=smartlabs
 #EXTINF:-1 ,TV1000 Русское кино
 http://185.32.44.154/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 ,TV1000 Action
-http://185.32.44.154/tv1000action/index.m3u8
+https://tinyurl.com/ybj5ve85/variant.m3u8?%7CUser-agent=smartlabs
 #EXTINF:-1 ,Кинокомедия
 http://185.32.44.154/kinokomedia/index.m3u8
 #EXTINF:-1 ,Кинокомедия
@@ -488,7 +454,7 @@ http://185.32.44.154/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://185.32.44.154/kinosemya/index.m3u8
 #EXTINF:-1 ,Киномикс
-http://185.32.44.154/kinomiks/index.m3u8
+http://109.239.208.82/kinomix/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://188.113.190.12/308/video.m3u8
 #EXTINF:-1 ,КиноСерия
@@ -780,6 +746,8 @@ http://185.32.44.154/futbol3/index.m3u8
 http://185.32.44.154/boets/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://185.32.44.154/bokstv/index.m3u8
+#EXTINF:0,UFC HD
+http://tinyurl.com/ya4ofvhr/UFC/master.m3u8
 #EXTINF:-1 ,Fightbox
 http://188.113.190.12/147/video.m3u8
 #EXTINF:-1 ,Viasat Sport
