@@ -3,8 +3,8 @@
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8
 #EXTINF:-1,Первый канал
 https://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_1TV/bw2000000/playlist.m3u8?utcstart=1589997600
-#EXTINF:-1,Первый канал
-https://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_1TV/bw2000000/playlist.m3u8?utcstart=1589997600
+#EXTINF:1,Первый канал
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/127/index.m3u8
 #EXTINF:-1,Первый канал HD
 https://cdn.mytouchtv.tv/hlsl/1/First_HD/03.m3u8
 #EXTINF:-1,Первый канал (+2)
@@ -140,6 +140,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
 #EXTINF:-1,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1,Сарафан
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/748/index.m3u8
+#EXTINF:-1,Сарафан
 http://45.15.112.4:8082/46/mpegts
 #EXTINF:-1,Анекдот ТВ
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5034/index.m3u8
@@ -154,6 +156,8 @@ https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,Animal Planet
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/137/index.m3u8
+#EXTINF:-1,Animal Planet
 http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
 #EXTINF:-1,Animal Planet (HD)
 http://tinyurl.com/ya4ofvhr/Animal_Planet_HD/master.m3u8
@@ -161,6 +165,8 @@ http://tinyurl.com/ya4ofvhr/Animal_Planet_HD/master.m3u8
 http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0pJVkFZQVBMQU5FVEEvdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:-1,ЗОО
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2100/index.m3u8
+#EXTINF:-1,Zoopark
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/731/index.m3u8
 #EXTINF:-1,Zoopark
 https://cdn.mytouchtv.tv/hlsl/10/Zoopark/Zoopark_3/index.m3u8
 #EXTINF:-1,Love Nature
@@ -170,7 +176,11 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/847/index.m3u8
 #EXTINF:-1,Дикий
 http://tinyurl.com/ycnsp9kb/a00w
 #EXTINF:-1,Дикая охота HD
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2004/index.m3u8
+#EXTINF:-1,Дикая охота HD
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYAOHOTAHD.m3u8
+#EXTINF:-1,Дикая рыбалка HD
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2005/index.m3u8
 #EXTINF:-1,Дикая рыбалка HD
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYARYBALKAHD.m3u8
 #EXTINF:-1,Охота и рыбалка
