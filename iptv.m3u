@@ -4,7 +4,7 @@ http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8
 #EXTINF:-1,Первый канал
 https://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_1TV/bw2000000/playlist.m3u8?utcstart=1589997600
 #EXTINF:-1,Первый канал
-https://cdn.mytouchtv.tv/hlsl/10/Pervyy_Kanal/Pervyy_Kanal_1/index.m3u8
+https://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_1TV/bw2000000/playlist.m3u8?utcstart=1589997600
 #EXTINF:-1,Первый канал HD
 https://cdn.mytouchtv.tv/hlsl/1/First_HD/03.m3u8
 #EXTINF:-1,Первый канал (+2)
@@ -147,6 +147,8 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5034/index.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2089/index.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/133/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://45.15.112.4:8082/114/mpegts
 #EXTINF:-1,Nat Geo Wild HD
 https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD
@@ -171,6 +173,8 @@ http://tinyurl.com/ycnsp9kb/a00w
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYAOHOTAHD.m3u8
 #EXTINF:-1,Дикая рыбалка HD
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYARYBALKAHD.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://45.15.112.4:8082/67/mpegts
 #EXTINF:-1,Диалоги о рыбалке HD
 http://178.217.72.66:80/225.201.2.96/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Outdoor channel
@@ -219,6 +223,8 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2085/index.m3u8
 http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJU0NPVkVSWUlOVkVTVElHQVRJT04vdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:-1,CBS Reality
 http://78.129.228.178/iptv/3NF96AQ32YGTUR/706/index.m3u8
+#EXTINF:-1,TLC
+http://45.15.112.4:8082/74/mpegts
 #EXTINF:-1,TLC
 http://tinyurl.com/ya4ofvhr/TLC_Russia_HD/master.m3u8
 #EXTINF:-1,TLC
@@ -269,6 +275,32 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1,1 авто
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,BBC Earth TR
+http://mytv.fun:8080/grady/41wou5l4t9/6902
+#EXTINF:-1,History Channel FHD TR
+http://mytv.fun:8080/grady/41wou5l4t9/6870
+#EXTINF:-1,Da Vinci Learning HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/8643
+#EXTINF:-1,Da Vinci Learning TR
+http://mytv.fun:8080/grady/41wou5l4t9/6893
+#EXTINF:-1,Animal Planet TR
+http://mytv.fun:8080/grady/41wou5l4t9/8708
+#EXTINF:-1,TGRT Belgesel TR
+http://mytv.fun:8080/grady/41wou5l4t9/627058
+#EXTINF:-1,Discovery Channel TR
+http://mytv.fun:8080/grady/41wou5l4t9/6895
+#EXTINF:-1,Discovery ID TR
+http://mytv.fun:8080/grady/41wou5l4t9/6891
+#EXTINF:-1,Discovery Science TR
+http://mytv.fun:8080/grady/41wou5l4t9/6890
+#EXTINF:-1,Nat Geo People HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/6845
+#EXTINF:-1,Nat Geo Wild HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/6844
+#EXTINF:-1,National Geographic HD TR
+http://mytv.fun:8080/grady/41wou5l4t9/6846
+#EXTINF:-1,Yaban TV TR
+http://mytv.fun:8080/grady/41wou5l4t9/8004
 #EXTINF:-1,Zigfreed TV
 http://zigfreed.cc.ua/channel/index.m3u8
 #EXTINF:-1,Индийское кино
