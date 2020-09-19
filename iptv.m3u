@@ -64,6 +64,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1,ТНТ
 http://tinyurl.com/wgryht4/CH_TNT/bw2000000/variant.m3u8
 #EXTINF:-1,ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТНТ
 https://cdn.mytouchtv.tv/hlsl/10/TNT/TNT_1/index.m3u8
 #EXTINF:-1,ТНТ
 https://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_OTT/bw2000000/playlist.m3u8?utcstart=1590001200
@@ -131,6 +133,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
 #EXTINF:-1,Cупер
 http://tinyurl.com/wgryht4/CH_SUPER/bw2000000/variant.m3u8
+#EXTINF:-1,Cупер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Cупер (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
 #EXTINF:-1,Cупер (+4)
@@ -189,6 +193,8 @@ http://45.15.112.4:8082/67/mpegts
 http://178.217.72.66:80/225.201.2.96/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Outdoor channel
 http://russia.livetv.az/russia/outdoor_channel/playlist.m3u8
+#EXTINF:0 tvg-rec="3",Домашние Животные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/158/index.m3u8
 #EXTINF:-1,РТС Живот
 http://mytv.fun:8080/grady/41wou5l4t9/627835
 #EXTINF:-1,Моя планета
@@ -217,18 +223,22 @@ http://zigfreed.ru/Sv2/946.m3u8
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1,Терра Инкогнита
 https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:0 tvg-rec="3",Большая Азия HD
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2009/index.m3u8
 #EXTINF:-1,Большая Азия
 https://cdn.mytouchtv.tv/hlsl/10/Bolshaya_Aziya/Bolshaya_Aziya_1/index.m3u8
+#EXTINF:0 tvg-rec="3",HD Life
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/226/index.m3u8
 #EXTINF:-1,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1,HD Life
 http://89.106.234.3:80/hdl_34_35.m3u8
 #EXTINF:-1,RT Д Русский
 https://hls.rt.com/hls/rtdru360.m3u8
+#EXTINF:0 tvg-rec="3",ID Xtra
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/139/index.m3u8
 #EXTINF:-1,Id xtra
 http://45.15.112.4:8082/118/mpegts
-#EXTINF:-1,Id xtra
-http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2085/index.m3u8
 #EXTINF:-1,Id xtra
 http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJU0NPVkVSWUlOVkVTVElHQVRJT04vdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:-1,CBS Reality
@@ -239,14 +249,20 @@ http://45.15.112.4:8082/74/mpegts
 http://tinyurl.com/ya4ofvhr/TLC_Russia_HD/master.m3u8
 #EXTINF:-1,TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+#EXTINF:0 tvg-rec="3",nat geographic
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/134/index.m3u8
 #EXTINF:-1,National Geographic
 http://tinyurl.com/ya4ofvhr/NGC_HD/master.m3u8
 #EXTINF:-1,National Geographic
 https://cdn.mytouchtv.tv/hlsl/1/NationalGeographic/01.m3u8
 #EXTINF:-1,National Geographic HD
 https://cdn.mytouchtv.tv/hlsl/10/National_Geographic_HD/National_Geographic_HD_2/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/140/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://tinyurl.com/ya4ofvhr/Discovery_HD/master.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/136/index.m3u8
 #EXTINF:-1,Discovery Science
 http://tinyurl.com/ya4ofvhr/Discovery_Science_HD/master.m3u8
 #EXTINF:-1,Viasat History
@@ -397,6 +413,267 @@ http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQv
 https://hls.goodgame.ru/hls/178436.m3u8
 #EXTINF:-1,Sony ТВ
 http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/559/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000 Русское кино
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/101/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Drama QA
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/6137/index.m3u8
+#EXTINF:0 tvg-rec="0",FOX COMEDY PL
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/6107/index.m3u8
+#EXTINF:0 tvg-rec="0",CINEMAXX MORE MAXX US
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/6152/index.m3u8
+#EXTINF:0 tvg-rec="0",CINEMAX OUTER MAX US
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/6154/index.m3u8
+#EXTINF:0 tvg-rec="0",CINEMAX MOVIEMAX US
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/6155/index.m3u8
+#EXTINF:0 tvg-rec="0",CINEMAX ACTION MAX EAST US
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/6156/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Series FR
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/6008/index.m3u8
+#EXTINF:0 tvg-rec="3",Ностальгия
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/102/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС Love
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/103/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Sci-Fi
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/110/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОМИКС
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/509/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОСЕМЬЯ
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/125/index.m3u8
+#EXTINF:0 tvg-rec="3",РОДНОЕ КИНО
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/126/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000 Action
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/131/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинохит
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/516/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia 2
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/510/index.m3u8
+#EXTINF:0 tvg-rec="3",Наше новое кино
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/517/index.m3u8
+#EXTINF:0 tvg-rec="3",TV XXI
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/525/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОКОМЕДИЯ
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/145/index.m3u8
+#EXTINF:0 tvg-rec="3",ИНДИЙСКОЕ КИНО
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/146/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОСЕРИЯ
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/148/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский Иллюзион
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/547/index.m3u8
+#EXTINF:0 tvg-rec="3",Еврокино
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/549/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox Russia
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/550/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox Life
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/553/index.m3u8
+#EXTINF:0 tvg-rec="3",Дом Кино
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/154/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia 1
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/554/index.m3u8
+#EXTINF:0 tvg-rec="3",Amedia Premium HD (SD)
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/555/index.m3u8
+#EXTINF:0 tvg-rec="3",AMEDIA HIT
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/556/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/132/index.m3u8
+#EXTINF:0 tvg-rec="3",МУЖСКОЕ КИНО
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/164/index.m3u8
+#EXTINF:0 tvg-rec="3",Hollywood
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/557/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Entertainment Television
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/559/index.m3u8
+#EXTINF:0 tvg-rec="3",2X2
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/702/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Turbo
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/708/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский бестселлер
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/905/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский роман
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/906/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский детектив
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/907/index.m3u8
+#EXTINF:0 tvg-rec="3",Любимое Кино
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/722/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНОСВИДАНИЕ
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/728/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНО ТВ
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/732/index.m3u8
+#EXTINF:0 tvg-rec="3",Русская Комедия
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/733/index.m3u8
+#EXTINF:0 tvg-rec="3",FAN
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/734/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ‑ХИТ
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/741/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ Сериал
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/744/index.m3u8
+#EXTINF:0 tvg-rec="3",НСТ
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/726/index.m3u8
+#EXTINF:0 tvg-rec="3",Bollywood
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/719/index.m3u8
+#EXTINF:0 tvg-rec="0",ZEE TV
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/1001/index.m3u8
+#EXTINF:0 tvg-rec="0",Filmbox Arthouse
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/1071/index.m3u8
+#EXTINF:0 tvg-rec="0",Дорама
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/1066/index.m3u8
+#EXTINF:0 tvg-rec="0",TV1000 World Kino
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/1065/index.m3u8
+#EXTINF:0 tvg-rec="3",Мир Сериала
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/856/index.m3u8
+#EXTINF:0 tvg-rec="3",Ретро
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2018/index.m3u8
+#EXTINF:0 tvg-rec="3",Иллюзион +
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2038/index.m3u8
+#EXTINF:0 tvg-rec="3",Феникс плюс Кино
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2039/index.m3u8
+#EXTINF:0 tvg-rec="3",Paramount Channel
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2055/index.m3u8
+#EXTINF:0 tvg-rec="3",Sony Channel HD
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2062/index.m3u8
+#EXTINF:0 tvg-rec="3",Киносат
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2121/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinéma
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5051/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Select UK
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2474/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Action HD DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2482/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Comedy DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2483/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema HD DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2484/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney Cinemagic HD DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2485/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Atlantic HD DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2488/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Family HD DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2489/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Nostalgie DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2490/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Krimi DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2491/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Comic-Helden DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2493/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Arts HD DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2494/index.m3u8
+#EXTINF:0 tvg-rec="3",Spiegel Geschichte HD DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2566/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Hits HD DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2486/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 1
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2568/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 2
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2569/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 3
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2570/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 4
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2571/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 5
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2572/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 6
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2573/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 7
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2574/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 8
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2575/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 9
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2576/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 10
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2577/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 11
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2578/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 12
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2579/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT Film HD DE
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/6110/index.m3u8
+#EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/6392/index.m3u8
 #EXTINF:-1,Muz TV AZ
 http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 #EXTINF:-1,Kral Pop
