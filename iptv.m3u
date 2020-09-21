@@ -216,9 +216,9 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/920/index.m3u8
 #EXTINF:-1,Телепутешествия
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2051/index.m3u8
 #EXTINF:0 tvg-rec="0",Travel TV
+http://mag.rapidswiss.hitv.one:80/live/OyYaOkw3F1/bCEH804527/11993.m3u8
+#EXTINF:0 tvg-rec="0",Travel Bolgaria
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/1044/index.m3u8
-#EXTINF:0 tvg-rec="0",Travel HD
-http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/1043/index.m3u8
 #EXTINF:-1,Travel Adventure
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/850/index.m3u8
 #EXTINF:-1,Travel Adventure
@@ -387,6 +387,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
 https://cdn.mytouchtv.tv/hlsl/10/Dom_Kino_Premium_HD/Dom_Kino_Premium_HD_1/index.m3u8
 #EXTINF:-1,Film Box (RU)
 http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/1071/index.m3u8
+#EXTINF:-1,Kinopokaz
+http://mag.rapidswiss.hitv.one:80/live/OyYaOkw3F1/bCEH804527/15347.m3u8
 #EXTINF:-1,A1
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/554/index.m3u8
 #EXTINF:-1,A2 
