@@ -32,6 +32,8 @@ http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m
 #EXTINF:-1,Россия 1 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=2
 #EXTINF:-1,НТВ
+http://uiptv.do.am/1ufc/114816629/playlist.m3u8
+#EXTINF:-1,НТВ
 http://tinyurl.com/wgryht4/CH_NTV/bw2000000/variant.m3u8
 #EXTINF:-1,НТВ
 https://a787201477-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw1500000/playlist.m3u8?utcstart=1589752800
@@ -51,6 +53,8 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/745/index.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/743/index.m3u
 #EXTINF:-1,Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Рен ТВ
+http://uiptv.do.am/1ufc/102323759/playlist.m3u8
 #EXTINF:-1,Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
 #EXTINF:-1,Рен ТВ
@@ -113,6 +117,8 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/705/index.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/513/index.m3u8
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,Че
+http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
 #EXTINF:-1,Че (+2)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
 #EXTINF:-1,Че (+4)
@@ -145,6 +151,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
 #EXTINF:-1,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1,k16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?%7CUser-agent=deooleg
 #EXTINF:-1,Сарафан
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/748/index.m3u8
 #EXTINF:-1,Сарафан
@@ -199,6 +207,10 @@ http://russia.livetv.az/russia/outdoor_channel/playlist.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/158/index.m3u8
 #EXTINF:-1,РТС Живот
 http://mytv.fun:8080/grady/41wou5l4t9/627835
+#EXTINF:-1,Моя планета
+http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
+#EXTINF:-1,Моя планета
+http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:-1,Моя планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Моя планета
