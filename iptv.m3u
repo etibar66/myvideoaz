@@ -57,20 +57,16 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=
 http://uiptv.do.am/1ufc/102323759/playlist.m3u8
 #EXTINF:-1,Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
-#EXTINF:-1,Рен ТВ
-https://cdn.mytouchtv.tv/hlsl/10/REN_TV/REN_TV_1/index.m3u8
-#EXTINF:-1,Рен ТВ
-https://cdn.mytouchtv.tv/hlsl/10/REN_TV/REN_TV_2/index.m3u8
 #EXTINF:-1,Рен ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1,Рен ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:-1,ТНТ
 http://tinyurl.com/wgryht4/CH_TNT/bw2000000/variant.m3u8
+#EXTINF:0,*THT HD  36*
+http://185.112.140.9:8000/play/a02k
 #EXTINF:-1,ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ
-https://cdn.mytouchtv.tv/hlsl/10/TNT/TNT_1/index.m3u8
 #EXTINF:-1,ТНТ
 https://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_OTT/bw2000000/playlist.m3u8?utcstart=1590001200
 #EXTINF:-1,ТНТ (+2)
@@ -101,10 +97,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
 http://dprtv.phoenix-dnr.ru/first-republic-tv
 #EXTINF:-1,Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Пятый канал
-https://cdn.mytouchtv.tv/hlsl/10/Peterburg_5_kanal/Peterburg_5_kanal_2/index.m3u8
-#EXTINF:-1,Звезда
-https://cdn.mytouchtv.tv/hlsl/10/Zvezda/Zvezda_1/index.m3u8
+#EXTINF:0,*Санкт-Петербург  36*
+http://185.112.140.9:8000/play/a02b
 #EXTINF:-1,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1,Мир
@@ -125,12 +119,14 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?ver
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
 #EXTINF:-1,Че (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
+#EXTINF:0 tvg-rec="3",Пятница! HD
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5031/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница!
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/503/index.m3u8
 #EXTINF:-1,Пятница
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Пятница
 https://a3569457540-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_OTT/bw2000000/playlist.m3u8?utcstart=1590001200
-#EXTINF:-1,Пятница! (-1)
-https://cdn.mytouchtv.tv/hlsl/10/Pyatnitsa/Pyatnitsa_1/index.m3u8
 #EXTINF:-1,Пятница! (-1)
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY-1.m3u8
 #EXTINF:-1,Пятница (+2)
@@ -159,14 +155,14 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/748/index.m3u8
 http://45.15.112.4:8082/46/mpegts
 #EXTINF:-1,Анекдот ТВ
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5034/index.m3u8
+#EXTINF:0 tvg-rec="3",В мире животных HD
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2089/index.m3u8
 В мире животных HD
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2089/index.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/133/index.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://45.15.112.4:8082/114/mpegts
-#EXTINF:-1,Nat Geo Wild HD
-https://cdn.mytouchtv.tv/hlsl/10/NatGeoWild_HD/NatGeoWild_HD_1/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,Animal Planet
@@ -175,14 +171,12 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/137/index.m3u8
 http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
 #EXTINF:-1,Animal Planet (HD)
 http://tinyurl.com/ya4ofvhr/Animal_Planet_HD/master.m3u8
-#EXTINF:-1,Живая Планета
-http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0pJVkFZQVBMQU5FVEEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-rec="3",Живая Планета
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2101/index.m3u8
 #EXTINF:-1,ЗОО
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2100/index.m3u8
 #EXTINF:-1,Zoopark
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/731/index.m3u8
-#EXTINF:-1,Zoopark
-https://cdn.mytouchtv.tv/hlsl/10/Zoopark/Zoopark_3/index.m3u8
 #EXTINF:-1,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-1,Дикий
@@ -207,6 +201,8 @@ http://russia.livetv.az/russia/outdoor_channel/playlist.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/158/index.m3u8
 #EXTINF:-1,РТС Живот
 http://mytv.fun:8080/grady/41wou5l4t9/627835
+#EXTINF:-1,планета
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2090/index.m3u8
 #EXTINF:-1,Моя планета
 http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
 #EXTINF:-1,Моя планета
@@ -219,8 +215,8 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1,RTG TV
 http://185.112.140.9:8000/play/a031
-#EXTINF:-1,RTG TV
-https://cdn.mytouchtv.tv/hlsl/1/RTG_TV/02.m3u8
+#EXTINF:0 tvg-rec="3",Живая природа HD
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2074/index.m3u8
 #EXTINF:-1,Глазами туриста HD
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2104/index.m3u8
 #EXTINF:-1,Приключения HD
@@ -243,8 +239,6 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
 https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:0 tvg-rec="3",Большая Азия HD
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2009/index.m3u8
-#EXTINF:-1,Большая Азия
-https://cdn.mytouchtv.tv/hlsl/10/Bolshaya_Aziya/Bolshaya_Aziya_1/index.m3u8
 #EXTINF:0 tvg-rec="3",HD Life
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/226/index.m3u8
 #EXTINF:-1,HD Life
@@ -253,6 +247,8 @@ https://sc.id-tv.kz/hdl_34_35.m3u8
 http://89.106.234.3:80/hdl_34_35.m3u8
 #EXTINF:-1,RT Д Русский
 https://hls.rt.com/hls/rtdru360.m3u8
+#EXTINF:-1,RT Д Русский
+http://185.112.140.9:8000/playlist.m3u8
 #EXTINF:0 tvg-rec="3",ID Xtra
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/139/index.m3u8
 #EXTINF:-1,Id xtra
@@ -277,10 +273,6 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/134/index.m3u8
 #EXTINF:-1,National Geographic
 http://tinyurl.com/ya4ofvhr/NGC_HD/master.m3u8
-#EXTINF:-1,National Geographic
-https://cdn.mytouchtv.tv/hlsl/1/NationalGeographic/01.m3u8
-#EXTINF:-1,National Geographic HD
-https://cdn.mytouchtv.tv/hlsl/10/National_Geographic_HD/National_Geographic_HD_2/index.m3u8
 #EXTINF:0 tvg-rec="3",Discovery Channel
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/140/index.m3u8
 #EXTINF:-1,Discovery Channel
@@ -305,14 +297,12 @@ http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_5.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2027/index.m3u8
 #EXTINF:-1,Fine Living
 http://78.129.228.178/iptv/7E9L6L8AV8KN99/735/index.m3u8
+#EXTINF:0,* Загородная Жизнь 36* 10.50.0.2
+http://185.112.140.9:8000/play/a03b
 #EXTINF:-1,Ocean tv
 http://91.192.168.242:9091
 #EXTINF:-1,Ocean TV
 http://45.15.112.4:8082/126/mpegts
-#EXTINF:-1,Морской
-https://cdn.mytouchtv.tv/hlsl/2/Nautical_Channel_HD/01.m3u8
-#EXTINF:-1,Морской
-https://cdn.mytouchtv.tv/hlsl/2/SeaTV/02.m3u8
 #EXTINF:-1,Телеканал Да Винчи
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/537/index.m3u8
 #EXTINF:-1,Da Vinci Learning
@@ -381,22 +371,16 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
 http://tinyurl.com/qqydup5/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 #EXTINF:-1,Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Домашний
-https://cdn.mytouchtv.tv/hlsl/10/Domashniy/Domashniy_2/index.m3u8
 #EXTINF:-1,ТВ3
 http://tinyurl.com/wgryht4/CH_TV3/bw2000000/variant.m3u8
 #EXTINF:-1,ТВ 3 International
 https://imedi-tv.cdn.xsg.ge/tv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ТВ3
-https://cdn.mytouchtv.tv/hlsl/10/TV-3/TV-3_3/index.m3u8
 #EXTINF:-1,ТВ3
 https://a787200757-zabava-htlive.cdn.ngenix.net/hls/CH_TV3_OTT/bw2000000/playlist.m3u8?utcstart=1590001200
 #EXTINF:-1,ТВ3 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
 #EXTINF:-1,ТВ3 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
-#EXTINF:-1,Дом кино премиум HD
-https://cdn.mytouchtv.tv/hlsl/10/Dom_Kino_Premium_HD/Dom_Kino_Premium_HD_1/index.m3u8
 #EXTINF:-1,Film Box (RU)
 http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/1071/index.m3u8
 #EXTINF:-1,Kinopokaz
@@ -405,8 +389,6 @@ http://mag.rapidswiss.hitv.one:80/live/OyYaOkw3F1/bCEH804527/15347.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/554/index.m3u8
 #EXTINF:-1,A2 
 https://sc.id-tv.kz/A2_38_39.m3u8
-#EXTINF:-1,AMEDIA PREMIUM HD
-https://cdn.mytouchtv.tv/hlsl/10/Amedia_Premium_HD/Amedia_Premium_HD_2/index.m3u8
 #EXTINF:-1,VIP Premiere (HD)
 http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_6.m3u8
 #EXTINF:-1,ViP Premiere HD
@@ -840,8 +822,6 @@ http://tinyurl.com/ya4ofvhr/UFC/master.m3u8
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1,Россия24
 https://a3569455795-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b600000.m3u8
-#EXTINF:-1,Россия 24
-https://cdn.mytouchtv.tv/hlsl/10/Rossiya_24/Rossiya_24_1/index.m3u8
 #EXTINF:-1,Известия ТВ FHD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Кавказ 24
@@ -852,8 +832,6 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version
 https://cdn.mytouchtv.tv/hlsl/10/Moskva_24/Moskva_24_2/index.m3u8
 #EXTINF:-1,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1,Время
-https://cdn.mytouchtv.tv/hlsl/10/Vremya/Vremya_1/index.m3u8
 #EXTINF:-1,ATV-2
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:-1,ATV-4
