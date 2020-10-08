@@ -3,8 +3,6 @@
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/127/index.m3u8
 #EXTINF:-1,Первый канал
 https://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_1TV/bw2000000/playlist.m3u8?utcstart=1589997600
-#EXTINF:-1,Первый канал HD
-https://cdn.mytouchtv.tv/hlsl/1/First_HD/03.m3u8
 #EXTINF:-1,Первый канал (+2)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV/variant.m3u8?version=2
 #EXTINF:-1,Первый канал (+3)
@@ -369,6 +367,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
 #EXTINF:-1,СТС Prima
 http://tinyurl.com/qqydup5/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1,домашний
+http://185.118.50.219/RU-domashniy/index.m3u8
 #EXTINF:-1,Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТВ3
@@ -832,18 +832,34 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version
 https://cdn.mytouchtv.tv/hlsl/10/Moskva_24/Moskva_24_2/index.m3u8
 #EXTINF:-1,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,Realtv
+http://185.118.50.219/AZ-realtv/index.m3u8
+#EXTINF:-1,Arb24
+http://185.118.50.219/AZ-arb24/index.m3u8
+#EXTINF:-1,Az tv
+http://185.118.50.219/AZ-aztv/index.m3u8
+#EXTINF:-1,ictimai tv
+ http://185.118.50.219/AZ-ictimai/index.m3u8
+#EXTINF:0 tvg-rec="3",Azad TV
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2200/index.m3u8
 #EXTINF:-1,ATV-2
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:-1,ATV-4
 http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1,Xezer TV
+http://185.118.50.219/AZ-xezer/index.m3u8
+#EXTINF:-1,Space
+http://185.118.50.219/AZ-space/index.m3u8
 #EXTINF:-1,Dalga tv
 http://streams.livetv.az/azerbaijan/dalga/playlist.m3u8
+#EXTINF:-1,Lider TV
+http://185.118.50.219/AZ-lider/index.m3u8
 #EXTINF:-1,Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:-1,QAFQAZ TV
-http://streams.livetv.az/azerbaijan/qafqaztv/playlist.m3u8
-#EXTINF:-1,arbkepez
-http://streams.livetv.az/arbkepez/live/playlist.m3u8
+#EXTINF:-1,cbc
+http://185.118.50.219/AZ-cbc/index.m3u8
+#EXTINF:-1,ARB
+http://149.255.155.142/ARB/index.m3u8
 #EXTINF:-1,Muz TV AZ
 https://streams.livetv.az/azerbaijan/muztv/playlist.m3u8
 #EXTINF:-1,Big Ass (18+)
