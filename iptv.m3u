@@ -252,7 +252,7 @@ http://185.112.140.9:8000/playlist.m3u8
 #EXTINF:0 tvg-rec="3",ID Xtra HD
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2102/index.m3u8
 #EXTINF:-1,Id xtra
-http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJU0NPVkVSWUlOVkVTVElHQVRJT04vdmFyaWFudC5tM3U4/playlist.m3u8
+http://46.8.46.4/id/index.m3u8
 #EXTINF:0 tvg-rec="3",CBS Reality
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/706/index.m3u8
 #EXTINF:-1,CBS Reality
