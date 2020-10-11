@@ -190,9 +190,9 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2005/index.m3u8
 #EXTINF:-1,Дикая рыбалка HD
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYARYBALKAHD.m3u8
 #EXTINF:-1,Охота и рыбалка
-http://45.15.112.4:8082/67/mpegts
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2019/index.m3u8
 #EXTINF:-1,Диалоги о рыбалке HD
-http://178.217.72.66:80/225.201.2.96/tracks-v1a1/mono.m3u8
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2394/index.m3u8
 #EXTINF:-1,Outdoor channel
 http://russia.livetv.az/russia/outdoor_channel/playlist.m3u8
 #EXTINF:0 tvg-rec="3",Домашние Животные
@@ -211,6 +211,8 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
+#EXTINF:-1,Русская Америка TV
+https://stream.russianamerica.tv/ratv/index.m3u8
 #EXTINF:-1,RTG TV
 http://185.112.140.9:8000/play/a031
 #EXTINF:0 tvg-rec="3",Живая природа HD
@@ -247,10 +249,8 @@ http://89.106.234.3:80/hdl_34_35.m3u8
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1,RT Д Русский
 http://185.112.140.9:8000/playlist.m3u8
-#EXTINF:0 tvg-rec="3",ID Xtra
-http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/139/index.m3u8
-#EXTINF:-1,Id xtra
-http://45.15.112.4:8082/118/mpegts
+#EXTINF:0 tvg-rec="3",ID Xtra HD
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2102/index.m3u8
 #EXTINF:-1,Id xtra
 http://45.139.186.195:1102/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJU0NPVkVSWUlOVkVTVElHQVRJT04vdmFyaWFudC5tM3U4/playlist.m3u8
 #EXTINF:0 tvg-rec="3",CBS Reality
