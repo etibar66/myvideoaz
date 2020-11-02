@@ -94,6 +94,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 #EXTINF:-1 ,Че
 http://185.118.50.219/RU-che/index.m3u8
 #EXTINF:-1 ,Че
+http://176.115.152.6:4001/play/a005/index.m3u8
+#EXTINF:-1 ,Че
 http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
 #EXTINF:-1 ,Че (+2)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
@@ -101,6 +103,8 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?ver
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
 #EXTINF:-1 ,Че (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
+#EXTINF:-1 ,Пятница
+http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1 ,Пятница
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 ,Пятница
@@ -117,6 +121,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
 http://tinyurl.com/wgryht4/CH_SUPER/bw2000000/variant.m3u8
 #EXTINF:-1 ,Cупер
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 ,Cупер
+http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/playlist.m3u8?utcstart=1581238800&version=2
 #EXTINF:-1 ,Cупер (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
 #EXTINF:-1 ,Cупер (+4)
@@ -127,16 +133,32 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,k16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?%7CUser-agent=deooleg
+#EXTINF:-1 ,Сарафан
+http://178.158.181.8:1504/419
 #EXTINF:-1 ,Nat Geo Wild
 http://89.189.191.250/239.211.211.42/stream.m3u8
 #EXTINF:-1 ,Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 ,Animal Planet
+http://178.158.181.8:1504/801
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 ,Зоо
+http://ott-cdn.ucom.am/s92/04.m3u8
+#EXTINF:-1 ,Зоопарк
+http://178.158.181.8:1504/1113
 #EXTINF:-1 ,Дикая охота HD
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYAOHOTAHD.m3u8
+#EXTINF:-1 ,Дикая охота HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYAOHOTAHD/variant.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DIKAYARYBALKAHD.m3u8
+#EXTINF:-1 ,Дикая рыбалка HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYARYBALKAHD/variant.m3u8
+#EXTINF:-1 ,Охота и Рыбалка
+http://live02-cdn.tv.ti.ru:80/dtv/id1281_NBN_SG--Ohota_Rybalka/03/plst.m3u8
+#EXTINF:-1 ,﻿Outdoor
+http://109.248.69.171:4044/udp/239.195.1.81:1234
 #EXTINF:-1 ,домашние животные
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
 #EXTINF:-1 ,Моя планета
@@ -151,10 +173,14 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1 ,Русская Америка TV
 https://stream.russianamerica.tv/ratv/index.m3u8
+#EXTINF:-1 ,ПРИКЛЮЧЕНИЯ HD
+http://ott-cdn.ucom.am/s99/04.m3u8
 #EXTINF:-1 ,Travel TV
 http://persik.by/stream/1105/91303/886.m3u8
 #EXTINF:-1 ,Travel Adventure
 http://zigfreed.ru/Sv2/946.m3u8
+#EXTINF:-1 ,Travel Adventure
+http://109.248.69.171:4044/udp/239.195.1.23:1234
 #EXTINF:-1 ,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
@@ -165,6 +191,8 @@ http://89.189.191.250/239.211.211.162/stream.m3u8
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1 ,HD Life
 http://89.106.234.3:80/hdl_34_35.m3u8
+#EXTINF:-1 ,Investigation Discovery
+http://178.158.181.8:1504/807
 #EXTINF:-1 ,RT Д Русский
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 ,CBS Reality
@@ -173,6 +201,12 @@ http://78.129.228.178/iptv/3NF96AQ32YGTUR/706/index.m3u8
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1 ,National Geographic
 http://tinyurl.com/ya4ofvhr/NGC_HD/master.m3u8
+#EXTINF:-1 ,National Geographic
+http://178.158.181.8:1504/813
+#EXTINF:-1 ,Discovery
+http://178.158.181.8:1504/803
+#EXTINF:-1 ,Discovery Science
+http://178.158.181.8:1504/1110
 #EXTINF:-1 ,Viasat History
 http://tinyurl.com/ya4ofvhr/Viasat_History_HD/master.m3u8
 #EXTINF:-1 ,Viasat History (HD)
@@ -195,14 +229,24 @@ http://91.192.168.242:9091
 http://185.118.50.219/RU-davincilearning/index.m3u8
 #EXTINF:-1 ,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 ,Luxury
+http://live02-cdn.tv.ti.ru:80/dtv/id1087_NBN_SG--LuxurySD/03/plst.m3u8
 #EXTINF:-1 ,TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 ,1 авто
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 ,TLC Turk
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 ,Naturaltv Turk
+https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
 #EXTINF:-1 ,Zigfreed TV
 http://zigfreed.cc.ua/channel/index.m3u8
 #EXTINF:-1 ,India Film
 http://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:-1 ,﻿Индийское кино
+http://109.248.69.171:4044/udp/239.195.1.12:1234
+#EXTINF:-1 ,﻿ZEE TV
+http://109.248.69.171:4044/udp/239.195.1.61:1234
 #EXTINF:-1 ,Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 ,ЛИК
@@ -275,6 +319,8 @@ http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 http://0ajuu84p.rocketcdn.com/kraltv_240/chunklist.m3u8
 #EXTINF:-1 ,Kral POP KONSER TV HD
 http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
+#EXTINF:-1 ,Kral POP 
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 ,KRAL POP TV
 http://0ajuu84p.rocketcdn.com/kralpop_240/chunklist.m3u8
 #EXTINF:-1 ,DreamTurk
@@ -393,6 +439,8 @@ http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1923571598.m3u8
 http://tinyurl.com/ya4ofvhr/UFC/master.m3u8
 #EXTINF:-1 ,EuroNews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 ,EuroNews
+http://109.248.69.171:4044/udp/239.195.0.26:1234
 #EXTINF:-1 ,Россия24
 https://a3569455795-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b600000.m3u8
 #EXTINF:-1 ,Известия ТВ FHD
