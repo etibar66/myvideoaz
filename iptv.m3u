@@ -153,6 +153,8 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYAOHOTAHD/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYARYBALKAHD/variant.m3u8
 #EXTINF:-1 ,Охота и Рыбалка
 http://live02-cdn.tv.ti.ru:80/dtv/id1281_NBN_SG--Ohota_Rybalka/03/plst.m3u8
+#EXTINF:-1 ,OHOTA I RYBALKA
+http://109.111.191.108/239.211.211.60/stream.m3u8
 #EXTINF:-1 ,Outdoor Channel FHD RU
 http://mytv.fun:8080/grady/41wou5l4t9/5350
 #EXTINF:-1 ,домашние животные
@@ -165,8 +167,6 @@ http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
-#EXTINF:-1 ,Русская Америка TV
-https://stream.russianamerica.tv/ratv/index.m3u8
 #EXTINF:-1 ,Travel Adventure
 http://zigfreed.ru/Sv2/946.m3u8
 #EXTINF:-1 ,Ugra Travel
@@ -279,8 +279,6 @@ http://mytv.fun:8080/grady/41wou5l4t9/5336
 http://mytv.fun:8080/grady/41wou5l4t9/5337
 #EXTINF:-1 ,Kino Hit RU
 http://mytv.fun:8080/grady/41wou5l4t9/5343
-#EXTINF:-1 ,Kino Premium FHD RU
-http://mytv.fun:8080/grady/41wou5l4t9/36883
 #EXTINF:-1 ,MGM FHD RU
 http://mytv.fun:8080/grady/41wou5l4t9/36867
 #EXTINF:-1 ,TV1000
@@ -305,8 +303,6 @@ http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/559/index.m3u8
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1 group-title="КИНО",Марс-ТВ
 https://v2.catcast.tv/content/37033/index.m3u8?
-#EXTINF:-1 group-title="КИНО",KinoBroadcast 1
-https://v2.catcast.tv/content/35525/index.m3u8
 #EXTINF:-1 group-title="КИНО",FILM TV HD
 https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 group-title="КИНО",ПРЕМЬЕРА
@@ -367,8 +363,10 @@ http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
 http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 ,KRAL POP TV
 http://0ajuu84p.rocketcdn.com/kralpop_240/chunklist.m3u8
-#EXTINF:-1 ,DreamTurk
+#EXTINF:-1 ,1hdru
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 ,1hdru
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,RUTV HD
 http://dmitry-tv.my1.ru/his/02/CH_RUTVHD_720.m3u8
 #EXTINF:-1 ,МУЗ ТВ (+2)
@@ -541,8 +539,6 @@ http://live.redtraffic.xyz/threesome.m3u8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 ,Latina HD 720 (18+)
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 ,x bizzare
-http://5.135.92.133:52841/out/u/103_2.m3u8
 #EXTINF:-1 ,EXXXOTICA HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/variant.m3u8
 #EXTINF:-1 ,Erox
