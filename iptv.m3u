@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Первый канал 
+http://185.32.44.154/perviy/index.m3u8 
 #EXTINF:-1 ,Первый канал
 http://live02-cdn.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
 #EXTINF:-1 ,Первый канал
@@ -41,6 +43,8 @@ http://tinyurl.com/wgryht4/CH_NTV/bw2000000/variant.m3u8
 https://a787201477-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw1500000/playlist.m3u8?utcstart=1589752800
 #EXTINF:-1 ,НТВ
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:-1 ,НТВ
+http://194.113.107.118:8080/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9OVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg==/playlist.m3u8
 #EXTINF:-1 ,HTB HD
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 ,НТВ (+2)
@@ -141,16 +145,26 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,k16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?%7CUser-agent=deooleg
+#EXTINF:-1 ,Сарафан
+http://194.113.107.118:8080/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9DMDFfU0FSQUZBTi92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
+#EXTINF:-1 ,Анекдот Тв
+http://194.113.107.118:8080/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9BTkVLRE9UVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg==/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild 
+http://185.32.44.154/natgeowild/index.m3u8 
 #EXTINF:-1 ,Animal Planet HD
 http://mytv.fun:8080/grady/41wou5l4t9/36899
+#EXTINF:-1,Animal Planet 
+http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 ,Zoo Park RU
 http://mytv.fun:8080/grady/41wou5l4t9/5348
-#EXTINF:-1 ,Дикая охота HD
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYAOHOTAHD/variant.m3u8
-#EXTINF:-1 ,Дикая рыбалка HD
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYARYBALKAHD/variant.m3u8
+#EXTINF:-1,Viasat Nature 
+http://185.32.44.154/viasatnature/index.m3u8
+#EXTINF:-1 ,Дикая охота
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYAOHOTASD.m3u8
+#EXTINF:-1 ,Дикая рыбалка 
+http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYARYBALKASD.m3u8
 #EXTINF:-1 ,Охота и Рыбалка
 http://live02-cdn.tv.ti.ru:80/dtv/id1281_NBN_SG--Ohota_Rybalka/03/plst.m3u8
 #EXTINF:-1 ,OHOTA I RYBALKA
@@ -167,6 +181,8 @@ http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
+#EXTINF:-1,Travel Channel 
+http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Travel Adventure
 http://zigfreed.ru/Sv2/946.m3u8
 #EXTINF:-1 ,Ugra Travel
@@ -183,14 +199,20 @@ https://sc.id-tv.kz/hdl_34_35.m3u8
 http://89.106.234.3:80/hdl_34_35.m3u8
 #EXTINF:-1 ,HD Life
 http://mytv.fun:8080/grady/41wou5l4t9/36892
+#EXTINF:-1,National Geographic 
+http://185.32.44.154/nationalgeographic/index.m3u8 
+#EXTINF:-1 ,National Geographic RU
+http://mytv.fun:8080/grady/41wou5l4t9/5353
+#EXTINF:-1,Discovery Channel 
+http://185.32.44.154/discoverychannel/index.m3u8
+#EXTINF:-1,Discovery Science 
+http://185.32.44.154/discoveryscience/index.m3u8
+#EXTINF:-1,Galaxy 
+http://185.32.44.154/galaxytv/index.m3u8  
 #EXTINF:-1 ,RT Д Русский
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 ,TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
-#EXTINF:-1 ,National Geographic
-http://tinyurl.com/ya4ofvhr/NGC_HD/master.m3u8
-#EXTINF:-1 ,National Geographic RU
-http://mytv.fun:8080/grady/41wou5l4t9/5353
 #EXTINF:-1 ,Viasat Nature RU
 http://mytv.fun:8080/grady/41wou5l4t9/5371
 #EXTINF:-1 ,Viasat Nature/History FHD RU
@@ -281,6 +303,8 @@ http://mytv.fun:8080/grady/41wou5l4t9/5337
 http://mytv.fun:8080/grady/41wou5l4t9/5343
 #EXTINF:-1 ,MGM FHD RU
 http://mytv.fun:8080/grady/41wou5l4t9/36867
+#EXTINF:-1,Kinomiks
+http://185.32.44.154/kinomiks/index.m3u8
 #EXTINF:-1 ,TV1000
 https://tinyurl.com/ybegdset/variant.m3u8
 #EXTINF:-1 ,TV1000 Русское кино HD
@@ -341,6 +365,8 @@ http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 http://176.115.152.6:4000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="КИНО",Иллюзион +
 http://176.115.152.6:4000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="КИНО",Иллюзион +
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="КИНО",Киномикс
 http://176.115.152.6:4002/play/a00b/index.m3u8
 #EXTINF:-1 group-title="КИНО",Ностальгия
