@@ -67,12 +67,9 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1 ,Рен ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
-#EXTINF:-1 ,ТНТ
-http://tinyurl.com/wgryht4/CH_TNT/bw2000000/variant.m3u8
-#EXTINF:-1 ,ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 ,ТНТ
-https://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_OTT/bw2000000/playlist.m3u8?utcstart=1590001200
+#EXTINF:0 tvg-rec="3",ТНТ HD
+#EXTGRP:HD
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/237/index.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #EXTINF:-1 ,ТНТ (+4)
