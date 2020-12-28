@@ -189,20 +189,34 @@ http://109.111.191.108/239.211.211.60/stream.m3u8
 http://mytv.fun:8080/grady/41wou5l4t9/5350
 #EXTINF:-1 ,домашние животные
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
+#EXTINF:0 tvg-rec="3",ID Xtra HD
+#EXTGRP:познавательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2102/index.m3u8
+#EXTINF:0 tvg-rec="3",CBS Reality
+#EXTGRP:познавательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/706/index.m3u8
+#EXTINF:-1,CBS Reality 
+#EXTGRP:познавательные
+http://185.32.44.154/cbsreality/index.m3u8 
 #EXTINF:-1,моя планета 
 http://185.32.44.154/moyaplaneta/index.m3u8 
 #EXTINF:-1 ,Моя планета
+#EXTGRP:познавательные
 http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
 #EXTINF:-1 ,Моя планета
+#EXTGRP:познавательные
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:-1 ,Моя планета
+#EXTGRP:познавательные
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1,Travel Channel 
+#EXTGRP:познавательные
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Travel Adventure
-http://zigfreed.ru/Sv2/946.m3u8
+#EXTGRP:познавательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/850/index.m3u8
 #EXTINF:-1 ,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
