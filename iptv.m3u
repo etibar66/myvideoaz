@@ -165,6 +165,9 @@ http://mytv.fun:8080/grady/41wou5l4t9/36899
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-rec="3",Love Nature 4K
+#EXTGRP:4K
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5001/index.m3u8
 #EXTINF:0 tvg-rec="3",Зоо ТВ
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2100/index.m3u8
