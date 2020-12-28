@@ -150,11 +150,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,k16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?%7CUser-agent=deooleg
-#EXTINF:-1 ,Сарафан
-http://194.113.107.118:8080/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9DMDFfU0FSQUZBTi92YXJpYW50Lm0zdTg_dmVyc2lvbj0y/playlist.m3u8
-#EXTINF:-1 ,Анекдот Тв
-http://194.113.107.118:8080/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9BTkVLRE9UVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg==/playlist.m3u8
-#EXTINF:-1,Nat Geo Wild 
+#EXTINF:0 tvg-rec="3",Сарафан
+#EXTGRP:развлекательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/748/index.m3u8
+#EXTINF:0 tvg-rec="3",Анекдот ТВ
+#EXTGRP:развлекательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5034/index.m3u8#EXTINF:-1,Nat Geo Wild 
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:-1,Animal Planet 
 http://185.32.44.154/animalplanet/index.m3u8 
@@ -164,6 +165,9 @@ http://mytv.fun:8080/grady/41wou5l4t9/36899
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:0 tvg-rec="3",Зоо ТВ
+#EXTGRP:познавательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2100/index.m3u8
 #EXTINF:-1,Zoopark 
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1 ,ZooPark
