@@ -285,8 +285,9 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
 #EXTINF:-1 ,Zigfreed TV
 http://zigfreed.cc.ua/channel/index.m3u8
-#EXTINF:-1 ,India Film
-http://v2.catcast.tv/content/37353/index.m3u8
+#EXTINF:0 tvg-rec="3",ИНДИЙСКОЕ КИНО
+#EXTGRP:кино
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/146/index.m3u8
 #EXTINF:-1,bollywood tv hd
 http://185.118.50.219/RU-bollywoodtvhd/index.m3u8
 #EXTINF:-1 ,Bollywood HD
@@ -334,7 +335,9 @@ http://185.32.44.154/kinotv/index.m3u8
 #EXTINF:-1,TVXXI 
 http://185.32.44.154/tv21/index.m3u8 
 #EXTINF:-1,kinokomedia 
-http://185.32.44.154/kinokomedia/index.m3u8 
+http://185.32.44.154/kinokomedia/index.m3u8
+#EXTINF:-1,Кинокомедия
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/145/index.m3u8 
 #EXTINF:-1,Киносвидание 
 http://185.32.44.154/kinosvidanie/index.m3u8 
 #EXTINF:-1,Киносемья 
