@@ -174,18 +174,25 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2100/index.m3u8
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1,Viasat Nature 
 http://185.32.44.154/viasatnature/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикий
+#EXTGRP:познавательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/847/index.m3u8
 #EXTINF:-1 ,Дикая охота
 http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYAOHOTASD.m3u8
 #EXTINF:-1 ,Дикая рыбалка 
 http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYARYBALKASD.m3u8
+#EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
+#EXTGRP:HD
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2394/index.m3u8
 #EXTINF:-1 ,Охота и Рыбалка
-http://live02-cdn.tv.ti.ru:80/dtv/id1281_NBN_SG--Ohota_Rybalka/03/plst.m3u8
-#EXTINF:-1 ,OHOTA I RYBALKA
 http://109.111.191.108/239.211.211.60/stream.m3u8
 #EXTINF:-1 ,Outdoor Channel FHD RU
 http://mytv.fun:8080/grady/41wou5l4t9/5350
 #EXTINF:-1 ,домашние животные
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
+#EXTINF:0 tvg-rec="3",Пёс и Ко
+#EXTGRP:познавательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2123/index.m3u8
 #EXTINF:0 tvg-rec="3",ID Xtra HD
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2102/index.m3u8
@@ -208,6 +215,9 @@ http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
+#EXTINF:0 tvg-rec="3",Телепутешествия
+#EXTGRP:познавательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2051/index.m3u8
 #EXTINF:-1,Travel Channel 
 #EXTGRP:познавательные
 http://185.32.44.154/travelchannel/index.m3u8
@@ -258,6 +268,12 @@ http://mytv.fun:8080/grady/41wou5l4t9/36866
 http://78.129.228.178/iptv/7E9L6L8AV8KN99/735/index.m3u8
 #EXTINF:-1 ,Poehali!
 http://e01.plius.tv:64144/n154/index.m3u8
+#EXTINF:0 tvg-rec="3",Морской
+#EXTGRP:познавательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/742/index.m3u8
+#EXTINF:0 tvg-rec="3",Sea TV
+#EXTGRP:познавательные
+http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5036/index.m3u8
 #EXTINF:-1 ,Ocean tv
 http://91.192.168.242:9091
 #EXTINF:-1 ,davinci learning
@@ -282,8 +298,6 @@ https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 ,Naturaltv Turk
 https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
-#EXTINF:-1 ,Zigfreed TV
-http://zigfreed.cc.ua/channel/index.m3u8
 #EXTINF:0 tvg-rec="3",ИНДИЙСКОЕ КИНО
 #EXTGRP:кино
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/146/index.m3u8
