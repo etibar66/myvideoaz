@@ -160,8 +160,6 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5034/index.m3u8
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:-1,Animal Planet 
 http://185.32.44.154/animalplanet/index.m3u8 
-#EXTINF:-1 ,Animal Planet HD
-http://mytv.fun:8080/grady/41wou5l4t9/36899
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:0 tvg-rec="3",Love Nature 4K
@@ -177,6 +175,9 @@ http://185.32.44.154/viasatnature/index.m3u8
 #EXTINF:0 tvg-rec="3",Дикий
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/847/index.m3u8
+#EXTINF:0 tvg-rec="3",Дикий
+#EXTGRP:познавательные
+http://185.245.187.150:80/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая охота
 http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYAOHOTASD.m3u8
 #EXTINF:-1 ,Дикая рыбалка 
@@ -184,8 +185,8 @@ http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYARYBALKASD.m3u8
 #EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
 #EXTGRP:HD
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2394/index.m3u8
-#EXTINF:-1 ,Охота и Рыбалка
-http://109.111.191.108/239.211.211.60/stream.m3u8
+#EXTINF:0,Охота И Рыбалка
+https://s3.idata.uz/dars5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Outdoor Channel FHD RU
 http://mytv.fun:8080/grady/41wou5l4t9/5350
 #EXTINF:-1 ,домашние животные
@@ -193,6 +194,9 @@ http://185.118.50.219/RU-domashniejivotnie/index.m3u8
 #EXTINF:0 tvg-rec="3",Пёс и Ко
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2123/index.m3u8
+#EXTINF:0 tvg-rec="3",ID Xtra HD
+#EXTGRP:познавательные
+http://s2.ttranslit.com:8081/s4g_idextra/index.m3u8?wmsAuthSign=1610502592Sa7a04db096a2acccd25ac18183ecb820S881h112h791h5
 #EXTINF:0 tvg-rec="3",ID Xtra HD
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2102/index.m3u8
@@ -218,6 +222,9 @@ https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:0 tvg-rec="3",Телепутешествия
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2051/index.m3u8
+#EXTINF:0 tvg-rec="3",Телепутешествия
+#EXTGRP:познавательные
+http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:-1,Travel Channel 
 #EXTGRP:познавательные
 http://185.32.44.154/travelchannel/index.m3u8
@@ -274,6 +281,8 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/742/index.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5036/index.m3u8
 #EXTINF:-1 ,Ocean tv
 http://91.192.168.242:9091
+#EXTINF:-1 ,Ocean tv
+http://mytv.fun:8080/grady/41wou5l4t9/36899
 #EXTINF:-1 ,davinci learning
 http://185.118.50.219/RU-davincilearning/index.m3u8
 #EXTINF:-1,History 
@@ -303,6 +312,8 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/146/index.m3u8
 http://185.118.50.219/RU-bollywoodtvhd/index.m3u8
 #EXTINF:-1 ,Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 ,ZEE
+http://185.245.187.150:80/ZeeTV/index.m3u8
 #EXTINF:-1 ,ЛИК
 http://v2.catcast.me/content/37353/index.m3u8
 #EXTINF:-1,CTC 
@@ -473,6 +484,8 @@ http://176.115.152.6:4000/play/a00c/index.m3u8
 http://176.115.152.6:4002/play/a00e/index.m3u8
 #EXTINF:-1 group-title="КИНО",Sony Turbo
 http://176.115.152.6:4000/play/a005/index.m3u8
+#EXTINF:-1,MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,TMB 
 http://185.32.44.154/tmb/index.m3u8 
 #EXTINF:-1 ,Kral Pop
