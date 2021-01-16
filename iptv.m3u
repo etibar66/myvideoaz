@@ -217,6 +217,8 @@ http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:-1 ,Моя планета
 #EXTGRP:познавательные
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:0 tvg-rec="3",Телепутешествия
@@ -273,6 +275,8 @@ http://mytv.fun:8080/grady/41wou5l4t9/36866
 http://78.129.228.178/iptv/7E9L6L8AV8KN99/735/index.m3u8
 #EXTINF:-1 ,Poehali!
 http://e01.plius.tv:64144/n154/index.m3u8
+#EXTINF:-1 ,Трофей
+http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_b2128000_slukr.m3u8
 #EXTINF:0 tvg-rec="3",Морской
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/742/index.m3u8
