@@ -71,8 +71,17 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1 ,Рен ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
+#EXTINF:0 tvg-rec="3",ТНТ
+#EXTGRP:Обшественное
+http://185.32.44.154/tnt/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ HD
 #EXTGRP:HD
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/237/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ Exclusiv TV
+#EXTGRP:Обшественное
+http://7341035e.edemist.com/iptv/FNDYDGHPY3T8KH/2463/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ HD
+#EXTGRP:Обшественное
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/237/index.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
@@ -158,6 +167,8 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/748/index.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5034/index.m3u8
 #EXTINF:-1,Nat Geo Wild 
 http://185.32.44.154/natgeowild/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/216/index.m3u8
 #EXTINF:-1,Animal Planet 
 http://185.32.44.154/animalplanet/index.m3u8 
 #EXTINF:-1 ,Love Nature
@@ -189,6 +200,9 @@ http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYARYBALKASD.m3u8
 #EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
 #EXTGRP:HD
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2394/index.m3u8
+#EXTINF:0 tvg-rec="3",Охотник и рыболов HD
+#EXTGRP:познавательные
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/917/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,Outdoor Channel FHD RU
@@ -232,6 +246,8 @@ http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:-1,Travel Channel 
 #EXTGRP:познавательные
 http://185.32.44.154/travelchannel/index.m3u8
+#EXTINF:-1,Travel Channel HD
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/233/index.m3u8
 #EXTINF:-1 ,Travel Adventure
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/850/index.m3u8
