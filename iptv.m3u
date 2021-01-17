@@ -172,6 +172,10 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2100/index.m3u8
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1,Viasat Nature 
 http://185.32.44.154/viasatnature/index.m3u8
+#EXTINF:-1 ,Живая Планета
+http://185.32.44.154/jivayaplaneta/index.m3u8
+#EXTINF:-1 ,домашние животные
+http://185.118.50.219/RU-domashniejivotnie/index.m3u8
 #EXTINF:0 tvg-rec="3",Дикий
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/847/index.m3u8
@@ -185,18 +189,16 @@ http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYARYBALKASD.m3u8
 #EXTINF:0 tvg-rec="3",Диалоги о рыбалке HD
 #EXTGRP:HD
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2394/index.m3u8
-#EXTINF:0,Охота И Рыбалка
-https://s3.idata.uz/dars5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Охота и рыбалка
+http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,Outdoor Channel FHD RU
 http://mytv.fun:8080/grady/41wou5l4t9/5350
-#EXTINF:-1 ,домашние животные
-http://185.118.50.219/RU-domashniejivotnie/index.m3u8
 #EXTINF:0 tvg-rec="3",Пёс и Ко
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2123/index.m3u8
 #EXTINF:0 tvg-rec="3",ID Xtra HD
 #EXTGRP:познавательные
-http://s2.ttranslit.com:8081/s4g_idextra/index.m3u8?wmsAuthSign=1610502592Sa7a04db096a2acccd25ac18183ecb820S881h112h791h5
+http://185.32.44.154/idextra/index.m3u8
 #EXTINF:0 tvg-rec="3",ID Xtra HD
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2102/index.m3u8
@@ -275,6 +277,8 @@ http://mytv.fun:8080/grady/41wou5l4t9/36866
 http://78.129.228.178/iptv/7E9L6L8AV8KN99/735/index.m3u8
 #EXTINF:-1 ,Poehali!
 http://e01.plius.tv:64144/n154/index.m3u8
+#EXTINF:-1 ,Бобер
+http://185.32.44.154/bobertv/index.m3u8
 #EXTINF:-1 ,Трофей
 http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_b2128000_slukr.m3u8
 #EXTINF:0 tvg-rec="3",Морской
@@ -312,6 +316,8 @@ https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
 #EXTINF:0 tvg-rec="3",ИНДИЙСКОЕ КИНО
 #EXTGRP:кино
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/146/index.m3u8
+#EXTINF:-1 ,Индийское кино
+http://185.32.44.154/indiskoekino/index.m3u8
 #EXTINF:-1,bollywood tv hd
 http://185.118.50.219/RU-bollywoodtvhd/index.m3u8
 #EXTINF:-1 ,Bollywood HD
@@ -634,14 +640,12 @@ http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 ,Realtv
-http://185.118.50.219/AZ-realtv/index.m3u8
-#EXTINF:-1 ,Arb24
-http://185.118.50.219/AZ-arb24/index.m3u8
 #EXTINF:-1 ,Az tv
 http://185.118.50.219/AZ-aztv/index.m3u8
 #EXTINF:-1 ,ictimai tv
 http://185.118.50.219/AZ-ictimai/index.m3u8
+#EXTINF:-1,Azad Tv
+http://185.32.44.154/azadazerbaycan/index.m3u8
 #EXTINF:-1 ,ATV-2
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:-1 ,Xezer TV
@@ -652,10 +656,14 @@ http://185.118.50.219/AZ-space/index.m3u8
 http://185.118.50.219/AZ-lider/index.m3u8
 #EXTINF:-1 ,Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:-1 ,cbc
-http://185.118.50.219/AZ-cbc/index.m3u8
 #EXTINF:-1 ,ARB
 http://149.255.155.142/ARB/index.m3u8
+#EXTINF:-1 ,cbc
+http://185.118.50.219/AZ-cbc/index.m3u8
+#EXTINF:-1 ,Realtv
+http://185.118.50.219/AZ-realtv/index.m3u8
+#EXTINF:-1 ,Arb24
+http://185.118.50.219/AZ-arb24/index.m3u8
 #EXTINF:-1 ,Big Ass (18+)
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 ,Cuckold HD 720 (18+)
