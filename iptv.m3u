@@ -5,18 +5,6 @@ http://185.32.44.154/perviy/index.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
 #EXTINF:-1 ,Первый канал
 https://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_1TV/bw2000000/playlist.m3u8?utcstart=1589997600
-#EXTINF:-1 ,Первый канал (+2)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV/variant.m3u8?version=2
-#EXTINF:-1 ,Первый канал (+3)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
-#EXTINF:-1 ,Первый канал (+4)
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8?version=2
-#EXTINF:-1 ,Первый канал (+5)
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
-#EXTINF:-1 ,Первый канал (+6)
-http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
-#EXTINF:-1 ,Первый канал (+7)
-http://s34351.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
 #EXTINF:-1,Россия 1 
 http://185.32.44.154/rossiya1/index.m3u8
 #EXTINF:-1 ,Россия 1 HD
@@ -25,16 +13,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 http://mytv.fun:8080/grady/41wou5l4t9/36869
 #EXTINF:-1 ,Russia 1 HD RU
 http://mytv.fun:8080/grady/41wou5l4t9/5356
-#EXTINF:-1 ,Россия 1 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
-#EXTINF:-1 ,Россия 1 (+3)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
-#EXTINF:-1 ,Россия 1 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
-#EXTINF:-1 ,Россия 1 (+5)
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 ,Россия 1 (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=2
 #EXTINF:-1,НТВ 
 http://185.32.44.154/ntvplus/index.m3u8 
 #EXTINF:-1 ,НТВ
@@ -42,21 +20,11 @@ http://live02-cdn.tv.ti.ru:80/dtv/id196_NBN_SG--NTV/03/plst.m3u8
 #EXTINF:-1 ,НТВ
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 #EXTINF:-1 ,НТВ
-http://tinyurl.com/wgryht4/CH_NTV/bw2000000/variant.m3u8
-#EXTINF:-1 ,НТВ
 https://a787201477-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw1500000/playlist.m3u8?utcstart=1589752800
-#EXTINF:-1 ,НТВ
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
-#EXTINF:-1 ,НТВ
-http://194.113.107.118:8080/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9OVFYvdmFyaWFudC5tM3U4P3ZlcnNpb249Mg==/playlist.m3u8
-#EXTINF:-1 ,НТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
-#EXTINF:-1 ,НТВ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
-#EXTINF:-1 ,НТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
 #EXTINF:-1 ,НТВ (Мурманск)
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_MURM_NTV/variant.m3u8?version=2
+#EXTINF:-1 ,НТВ Право
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/743/index.m3u8
 #EXTINF:-1,Рен ТВ 
 http://185.32.44.154/rentv/index.m3u8 
 #EXTINF:-1 ,Рен ТВ
@@ -67,10 +35,6 @@ http://uiptv.do.am/1ufc/102323759/playlist.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
 #EXTINF:-1 ,Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 ,Рен ТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
-#EXTINF:-1 ,Рен ТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
 #EXTINF:0 tvg-rec="3",ТНТ
 #EXTGRP:Обшественное
 http://185.32.44.154/tnt/index.m3u8
@@ -83,30 +47,12 @@ http://7341035e.edemist.com/iptv/FNDYDGHPY3T8KH/2463/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ HD
 #EXTGRP:Обшественное
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/237/index.m3u8
-#EXTINF:-1 ,ТНТ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
-#EXTINF:-1 ,ТНТ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
-#EXTINF:-1 ,ТНТ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
-#EXTINF:-1 ,ТНТ4 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
-#EXTINF:-1 ,ТНТ4 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
-#EXTINF:-1 ,ТНТ4 (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
 #EXTINF:-1,ТВЦ 
 http://185.32.44.154/tvc/index.m3u8 
 #EXTINF:-1 ,ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 ,ТВ Центр
 https://a787201486-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw500000/playlist.m3u8?utcstart=1590001200
-#EXTINF:-1 ,ТВ Центр (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
-#EXTINF:-1 ,ТВ Центр (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
-#EXTINF:-1 ,ТВ Центр (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
 #EXTINF:-1 ,1-й Республиканский
 http://dprtv.phoenix-dnr.ru/first-republic-tv
 #EXTINF:-1 ,Пятый канал
@@ -125,36 +71,18 @@ http://185.118.50.219/RU-che/index.m3u8
 http://185.32.44.154/ce/index.m3u8 
 #EXTINF:-1 ,Че
 http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
-#EXTINF:-1 ,Че (+2)
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 ,Че (+4)
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 ,Че (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
 #EXTINF:-1 ,Пятница
 http://live02-cdn.tv.ti.ru:80/dtv/id127_NBN_SG--pjatnica/03/plst.m3u8
 #EXTINF:-1 ,Пятница
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 ,Пятница HD
 https://a3569457540-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_OTT/bw2000000/playlist.m3u8?utcstart=1590001200
-#EXTINF:-1 ,Пятница (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
-#EXTINF:-1 ,Пятница (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
-#EXTINF:-1 ,Пятница (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
 #EXTINF:-1 ,Cупер
 http://tinyurl.com/wgryht4/CH_SUPER/bw2000000/variant.m3u8
 #EXTINF:-1 ,Cупер
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 ,Cупер
 http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/playlist.m3u8?utcstart=1581238800&version=2
-#EXTINF:-1 ,Cупер (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
-#EXTINF:-1 ,Cупер (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
-#EXTINF:-1 ,Cупер (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
 #EXTINF:-1 ,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,k16
