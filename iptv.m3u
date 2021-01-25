@@ -80,25 +80,27 @@ https://a3569457540-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_OTT/bw2000000/
 #EXTINF:-1 ,Cупер
 http://tinyurl.com/wgryht4/CH_SUPER/bw2000000/variant.m3u8
 #EXTINF:-1 ,Cупер
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 ,Cупер
-http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/playlist.m3u8?utcstart=1581238800&version=2
+http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/826/index.m3u8
 #EXTINF:-1 ,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,k16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?%7CUser-agent=deooleg
 #EXTINF:0 tvg-rec="3",Сарафан
-#EXTGRP:развлекательные
-http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/748/index.m3u8
+http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/748/index.m3u8
 #EXTINF:0 tvg-rec="3",Анекдот ТВ
 #EXTGRP:развлекательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5034/index.m3u8
+#EXTINF:0 tvg-rec="3",Анекдот ТВ
+#EXTGRP:развлекательные
+http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/5034/index.m3u8
 #EXTINF:-1,Nat Geo Wild 
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/216/index.m3u8
 #EXTINF:-1,Animal Planet 
 http://185.32.44.154/animalplanet/index.m3u8 
+#EXTINF:-1,Animal Planet HD
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/218/index.m3u8
 #EXTINF:-1 ,Love Nature
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:0 tvg-rec="3",Love Nature 4K
@@ -107,6 +109,9 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5001/index.m3u8
 #EXTINF:0 tvg-rec="3",Зоо ТВ
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2100/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоо ТВ
+#EXTGRP:познавательные
+http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2100/index.m3u8
 #EXTINF:-1,Zoopark 
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1,Viasat Nature 
@@ -117,7 +122,7 @@ http://185.32.44.154/jivayaplaneta/index.m3u8
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
 #EXTINF:0 tvg-rec="3",Дикий
 #EXTGRP:познавательные
-http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/847/index.m3u8
+http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/847/index.m3u8
 #EXTINF:0 tvg-rec="3",Дикий
 #EXTGRP:познавательные
 http://185.245.187.150:80/Dikiy/index.m3u8
@@ -133,14 +138,16 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2394/index.m3u8
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/917/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
-#EXTINF:-1 ,Outdoor Channel FHD RU
-http://mytv.fun:8080/grady/41wou5l4t9/5350
+#EXTINF:-1 ,Outdoor Channel 
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/119/index.m3u8
 #EXTINF:0 tvg-rec="3",Пёс и Ко
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2123/index.m3u8
 #EXTINF:0 tvg-rec="3",ID Xtra HD
 #EXTGRP:познавательные
 http://185.32.44.154/idextra/index.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",Investigation Discovery
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/139/index.m3u8
 #EXTINF:0 tvg-rec="3",ID Xtra HD
 #EXTGRP:познавательные
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2102/index.m3u8
@@ -170,7 +177,7 @@ https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/2051/index.m3u8
 #EXTINF:0 tvg-rec="3",Телепутешествия
 #EXTGRP:познавательные
-http://ott-cdn.ucom.am/s71/04.m3u8
+http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2051/index.m3u8
 #EXTINF:-1,Travel Channel 
 #EXTGRP:познавательные
 http://185.32.44.154/travelchannel/index.m3u8
@@ -188,13 +195,13 @@ http://185.32.44.154/rtg/index.m3u8
 #EXTINF:-1 ,Большая Азия
 http://89.189.191.250/239.211.211.162/stream.m3u8
 #EXTINF:-1 ,HD Life
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/226/index.m3u8
+#EXTINF:-1 ,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:-1 ,HD Life
-http://89.106.234.3:80/hdl_34_35.m3u8
-#EXTINF:-1 ,HD Life
-http://mytv.fun:8080/grady/41wou5l4t9/36892
 #EXTINF:-1,National Geographic 
 http://185.32.44.154/nationalgeographic/index.m3u8 
+#EXTINF:-1,National Geographic HD
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/230/index.m3u8
 #EXTINF:-1 ,National Geographic RU
 http://mytv.fun:8080/grady/41wou5l4t9/5353
 #EXTINF:-1,Discovery Channel 
@@ -235,6 +242,8 @@ http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/5036/index.m3u8
 http://91.192.168.242:9091
 #EXTINF:-1 ,Ocean tv
 http://mytv.fun:8080/grady/41wou5l4t9/36899
+#EXTINF:-1 ,Морской
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/742/index.m3u8
 #EXTINF:-1 ,davinci learning
 http://185.118.50.219/RU-davincilearning/index.m3u8
 #EXTINF:-1,History 
@@ -268,26 +277,18 @@ http://185.118.50.219/RU-bollywoodtvhd/index.m3u8
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 ,ZEE
 http://185.245.187.150:80/ZeeTV/index.m3u8
+#EXTINF:-1 ,ZEE
+http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/1001/index.m3u8
 #EXTINF:-1 ,ЛИК
 http://v2.catcast.me/content/37353/index.m3u8
 #EXTINF:-1,CTC 
 http://185.32.44.154/ctc/index.m3u8 
-#EXTINF:-1 ,СТС (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
-#EXTINF:-1 ,СТС (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
-#EXTINF:-1 ,СТС Love
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 ,СТС Love (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
-#EXTINF:-1 ,СТС Love (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
 #EXTINF:-1 ,СТС Prima
 http://tinyurl.com/qqydup5/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 #EXTINF:-1 ,домашний
 http://185.118.50.219/RU-domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
+http://185.32.44.154/domashniy/index.m3u8
 #EXTINF:-1,ТВ3 
 http://185.32.44.154/tv3/index.m3u8 
 #EXTINF:-1 ,ТВ3 (+2)
@@ -478,6 +479,8 @@ http://live.m2.tv/hls3/stream.m3u8
 http://rtmp.one.by:2300
 #EXTINF:-1 ,M2OTV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 ,MCM TOP
+http://185.32.44.154/mcmtop/index.m3u8
 #EXTINF:-1 ,City TV (BG)
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 ,Deejay TV (IT)
