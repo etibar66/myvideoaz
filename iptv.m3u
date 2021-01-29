@@ -84,35 +84,45 @@ http://185.32.44.154/viasatnature/index.m3u8
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:-1 ,домашние животные
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
-#EXTINF:-1 ,#EXTGRP:познавательные
+#EXTINF:-1 ,Дикий
+#EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/847/index.m3u8
-#EXTINF:-1 ,#EXTGRP:познавательные
+#EXTINF:-1 ,Дикая 
+#EXTGRP:познавательные
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/917/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,Outdoor Channel
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/119/index.m3u8
-#EXTINF:-1 ,#EXTGRP:познавательные
+#EXTINF:-1 ,Id Xtra
+#EXTGRP:познавательные
 http://185.32.44.154/idextra/index.m3u8
-#EXTINF:-1 group-title="Channels",Investigation Discovery
+#EXTINF:-1,Investigation Discovery
+#EXTGRP:познавательные
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/139/index.m3u8
-#EXTINF:-1 ,#EXTGRP:познавательные
+#EXTINF:-1 ,cbsreality
+#EXTGRP:познавательные
 http://185.32.44.154/cbsreality/index.m3u8
 #EXTINF:-1 ,моя планета
 http://185.32.44.154/moyaplaneta/index.m3u8
-#EXTINF:-1 ,#EXTGRP:познавательные
+#EXTINF:-1 ,Моя планета
+#EXTGRP:познавательные
 http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
-#EXTINF:-1 ,#EXTGRP:познавательные
+#EXTINF:-1 ,Моя планета
+#EXTGRP:познавательные
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
-#EXTINF:-1 ,#EXTGRP:познавательные
+#EXTINF:-1 ,Моя планета
+#EXTGRP:познавательные
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,BamBarBia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
-#EXTINF:-1 ,#EXTGRP:познавательные
+#EXTINF:-1 ,Телепутешествие
+#EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2051/index.m3u8
-#EXTINF:-1 ,#EXTGRP:познавательные
+#EXTINF:-1 ,Travel channel
+#EXTGRP:познавательные
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Travel Channel HD
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/233/index.m3u8
