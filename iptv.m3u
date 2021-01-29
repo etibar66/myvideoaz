@@ -23,9 +23,14 @@ http://uiptv.do.am/1ufc/102323759/playlist.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
 #EXTINF:-1 ,Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 ,#EXTGRP:Обшественное
+#EXTINF:-1 ,ТНТ
+#EXTGRP:Обшественное
 http://185.32.44.154/tnt/index.m3u8
-#EXTINF:-1 ,#EXTGRP:HD
+#EXTINF:-1 ,ТНТ
+#EXTGRP:Обшественное
+http://uiptv.do.am/1ufc/106596187/playlist.m3u8
+#EXTINF:-1 ,ТНТ
+#EXTGRP:Обшественное
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/237/index.m3u8
 #EXTINF:-1 ,#EXTGRP:Обшественное
 http://7341035e.edemist.com/iptv/FNDYDGHPY3T8KH/2463/index.m3u8
@@ -40,13 +45,13 @@ http://sc.id-tv.kz/Mir_38_39.m3u8
 #EXTINF:-1 ,МИР Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 ,Че
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 ,Че
 http://185.118.50.219/RU-che/index.m3u8
 #EXTINF:-1 ,Че
 http://185.32.44.154/ce/index.m3u8
 #EXTINF:-1 ,Че
 http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
+#EXTINF:-1 ,Пятница
+http://uiptv.do.am/1ufc/103815382/playlist.m3u8
 #EXTINF:-1 ,Пятница
 http://live02-cdn.tv.ti.ru:80/dtv/id127_NBN_SG--pjatnica/03/plst.m3u8
 #EXTINF:-1 ,Cупер
@@ -81,10 +86,6 @@ http://185.32.44.154/jivayaplaneta/index.m3u8
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
 #EXTINF:-1 ,#EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/847/index.m3u8
-#EXTINF:-1 ,Дикая охота
-http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYAOHOTASD.m3u8
-#EXTINF:-1 ,Дикая рыбалка
-http://dmitry-tv.my1.ru/his/zabava/01/CH_DIKAYARYBALKASD.m3u8
 #EXTINF:-1 ,#EXTGRP:познавательные
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/917/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -191,6 +192,8 @@ http://185.32.44.154/ctc/index.m3u8
 http://185.118.50.219/RU-domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
 http://185.32.44.154/domashniy/index.m3u8
+#EXTINF:-1 ,Домашний
+http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://185.32.44.154/tv3/index.m3u8
 #EXTINF:-1 ,Film Box (RU)
@@ -443,5 +446,3 @@ http://live.redtraffic.xyz/threesome.m3u8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 ,Latina HD 720 (18+)
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 ,EXXXOTICA HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/variant.m3u8
