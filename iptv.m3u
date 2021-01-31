@@ -97,9 +97,6 @@ http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/119/index.m3u8
 #EXTINF:-1 ,Id Xtra
 #EXTGRP:познавательные
 http://185.32.44.154/idextra/index.m3u8
-#EXTINF:-1,Investigation Discovery
-#EXTGRP:познавательные
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/139/index.m3u8
 #EXTINF:-1 ,cbsreality
 #EXTGRP:познавательные
 http://185.32.44.154/cbsreality/index.m3u8
@@ -118,7 +115,7 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
-#EXTINF:-1 ,Телепутешествие
+#EXTINF:-1 ,Телепутешествия
 #EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2051/index.m3u8
 #EXTINF:-1 ,Travel channel
