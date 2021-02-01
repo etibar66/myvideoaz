@@ -23,14 +23,11 @@ http://uiptv.do.am/1ufc/102323759/playlist.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
 #EXTINF:-1 ,Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 ,ТНТ
-#EXTGRP:Обшественное
+#EXTINF:-1 ,#EXTGRP:Обшественное
 http://185.32.44.154/tnt/index.m3u8
-#EXTINF:-1 ,ТНТ
-#EXTGRP:Обшественное
+#EXTINF:-1 ,#EXTGRP:Обшественное
 http://uiptv.do.am/1ufc/106596187/playlist.m3u8
-#EXTINF:-1 ,ТНТ
-#EXTGRP:Обшественное
+#EXTINF:-1 ,#EXTGRP:Обшественное
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/237/index.m3u8
 #EXTINF:-1 ,#EXTGRP:Обшественное
 http://7341035e.edemist.com/iptv/FNDYDGHPY3T8KH/2463/index.m3u8
@@ -62,8 +59,7 @@ http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?%7CUser-agent=deooleg
 #EXTINF:-1 ,Сарафан
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/748/index.m3u8
-#EXTINF:-1 ,Анекдот
-#EXTGRP:развлекательные
+#EXTINF:-1 ,#EXTGRP:развлекательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/5034/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
@@ -73,8 +69,7 @@ http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/216/index.m3u8
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:-1 ,Animal Planet HD
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/218/index.m3u8
-#EXTINF:-1 ,ЗОО
-#EXTGRP:познавательные
+#EXTINF:-1 ,#EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2100/index.m3u8
 #EXTINF:-1 ,Zoopark
 http://185.32.44.154/zoopark/index.m3u8
@@ -84,42 +79,33 @@ http://185.32.44.154/viasatnature/index.m3u8
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:-1 ,домашние животные
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
-#EXTINF:-1 ,Дикий
-#EXTGRP:познавательные
+#EXTINF:-1 ,#EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/847/index.m3u8
-#EXTINF:-1 ,Дикая 
-#EXTGRP:познавательные
+#EXTINF:-1 ,#EXTGRP:познавательные
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/917/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,Outdoor Channel
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/119/index.m3u8
-#EXTINF:-1 ,Id Xtra
-#EXTGRP:познавательные
+#EXTINF:-1 ,#EXTGRP:познавательные
 http://185.32.44.154/idextra/index.m3u8
-#EXTINF:-1 ,cbsreality
-#EXTGRP:познавательные
+#EXTINF:-1 ,#EXTGRP:познавательные
 http://185.32.44.154/cbsreality/index.m3u8
 #EXTINF:-1 ,моя планета
 http://185.32.44.154/moyaplaneta/index.m3u8
-#EXTINF:-1 ,Моя планета
-#EXTGRP:познавательные
+#EXTINF:-1 ,#EXTGRP:познавательные
 http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
-#EXTINF:-1 ,Моя планета
-#EXTGRP:познавательные
+#EXTINF:-1 ,#EXTGRP:познавательные
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
-#EXTINF:-1 ,Моя планета
-#EXTGRP:познавательные
+#EXTINF:-1 ,#EXTGRP:познавательные
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,BamBarBia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
-#EXTINF:-1 ,Телепутешествия
-#EXTGRP:познавательные
+#EXTINF:-1 ,#EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2051/index.m3u8
-#EXTINF:-1 ,Travel channel
-#EXTGRP:познавательные
+#EXTINF:-1 ,#EXTGRP:познавательные
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Travel Channel HD
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/233/index.m3u8
@@ -253,8 +239,6 @@ http://185.32.44.154/tv1000/index.m3u8
 http://188.35.9.11:2015
 #EXTINF:-1 ,Sony ТВ
 http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/559/index.m3u8
-#EXTINF:-1 group-title="КИНО",ULTO tva.org.ua
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1 group-title="КИНО",FILM TV HD
 https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 group-title="КИНО",Видеокассета
@@ -323,8 +307,6 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 ,Cannali Music
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 ,88 FM Stereo
-http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
 #EXTINF:-1 ,TVM
 http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
 #EXTINF:-1 ,Москва-24
