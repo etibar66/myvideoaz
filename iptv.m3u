@@ -40,6 +40,8 @@ http://185.32.44.154/tvc/index.m3u8
 #EXTINF:-1 ,1-й Республиканский
 http://dprtv.phoenix-dnr.ru/first-republic-tv
 #EXTINF:-1 ,Звезда
+http://185.32.44.154/zvezda/index.m3u8
+#EXTINF:-1 ,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 ,Мир
 http://sc.id-tv.kz/Mir_38_39.m3u8
@@ -61,6 +63,10 @@ http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/826/index.m3u8
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,k16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?%7CUser-agent=deooleg
+#EXTINF:-1 ,Южная Волна HD
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:-1 ,Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 ,Сарафан
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/748/index.m3u8
 #EXTINF:-1 ,Анекдот
@@ -70,6 +76,8 @@ http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/5034/index.m3u8
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild HD
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/216/index.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 ,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:-1 ,Animal Planet HD
@@ -77,6 +85,8 @@ http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/218/index.m3u8
 #EXTINF:-1 ,Зоо Тв
 #EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2100/index.m3u8
+#EXTINF:-1 ,Зоо Тв
+http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1 ,Zoopark
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1 ,Viasat Nature
@@ -93,6 +103,8 @@ http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/847/index.m3u8
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/917/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
+#EXTINF:-1 ,ОХОТНИК И РЫБОЛОВ
+http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTINF:-1 ,Outdoor Channel
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/119/index.m3u8
 #EXTINF:-1 ,Id Xtra
@@ -119,15 +131,17 @@ https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1 ,Телепутешествия
 #EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2051/index.m3u8
-#EXTINF:-1 ,Travel channel
-#EXTGRP:познавательные
-http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Travel Channel HD
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/233/index.m3u8
+#EXTINF:-1 ,Travel adventure
+#EXTGRP:познавательные
+http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/850/index.m3u8
 #EXTINF:-1 ,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
 https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 ,Terra Incognita HD
+http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,RTG
 http://185.32.44.154/rtg/index.m3u8
 #EXTINF:-1 ,Большая Азия
@@ -144,6 +158,8 @@ http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/230/index.m3u8
 http://185.32.44.154/discoverychannel/index.m3u8
 #EXTINF:-1 ,Discovery Science
 http://185.32.44.154/discoveryscience/index.m3u8
+#EXTINF:-1,dtx
+http://185.118.50.219/RU-dtx/index.m3u8
 #EXTINF:-1 ,Galaxy
 http://185.32.44.154/galaxytv/index.m3u8
 #EXTINF:-1 ,RT Д Русский
@@ -166,16 +182,26 @@ http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_b212800
 http://91.192.168.242:9091
 #EXTINF:-1 ,Морской
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/742/index.m3u8
+#EXTINF:-1 ,Морской
+http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/742/index.m3u8
+#EXTINF:-1 ,Под Водой 
+http://live-1.otcnet.ru/podvodoi/index.m3u8
 #EXTINF:-1 ,davinci learning
 http://185.118.50.219/RU-davincilearning/index.m3u8
+#EXTINF:-1 ,davinci learning
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 ,History
 http://185.32.44.154/history/index.m3u8
 #EXTINF:-1 ,История
 http://185.32.44.154/istoriya/index.m3u8
 #EXTINF:-1 ,наука 2.0
 http://185.118.50.219/RU-nauka20/index.m3u8
+#EXTINF:-1 ,наука 2.0
+http://194.156.166.2:8000/play/a026
 #EXTINF:-1 ,Техно 24
 http://185.32.44.154/24texno/index.m3u8
+#EXTINF:-1 ,ЭВРИКА
+http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 ,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 ,Luxury
@@ -196,6 +222,8 @@ https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/1001/index.m3u8
 #EXTINF:-1 ,CTC
 http://185.32.44.154/ctc/index.m3u8
+#EXTINF:-1 ,CTC Love
+http://ott-cdn.ucom.am/s38/04.m3u8
 #EXTINF:-1 ,домашний
 http://185.118.50.219/RU-domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
@@ -208,10 +236,21 @@ http://185.32.44.154/tv3/index.m3u8
 http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/1071/index.m3u8
 #EXTINF:-1 ,Наше Новое Кино
 http://185.32.44.154/nashenovoekino/index.m3u8
+#EXTINF:-1,русский бестселлер
+http://185.118.50.219/RU-russkiybestseller/index.m3u8
+#EXTINF:-1,русский экстрим
+http://185.118.50.219/RU-russkiyekstrim/index.m3u8
+#EXTINF:-1,русский иллюзион
+http://185.118.50.219/RU-russkiyilluzion/index.m3u8
+#EXTINF:-1,русский роман HD
+http://185.118.50.219/RU-russkiyroman/index.m3u8
 #EXTINF:-1 ,Дом кино
 http://185.32.44.154/domkino/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://185.32.44.154/eurokino/index.m3u8
+#EXTINF:-1 ,Еврокино
+#EXTGRP:Кино
+http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:-1 ,Иллюзион
 http://185.32.44.154/illuzion/index.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -220,10 +259,18 @@ http://185.32.44.154/kinotv/index.m3u8
 http://185.32.44.154/tv21/index.m3u8
 #EXTINF:-1 ,kinokomedia
 http://185.32.44.154/kinokomedia/index.m3u8
+#EXTINF:-1,кинокомедия
+http://185.118.50.219/RU-kinokomediya/index.m3u8
+#EXTINF:-1,киномикс
+http://185.118.50.219/RU-kinomiks/index.m3u8
 #EXTINF:-1 ,Киносвидание
 http://185.32.44.154/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://185.32.44.154/kinosemya/index.m3u8
+#EXTINF:-1,киносемья HD
+http://185.118.50.219/RU-kinosemya/index.m3u8
+#EXTINF:-1,amedia1
+http://185.118.50.219/RU-amedia1/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://185.32.44.154/amedia2/index.m3u8
 #EXTINF:-1 ,A2
@@ -260,6 +307,8 @@ https://v2.catcast.tv/content/38144/index.m3u8
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="КИНО",Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 group-title="КИНО",Киноужас
+http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 group-title="Дети",Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Дети",МультСказки
@@ -396,6 +445,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 #EXTINF:-1 ,Москва 24
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=
+#EXTINF:-1 ,Москва 24
+https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,Az tv
@@ -414,6 +465,8 @@ http://185.118.50.219/AZ-space/index.m3u8
 http://185.118.50.219/AZ-lider/index.m3u8
 #EXTINF:-1 ,Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 ,Qəbələ TV
+https://qebele.tv/live/stream/index.m3u8
 #EXTINF:-1 ,ARB
 http://149.255.155.142/ARB/index.m3u8
 #EXTINF:-1 ,cbc
@@ -422,6 +475,12 @@ http://185.118.50.219/AZ-cbc/index.m3u8
 http://185.118.50.219/AZ-realtv/index.m3u8
 #EXTINF:-1 ,Arb24
 http://185.118.50.219/AZ-arb24/index.m3u8
+#EXTINF:-1 ,Az News TV
+https://swow1.socialsmart.tv/aznews/smil:aznews.smil/chunklist_w750686581_b1364000_sltur.m3u8
+#EXTINF:-1 ,Günaz TV
+http://gtv.live.cdn.bitgravity.com/gtv/live/feed02
+#EXTINF:-1 ,Azstar TV
+http://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w1579849357_b2000000_slen.m3u8
 #EXTINF:-1 ,Big Ass (18+)
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 ,Cuckold HD 720 (18+)
