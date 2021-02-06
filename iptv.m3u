@@ -53,6 +53,10 @@ http://185.118.50.219/RU-che/index.m3u8
 http://185.32.44.154/ce/index.m3u8
 #EXTINF:-1 ,Че
 http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
+#EXTINF:-1 ,Че
+http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
+#EXTINF:-1 ,Пятница!
+http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
 #EXTINF:-1 ,Пятница
 http://uiptv.do.am/1ufc/103815382/playlist.m3u8
 #EXTINF:-1 ,Пятница
@@ -85,6 +89,8 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 ,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:-1 ,Animal Planet HD
+http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
+#EXTINF:-1 ,Animal Planet HD
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/218/index.m3u8
 #EXTINF:-1 ,Зоо Тв
 #EXTGRP:познавательные
@@ -95,10 +101,14 @@ http://ott-cdn.ucom.am/s92/04.m3u8
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://185.32.44.154/viasatnature/index.m3u8
+#EXTINF:-1 ,Viasat Nature
+http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
 #EXTINF:-1 ,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:-1 ,домашние животные
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
+#EXTINF:-1 ,Дикий
+http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
 #EXTINF:-1 ,Дикий
 #EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/847/index.m3u8
@@ -114,6 +124,9 @@ http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/119/index.m3u8
 #EXTINF:-1 ,Id Xtra
 #EXTGRP:познавательные
 http://185.32.44.154/idextra/index.m3u8
+#EXTINF:-1 ,Id Xtra
+#EXTGRP:познавательные
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
 #EXTINF:-1 ,Cbsreality
 #EXTGRP:познавательные
 http://185.32.44.154/cbsreality/index.m3u8
@@ -135,6 +148,9 @@ https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1 ,Телепутешествия
 #EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2051/index.m3u8
+#EXTINF:-1 ,Travel
+#EXTGRP:познавательные
+http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
 #EXTINF:-1 ,Travel Channel HD
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/233/index.m3u8
 #EXTINF:-1 ,Travel adventure
@@ -151,6 +167,8 @@ http://185.32.44.154/rtg/index.m3u8
 #EXTINF:-1 ,Большая Азия
 http://89.189.191.250/239.211.211.162/stream.m3u8
 #EXTINF:-1 ,HD Life
+http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
+#EXTINF:-1 ,HD Life
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/226/index.m3u8
 #EXTINF:-1 ,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
@@ -160,6 +178,8 @@ http://185.32.44.154/nationalgeographic/index.m3u8
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/230/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://185.32.44.154/discoverychannel/index.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://mfe.cliptv.az/dash/Discovery_Channel_HD.ism/playlist.mpd
 #EXTINF:-1 ,Discovery Science
 http://185.32.44.154/discoveryscience/index.m3u8
 #EXTINF:-1,dtx
@@ -224,6 +244,10 @@ http://185.118.50.219/RU-bollywoodtvhd/index.m3u8
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 ,ZEE
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/1001/index.m3u8
+#EXTINF:-1 ,Русский Роман
+http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
+#EXTINF:-1 ,Русский Детектив
+http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 #EXTINF:-1 ,CTC
 http://185.32.44.154/ctc/index.m3u8
 #EXTINF:-1 ,CTC Love
@@ -273,6 +297,12 @@ http://185.32.44.154/kinosvidanie/index.m3u8
 http://185.32.44.154/kinosemya/index.m3u8
 #EXTINF:-1,киносемья HD
 http://185.118.50.219/RU-kinosemya/index.m3u8
+#EXTINF:-1 ,НСТ
+http://185.32.44.154/nst/index.m3u8
+#EXTINF:-1 ,НСТ
+http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:-1 ,Мужское кино
+http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
 #EXTINF:-1,amedia1
 http://185.118.50.219/RU-amedia1/index.m3u8
 #EXTINF:-1 ,Amedia 2
@@ -283,8 +313,6 @@ https://sc.id-tv.kz/A2_38_39.m3u8
 http://185.32.44.154/AmediaPremium/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://185.32.44.154/amediahit/index.m3u8
-#EXTINF:-1 ,НСТ
-http://185.32.44.154/nst/index.m3u8
 #EXTINF:-1 ,Paramount channel
 http://185.32.44.154/paramountchannel/index.m3u8
 #EXTINF:-1 ,VIP Premiere (HD)
