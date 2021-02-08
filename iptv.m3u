@@ -115,10 +115,15 @@ http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/847/index.m3u8
 #EXTINF:-1 ,Дикая охота
 #EXTGRP:познавательные
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/917/index.m3u8
+#EXTINF:-1 ,Yaban Tv
+#EXTGRP:познавательные
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,ОХОТНИК И РЫБОЛОВ
 http://ott-cdn.ucom.am/s55/04.m3u8
+#EXTINF:-1 ,Outdoor
+http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
 #EXTINF:-1 ,Outdoor Channel
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/119/index.m3u8
 #EXTINF:-1 ,Id Xtra
@@ -145,6 +150,8 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 ,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
+#EXTINF:-1 ,Приключения
+http://185.235.187.11:8888/play/a01h/index.m3u8
 #EXTINF:-1 ,Телепутешествия
 #EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2051/index.m3u8
@@ -244,10 +251,26 @@ http://185.118.50.219/RU-bollywoodtvhd/index.m3u8
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 ,ZEE
 http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/1001/index.m3u8
+#EXTINF:-1 ,Русская комедия
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 #EXTINF:-1 ,Русский Роман
 http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
+#EXTINF:-1,русский роман HD
+http://185.118.50.219/RU-russkiyroman/index.m3u8
 #EXTINF:-1 ,Русский Детектив
 http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1,русский бестселлер
+http://194.156.166.2:8000/play/a01d
+#EXTINF:-1,русский бестселлер
+http://185.118.50.219/RU-russkiybestseller/index.m3u8
+#EXTINF:-1,русский иллюзион
+http://185.118.50.219/RU-russkiyilluzion/index.m3u8
+#EXTINF:-1 ,Наше Новое Кино
+http://185.32.44.154/nashenovoekino/index.m3u8
+#EXTINF:-1,Наш Кинопоказ HD
+http://5lkzqwce.rostelekom.xyz/iptv/TAEKE7AUNRYC5Y/2434/index.m3u
+#EXTINF:-1,русский экстрим
+http://185.118.50.219/RU-russkiyekstrim/index.m3u8
 #EXTINF:-1 ,CTC
 http://185.32.44.154/ctc/index.m3u8
 #EXTINF:-1 ,CTC Love
@@ -262,16 +285,6 @@ http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 http://185.32.44.154/tv3/index.m3u8
 #EXTINF:-1 ,Film Box (RU)
 http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/1071/index.m3u8
-#EXTINF:-1 ,Наше Новое Кино
-http://185.32.44.154/nashenovoekino/index.m3u8
-#EXTINF:-1,русский бестселлер
-http://185.118.50.219/RU-russkiybestseller/index.m3u8
-#EXTINF:-1,русский экстрим
-http://185.118.50.219/RU-russkiyekstrim/index.m3u8
-#EXTINF:-1,русский иллюзион
-http://185.118.50.219/RU-russkiyilluzion/index.m3u8
-#EXTINF:-1,русский роман HD
-http://185.118.50.219/RU-russkiyroman/index.m3u8
 #EXTINF:-1 ,Дом кино
 http://185.32.44.154/domkino/index.m3u8
 #EXTINF:-1 ,Еврокино
@@ -301,6 +314,8 @@ http://185.118.50.219/RU-kinosemya/index.m3u8
 http://185.32.44.154/nst/index.m3u8
 #EXTINF:-1 ,НСТ
 http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:-1 ,Киноужас
+http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 ,Мужское кино
 http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
 #EXTINF:-1,amedia1
@@ -379,6 +394,10 @@ http://185.32.44.154/rutv/index.m3u8
 http://185.32.44.154/muztv/index.m3u8
 #EXTINF:-1 ,MTV Dance
 http://185.32.44.154/mtvdance/index.m3u8
+#EXTINF:-1 ,Retro Dance 90s
+http://autopilot.catcast.tv/content/39726/index.m3u8
+#EXTINF:-1 ,Retro Dance 90s 2
+http://autopilot.catcast.tv/content/39500/index.m3u8
 #EXTINF:-1 ,ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 #EXTINF:-1 ,М2 Украина
@@ -541,3 +560,5 @@ http://live.redtraffic.xyz/threesome.m3u8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 ,Latina HD 720 (18+)
 http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 ,ola_la
+http://91.219.139.74:4022/udp/239.1.0.53:1234
