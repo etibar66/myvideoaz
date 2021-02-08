@@ -245,6 +245,8 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
 #EXTINF:-1 ,Индийское кино
 http://185.32.44.154/indiskoekino/index.m3u8
+#EXTINF:-1 group-title="КИНО",Индийское кино
+http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1 ,bollywood tv hd
 http://185.118.50.219/RU-bollywoodtvhd/index.m3u8
 #EXTINF:-1 ,Bollywood HD
@@ -289,6 +291,8 @@ http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/1071/inde
 http://185.32.44.154/domkino/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://185.32.44.154/eurokino/index.m3u8
+#EXTINF:-1 group-title="КИНО",Дом Кино
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:-1 ,Еврокино
 #EXTGRP:Кино
 http://185.32.44.154/travelchannel/index.m3u8
@@ -315,6 +319,10 @@ http://185.32.44.154/nst/index.m3u8
 #EXTINF:-1 ,НСТ
 http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
 #EXTINF:-1 ,Киноужас
+http://109.197.192.121:8080/kinouzhas/index.m3u8
+#EXTINF:-1 group-title="КИНО",Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 group-title="КИНО",Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 ,Мужское кино
 http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
@@ -352,24 +360,6 @@ http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/559/index.m3u8
 https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 group-title="КИНО",Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="КИНО",Ужастик
-https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 group-title="КИНО",Киноужас
-http://109.197.192.121:8080/kinouzhas/index.m3u8
-#EXTINF:-1 group-title="Дети",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Дети",МультСказки
-https://autopilot.catcast.tv/content/38850/index.m3u8
-#EXTINF:-1 group-title="Музыка",Eurodance 90 HD
-https://eurodance.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 group-title="Музыка",Metal TV
-https://v2.catcast.tv/content/33816/index.m3u8
-#EXTINF:-1 group-title="Спорт",Russian Motorsport Television
-https://v2.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 group-title="КИНО",Индийское кино
-http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
-#EXTINF:-1 group-title="КИНО",Дом Кино
-http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:-1 ,TMB
 http://185.32.44.154/tmb/index.m3u8
 #EXTINF:-1 ,Kral Pop
@@ -398,6 +388,8 @@ http://185.32.44.154/mtvdance/index.m3u8
 http://autopilot.catcast.tv/content/39726/index.m3u8
 #EXTINF:-1 ,Retro Dance 90s 2
 http://autopilot.catcast.tv/content/39500/index.m3u8
+#EXTINF:-1 group-title="Музыка",Eurodance 90 HD
+https://eurodance.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 ,ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 #EXTINF:-1 ,М2 Украина
