@@ -2,6 +2,8 @@
 #EXTINF:-1 ,Первый канал
 http://185.32.44.154/perviy/index.m3u8
 #EXTINF:-1 ,Первый канал
+http://79.105.46.182:5055/udp/239.28.0.181:2020?zi/
+#EXTINF:-1 ,Первый канал
 http://live02-cdn.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
 #EXTINF:-1 ,Россия 1
 http://185.32.44.154/rossiya1/index.m3u8
@@ -77,6 +79,9 @@ http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/748/index.m3u8
 #EXTINF:-1 ,Анекдот
 #EXTGRP:развлекательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/5034/index.m3u8
+#EXTINF:-1 ,Анекдот
+#EXTGRP:развлекательные
+http://79.105.46.182:5055/udp/239.4.10.70:2020?zi/
 #EXTINF:-1 ,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild HD
@@ -203,6 +208,8 @@ http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_b212800
 http://91.192.168.242:9091
 #EXTINF:-1 ,Морской
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/742/index.m3u8
+#EXTINF:-1 ,Морской HD
+http://79.105.46.182:5055/udp/239.4.10.60:2020?zi/
 #EXTINF:-1 ,Под Водой 
 http://live-1.otcnet.ru/podvodoi/index.m3u8
 #EXTINF:-1 ,davinci learning
