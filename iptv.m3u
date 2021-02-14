@@ -13,8 +13,6 @@ http://185.32.44.154/ntvplus/index.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id196_NBN_SG--NTV/03/plst.m3u8
 #EXTINF:-1 ,НТВ
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
-#EXTINF:-1 ,НТВ Право
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/743/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://185.32.44.154/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ
@@ -29,9 +27,6 @@ http://185.32.44.154/tnt/index.m3u8
 #EXTINF:-1 ,ТНТ
 #EXTGRP:Обшественное
 http://uiptv.do.am/1ufc/106596187/playlist.m3u8
-#EXTINF:-1 ,ТНТ
-#EXTGRP:Обшественное
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/237/index.m3u8
 #EXTINF:-1 ,ТНТ
 #EXTGRP:Обшественное
 http://7341035e.edemist.com/iptv/FNDYDGHPY3T8KH/2463/index.m3u8
@@ -63,6 +58,8 @@ http://uiptv.do.am/1ufc/103815382/playlist.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id127_NBN_SG--pjatnica/03/plst.m3u8
 #EXTINF:-1 ,Cупер
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/826/index.m3u8
+#EXTINF:-1 ,Cуббота
+http://mhd.iptv2022.com/p/HHjDpjv74gdoBI0AxFZaDQ,1613406483/streaming/superott/324/variable.m3u8
 #EXTINF:-1 ,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,k16
@@ -83,15 +80,11 @@ http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/5034/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild HD
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/216/index.m3u8
-#EXTINF:-1 ,Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 ,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:-1 ,Animal Planet HD
 http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
-#EXTINF:-1 ,Animal Planet HD
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/218/index.m3u8
 #EXTINF:-1 ,Зоо Тв
 #EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2100/index.m3u8
@@ -112,9 +105,6 @@ http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
 #EXTINF:-1 ,Дикий
 #EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/847/index.m3u8
-#EXTINF:-1 ,Дикая охота
-#EXTGRP:познавательные
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/917/index.m3u8
 #EXTINF:-1 ,Yaban Tv
 #EXTGRP:познавательные
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
@@ -122,10 +112,10 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:-1 ,ОХОТНИК И РЫБОЛОВ
 http://ott-cdn.ucom.am/s55/04.m3u8
+#EXTINF:-1 ,Диалоги о рыбалке
+http://mhd.iptv2022.com/p/ed7akXVoAjno8JNsBAUdzQ,1613406484/streaming/oribalke/324/variable.m3u8
 #EXTINF:-1 ,Outdoor
 http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
-#EXTINF:-1 ,Outdoor Channel
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/119/index.m3u8
 #EXTINF:-1 ,Id Xtra
 #EXTGRP:познавательные
 http://185.32.44.154/idextra/index.m3u8
@@ -158,8 +148,6 @@ http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/2051/index.m3u8
 #EXTINF:-1 ,Travel
 #EXTGRP:познавательные
 http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
-#EXTINF:-1 ,Travel Channel HD
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/233/index.m3u8
 #EXTINF:-1 ,Travel adventure
 #EXTGRP:познавательные
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/850/index.m3u8
@@ -170,19 +158,19 @@ https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,Terra Incognita HD
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 ,RTG
+http://mhd.iptv2022.com/p/jszaIJ03NV2w5KXdScpPsg,1613402851/streaming/rtg/324/variable.m3u8
+#EXTINF:-1 ,RTG
 http://185.32.44.154/rtg/index.m3u8
+#EXTINF:-1 ,Большая Азия
+http://mhd.iptv2022.com/p/8O7l7ISFVb04HxIAMoc68w,1613402851/streaming/bigasia/324/variable.m3u8
 #EXTINF:-1 ,Большая Азия
 http://89.189.191.250/239.211.211.162/stream.m3u8
 #EXTINF:-1 ,HD Life
 http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
 #EXTINF:-1 ,HD Life
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/226/index.m3u8
-#EXTINF:-1 ,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1 ,National Geographic
 http://185.32.44.154/nationalgeographic/index.m3u8
-#EXTINF:-1 ,National Geographic HD
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/230/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://185.32.44.154/discoverychannel/index.m3u8
 #EXTINF:-1 ,Discovery Channel HD
@@ -195,6 +183,8 @@ http://185.118.50.219/RU-dtx/index.m3u8
 http://185.32.44.154/galaxytv/index.m3u8
 #EXTINF:-1 ,RT Д Русский
 https://hls.rt.com/hls/rtdru360.m3u8
+#EXTINF:-1 ,RT Д Русский
+http://mhd.iptv2022.com/p/GgCoWDajrKdHRtgqu-O0Pg,1613402851/streaming/rtdhd/324/variable.m3u8
 #EXTINF:-1 ,TLC
 http://185.32.44.154/tlc/index.m3u8
 #EXTINF:-1 ,TLC TURK
@@ -211,8 +201,6 @@ http://185.32.44.154/bobertv/index.m3u8
 http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_b2128000_slukr.m3u8
 #EXTINF:-1 ,Ocean tv
 http://91.192.168.242:9091
-#EXTINF:-1 ,Морской
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/742/index.m3u8
 #EXTINF:-1 ,Морской
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/742/index.m3u8
 #EXTINF:-1 ,Под Водой 
@@ -275,6 +263,8 @@ http://5lkzqwce.rostelekom.xyz/iptv/TAEKE7AUNRYC5Y/2434/index.m3u
 http://185.118.50.219/RU-russkiyekstrim/index.m3u8
 #EXTINF:-1 ,CTC
 http://185.32.44.154/ctc/index.m3u8
+#EXTINF:-1 ,CTC Love
+http://mhd.iptv2022.com/p/DFcFqwyGQFoOUtLtPigUew,1613406484/streaming/stsloveott/324/variable.m3u8
 #EXTINF:-1 ,CTC Love
 http://ott-cdn.ucom.am/s38/04.m3u8
 #EXTINF:-1 ,домашний
