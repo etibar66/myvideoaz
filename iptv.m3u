@@ -63,12 +63,12 @@ http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
 #EXTINF:-1 ,Пятница!
 http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
-#EXTINF:-1 ,Пятница
+#EXTINF:-1 ,Пятница!
 http://uiptv.do.am/1ufc/103815382/playlist.m3u8
-#EXTINF:-1 ,Пятница
+#EXTINF:-1 ,Пятница!
 http://live02-cdn.tv.ti.ru:80/dtv/id127_NBN_SG--pjatnica/03/plst.m3u8
-#EXTINF:-1 ,Cупер
-http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/826/index.m3u8
+#EXTINF:-1 ,Cуббота!
+http://sv2.aurabook.site:3030/channel/n603be93d/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDIifQ.oBu65_T4a3HZtjKhX_pY5f6ku6wBKQk46AB1U0qZ37WP8SlnAkan8tKGP10Af5F4acA_BzU2DQdZHkf86LSC3g
 #EXTINF:-1 ,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 ,k16
@@ -102,7 +102,7 @@ http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/218/index.m3u8
 http://sv2.aurabook.site:3030/channel/n318b0c43/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDEifQ.5H9A9Eb5PmHMRwsHZ76D5yUrvB1SAkXJA95Vv53nPLvjDubt-C4c-KkUP0k6mAgXhWh6UETp6yLFJ4vlXgszKw
 #EXTINF:-1 ,Зоо Тв
 #EXTGRP:познавательные
-http://sv2.aurabook.site:3030/channel/47580f1e/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
+http://sv2.aurabook.site:3030/channel/47580f1e/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDIifQ.oBu65_T4a3HZtjKhX_pY5f6ku6wBKQk46AB1U0qZ37WP8SlnAkan8tKGP10Af5F4acA_BzU2DQdZHkf86LSC3g
 #EXTINF:-1 ,Зоо Тв
 http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1 ,Зоо Тв
@@ -118,12 +118,11 @@ http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:-1 ,домашние животные
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
 #EXTINF:-1 ,Дикая охота
-http://sv2.aurabook.site:3030/channel/55bb4387/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
+http://sv2.aurabook.site:3030/channel/55bb4387/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDIifQ.oBu65_T4a3HZtjKhX_pY5f6ku6wBKQk46AB1U0qZ37WP8SlnAkan8tKGP10Af5F4acA_BzU2DQdZHkf86LSC3g
 #EXTINF:-1 ,Дикий
 http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
 #EXTINF:-1 ,Дикая рыбалка
-http://sv2.aurabook.site:3030/channel/n7a21acfb/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
-#EXTINF:-1 ,Yaban Tv
+http://sv2.aurabook.site:3030/channel/n7a21acfb/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDIifQ.oBu65_T4a3HZtjKhX_pY5f6ku6wBKQk46AB1U0qZ37WP8SlnAkan8tKGP10Af5F4acA_BzU2DQdZHkf86LSC3g#EXTINF:-1 ,Yaban Tv
 #EXTGRP:познавательные
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -132,8 +131,6 @@ http://185.32.44.154/oxotoiribalka/index.m3u8
 http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTINF:-1 ,Outdoor
 http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
-#EXTINF:-1 ,Outdoor Channel
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/119/index.m3u8
 #EXTINF:-1 ,Id Xtra
 #EXTGRP:познавательные
 http://185.32.44.154/idextra/index.m3u8
@@ -161,15 +158,15 @@ https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:-1 ,Глазами туриста HD
 http://sv2.aurabook.site:3030/channel/n7f4c8632/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDEifQ.5H9A9Eb5PmHMRwsHZ76D5yUrvB1SAkXJA95Vv53nPLvjDubt-C4c-KkUP0k6mAgXhWh6UETp6yLFJ4vlXgszKw
 #EXTINF:-1 ,Приключения
-http://sv2.aurabook.site:3030/channel/36852591/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDEifQ.5H9A9Eb5PmHMRwsHZ76D5yUrvB1SAkXJA95Vv53nPLvjDubt-C4c-KkUP0k6mAgXhWh6UETp6yLFJ4vlXgszKw
+http://sv2.aurabook.site:3030/channel/36852591/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDIifQ.oBu65_T4a3HZtjKhX_pY5f6ku6wBKQk46AB1U0qZ37WP8SlnAkan8tKGP10Af5F4acA_BzU2DQdZHkf86LSC3g
 #EXTINF:-1 ,Телепутешествия
 #EXTGRP:познавательные
-http://sv2.aurabook.site:3030/channel/n36bf686e/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDEifQ.5H9A9Eb5PmHMRwsHZ76D5yUrvB1SAkXJA95Vv53nPLvjDubt-C4c-KkUP0k6mAgXhWh6UETp6yLFJ4vlXgszKw
+http://sv2.aurabook.site:3030/channel/n36bf686e/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDIifQ.oBu65_T4a3HZtjKhX_pY5f6ku6wBKQk46AB1U0qZ37WP8SlnAkan8tKGP10Af5F4acA_BzU2DQdZHkf86LSC3g
 #EXTINF:-1 ,Travel Channel HD
 http://sv2.aurabook.site:3030/channel/41cced42/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDEifQ.5H9A9Eb5PmHMRwsHZ76D5yUrvB1SAkXJA95Vv53nPLvjDubt-C4c-KkUP0k6mAgXhWh6UETp6yLFJ4vlXgszKw
 #EXTINF:-1 ,Travel adventure
 #EXTGRP:познавательные
-http://sv2.aurabook.site:3030/channel/n45896948/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDEifQ.5H9A9Eb5PmHMRwsHZ76D5yUrvB1SAkXJA95Vv53nPLvjDubt-C4c-KkUP0k6mAgXhWh6UETp6yLFJ4vlXgszKw
+http://sv2.aurabook.site:3030/channel/n45896948/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDIifQ.oBu65_T4a3HZtjKhX_pY5f6ku6wBKQk46AB1U0qZ37WP8SlnAkan8tKGP10Af5F4acA_BzU2DQdZHkf86LSC3g
 #EXTINF:-1 ,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:-1 ,Терра Инкогнита
