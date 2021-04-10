@@ -33,10 +33,6 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 http://185.32.44.154/tnt/index.m3u8
 #EXTINF:0,ТНТ
 http://uiptv.do.am/1ufc/106596187/playlist.m3u8
-#EXTINF:0,ТНТ
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/237/index.m3u8
-#EXTINF:0,ТНТ
-http://7341035e.edemist.com/iptv/FNDYDGHPY3T8KH/2463/index.m3u8
 #EXTINF:0,ТВЦ
 http://185.32.44.154/tvc/index.m3u8
 #EXTINF:0,1-й Республиканский
@@ -79,18 +75,16 @@ http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:0,Сарафан
 http://sv2.aurabook.site:3030/channel/n61463b13/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+#EXTINF:0,Анекдот
+http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/5034/index.m3u8
 #EXTINF:0,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/216/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:0,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:0,Animal Planet HD
 http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
-#EXTINF:0,Animal Planet HD
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/218/index.m3u8
 #EXTINF:0,В мире животных HD
 http://sv2.aurabook.site:3030/channel/n318b0c43/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
 #EXTINF:0,Зоо Тв
@@ -167,8 +161,6 @@ http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:0,National Geographic
 http://185.32.44.154/nationalgeographic/index.m3u8
-#EXTINF:0,National Geographic
-http://sv2.aurabook.site:3030/channel/n127f8dbd/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
 #EXTINF:0,Discovery Channel
 http://185.32.44.154/discoverychannel/index.m3u8
 #EXTINF:0,Discovery Channel HD
