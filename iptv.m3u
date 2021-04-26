@@ -16,7 +16,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,НТВ
 http://185.32.44.154/ntvplus/index.m3u8
 #EXTINF:0,НТВ
-http://live02-cdn.tv.ti.ru:80/dtv/id196_NBN_SG--NTV/03/plst.m3u8
+http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 #EXTINF:0,НТВ
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 #EXTINF:0,НТВ Право
@@ -53,6 +53,8 @@ http://185.32.44.154/ce/index.m3u8
 http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
 #EXTINF:0,Че
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
+#EXTINF:-1,стс love
+http://185.118.50.219/RU-stslove/index.m3u8
 #EXTINF:0,Пятница!
 http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
 #EXTINF:0,Пятница!
@@ -152,7 +154,7 @@ http://185.32.44.154/rtg/index.m3u8
 #EXTINF:0,Большая Азия
 http://89.189.191.250/239.211.211.162/stream.m3u8
 #EXTINF:0,Большая Азия
-http://sv2.aurabook.site:3030/channel/n6b765f66/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
+http://mhd.iptv2022.com/p/dRXeKwkEfWj4yXp4IS-20Q,1619544709/streaming/bigasia/324/variable.m3u8
 #EXTINF:0,HD Life
 http://sv2.aurabook.site:3030/channel/309c4ab/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
 #EXTINF:0,HD Life
@@ -163,6 +165,8 @@ https://sc.id-tv.kz/hdl_34_35.m3u8
 http://185.32.44.154/nationalgeographic/index.m3u8
 #EXTINF:0,Discovery Channel
 http://185.32.44.154/discoverychannel/index.m3u8
+#EXTINF:0,Discovery Channel
+http://212.42.193.122:8888/play/a00l/index.m3u8
 #EXTINF:0,Discovery Channel HD
 http://mfe.cliptv.az/dash/Discovery_Channel_HD.ism/playlist.mpd
 #EXTINF:0,Discovery Science
@@ -531,5 +535,31 @@ http://live.redtraffic.xyz/threesome.m3u8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:0,Latina HD 720 (18+)
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:0,ola_la
-http://91.219.139.74:4022/udp/239.1.0.53:1234
+#EXTINF:0,Pink Erotic 18+
+http://91.212.150.248:80/PinkErotic1/tracks-v1a1/index.m3u8
+#EXTINF:0,Pink Erotic 2 18+
+http://91.212.150.248:80/PinkErotic2/tracks-v1a1/index.m3u8
+#EXTINF:0,Pink Erotic 3 18+
+http://91.212.150.248:80/PinkErotic3/tracks-v1a1/index.m3u8
+#EXTINF:0,Pink Erotic 4 18+
+http://91.212.150.248:80/PinkErotic4/tracks-v1a1/index.m3u8
+#EXTINF:0,Pink Erotic 5 18+
+http://91.212.150.248:80/PinkErotic5/tracks-v1a1/index.m3u8
+#EXTINF:0,Pink Erotic 6 18+
+http://91.212.150.248:80/PinkErotic6/tracks-v1a1/index.m3u8
+#EXTINF:0,Pink Erotic 7 18+
+http://91.212.150.248:80/PinkErotic7/tracks-v1a1/index.m3u8
+#EXTINF:0,XXX 1 HD 18+
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,XXX 2 HD 18+
+http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Шелк HD 18+
+http://194.190.78.91:8080/shelk/index.m3u8
+#EXTINF:0,Русская ночь 18+
+http://93.189.224.117:9030/russkayanoch?wowzasessionid=946329640068&time=1463063123262
+#EXTINF:0,Русская ночь 18+
+http://212.42.193.122:8888/play/a00o/index.m3u8
+#EXTINF:0,Balkan HOT 18+
+http://194.54.183.85:8000/play/a03m/tracks-v1a1/index.m3u8
+#EXTINF:0,Balkan HOT 2 18+
+http://194.54.183.85:8000/play/a03n/tracks-v1a1/index.m3u8
