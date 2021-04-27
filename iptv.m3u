@@ -41,6 +41,10 @@ http://dprtv.phoenix-dnr.ru/first-republic-tv
 http://185.32.44.154/zvezda/index.m3u8
 #EXTINF:0,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:0,Санкт Петербург
+http://94.19.83.135:81/udp/239.239.3.67:5239
+#EXTINF:0,Петербург 5 Канал
+http://188.43.8.141/play/a023/index.m3u8
 #EXTINF:0,Мир
 http://sc.id-tv.kz/Mir_38_39.m3u8
 #EXTINF:0,МИР Premium
@@ -146,7 +150,9 @@ http://sv2.aurabook.site:3030/channel/36852591/index.m3u8?q=eyJ1c2VySWQiOiJEZW5p
 #EXTINF:0,Телепутешествия
 http://81.163.39.156:8384/udp/233.166.172.123:1234
 #EXTINF:0,Travel Channel 
-http://188.43.8.141/play/a04f/index.m3u8
+
+http://persik.by/stream/6696/480248/880.m3u8
+
 #EXTINF:0,Travel adventure
 http://82.151.200.63:8000/play/a056
 #EXTINF:0,Ugra Travel
@@ -351,6 +357,8 @@ http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/559/index.m3u8
 https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:0,Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:0,Persiana Music
+http://51.210.199.24/hls/stream.m3u8
 #EXTINF:0,TMB
 http://185.32.44.154/tmb/index.m3u8
 #EXTINF:0,Kral Pop
