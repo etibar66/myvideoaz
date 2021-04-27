@@ -2,9 +2,7 @@
 #EXTINF:0,Первый канал
 http://185.32.44.154/perviy/index.m3u8
 #EXTINF:0,Первый канал
-http://sv2.aurabook.site:3030/channel/n5b4d4a53/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
-#EXTINF:0,Первый канал
-http://sv2.aurabook.site:3030/channel/n5b4d4a53/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
+http://81.163.39.156:8384/udp/233.166.172.247:1234
 #EXTINF:0,Первый канал
 http://live02-cdn.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
 #EXTINF:0,Россия 1
@@ -33,6 +31,8 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 http://185.32.44.154/tnt/index.m3u8
 #EXTINF:0,ТНТ
 http://uiptv.do.am/1ufc/106596187/playlist.m3u8
+#EXTINF:0,Ю
+http://82.151.200.63:8000/play/a01x
 #EXTINF:0,ТВЦ
 http://185.32.44.154/tvc/index.m3u8
 #EXTINF:0,1-й Республиканский
@@ -76,7 +76,7 @@ http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
 #EXTINF:0,Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:0,Сарафан
-http://sv2.aurabook.site:3030/channel/n61463b13/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+http://81.163.39.156:8384/udp/233.166.172.118:1234
 #EXTINF:0,Анекдот
 http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/5034/index.m3u8
 #EXTINF:0,Nat Geo Wild
@@ -87,10 +87,10 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:0,Animal Planet HD
 http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
-#EXTINF:0,В мире животных HD
-http://sv2.aurabook.site:3030/channel/n318b0c43/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+#EXTINF:0,В мире животных 
+http://82.151.200.63:8000/play/a04d
 #EXTINF:0,Зоо Тв
-http://sv2.aurabook.site:3030/channel/47580f1e/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+http://81.163.39.156:8384/udp/233.166.172.111:1234
 #EXTINF:0,Zoopark
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:0,Viasat Nature
@@ -102,19 +102,23 @@ http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:0,домашние животные
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
 #EXTINF:0,Дикая охота
-http://sv2.aurabook.site:3030/channel/55bb4387/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+http://188.43.8.141/play/a00b/index.m3u8
 #EXTINF:0,Дикий
-http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
+http://188.43.8.141/play/a00d/index.m3u8
 #EXTINF:0,Дикая рыбалка
-http://sv2.aurabook.site:3030/channel/n7a21acfb/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+http://188.43.8.141/play/a00c/index.m3u8
 #EXTINF:-1 ,Yaban Tv
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1,Рыболов
+http://81.163.39.156:8384/udp/233.166.172.127:1234
 #EXTINF:0,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:0,ОХОТНИК И РЫБОЛОВ
-http://ott-cdn.ucom.am/s55/04.m3u8
+http://82.151.200.63:8000/play/a03j
 #EXTINF:0,Outdoor
 http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
+#EXTINF:0,HGTV
+http://188.43.8.141/play/a03r/index.m3u8
 #EXTINF:0,Id Xtra
 http://185.32.44.154/idextra/index.m3u8
 #EXTINF:0,Id Xtra
@@ -129,20 +133,22 @@ http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:0,моя планета
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:0,BamBarBia TV
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:0,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
+#EXTINF:0,Docubox
+http://188.43.8.141/play/a03i/index.m3u8
+#EXTINF:0,BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:0,Глазами туриста HD
-http://sv2.aurabook.site:3030/channel/n7f4c8632/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+http://82.151.200.63:8000/play/a00b
 #EXTINF:0,Приключения
 http://sv2.aurabook.site:3030/channel/36852591/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
 #EXTINF:0,Телепутешествия
-http://sv2.aurabook.site:3030/channel/n36bf686e/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+http://81.163.39.156:8384/udp/233.166.172.123:1234
 #EXTINF:0,Travel Channel 
-http://sv2.aurabook.site:3030/channel/41cced42/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+http://188.43.8.141/play/a04f/index.m3u8
 #EXTINF:0,Travel adventure
-http://sv2.aurabook.site:3030/channel/n45896948/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+http://82.151.200.63:8000/play/a056
 #EXTINF:0,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:0,Терра Инкогнита
@@ -152,17 +158,19 @@ http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v
 #EXTINF:0,RTG
 http://185.32.44.154/rtg/index.m3u8
 #EXTINF:0,Большая Азия
-http://89.189.191.250/239.211.211.162/stream.m3u8
+http://82.151.200.63:8000/play/a009
 #EXTINF:0,Большая Азия
 http://mhd.iptv2022.com/p/dRXeKwkEfWj4yXp4IS-20Q,1619544709/streaming/bigasia/324/variable.m3u8
 #EXTINF:0,HD Life
 http://sv2.aurabook.site:3030/channel/309c4ab/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
 #EXTINF:0,HD Life
-http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
+http://81.163.39.156:8384/udp/233.166.172.1:1234
 #EXTINF:0,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:0,National Geographic
 http://185.32.44.154/nationalgeographic/index.m3u8
+#EXTINF:0,National Geographic
+http://81.163.39.156:8384/udp/233.166.172.122:1234
 #EXTINF:0,Discovery Channel
 http://185.32.44.154/discoverychannel/index.m3u8
 #EXTINF:0,Discovery Channel
@@ -173,8 +181,12 @@ http://mfe.cliptv.az/dash/Discovery_Channel_HD.ism/playlist.mpd
 http://185.32.44.154/discoveryscience/index.m3u8
 #EXTINF:0,dtx
 http://185.118.50.219/RU-dtx/index.m3u8
+#EXTINF:0,Fine Living
+http://188.43.8.141/play/a025/index.m3u8
 #EXTINF:0,Galaxy
 http://185.32.44.154/galaxytv/index.m3u8
+#EXTINF:0,Эврика HD
+http://82.151.200.63:8000/play/a04a
 #EXTINF:0,RT Д Русский
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:0,TLC
@@ -213,8 +225,6 @@ http://185.118.50.219/RU-nauka20/index.m3u8
 http://194.156.166.2:8000/play/a026
 #EXTINF:0,Техно 24
 http://185.32.44.154/24texno/index.m3u8
-#EXTINF:0,ЭВРИКА
-http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:0,Luxury
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:0,Luxury
@@ -230,11 +240,9 @@ http://185.32.44.154/indiskoekino/index.m3u8
 #EXTINF:0,Индийское кино
 http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:0,bollywood tv hd
-http://185.118.50.219/RU-bollywoodtvhd/index.m3u8
-#EXTINF:0,Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+http://188.43.8.141/play/a03c/index.m3u8
 #EXTINF:0,ZEE
-http://xristo2121.amazzin.pw/iptv/FNDYDGHPY3T8KH/1001/index.m3u8
+http://81.163.39.156:8384/udp/233.166.172.163:1234
 #EXTINF:0,Русская комедия
 http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 #EXTINF:0,Русский Роман
@@ -535,6 +543,16 @@ http://live.redtraffic.xyz/threesome.m3u8
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:0,Latina HD 720 (18+)
 http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:0,Hustler HD
+http://81.163.39.156:8384/udp/233.166.172.253:1234
+#EXTINF:0,Exxxotica HD
+http://82.151.200.63:8000/play/a04m
+#EXTINF:0,FRENCHLOVER
+http://82.151.200.63:8000/play/a04p
+#EXTINF:0,Penthouse Gold HD
+http://82.151.200.63:8000/play/a04x
+#EXTINF:0,Penthouse Quickies
+http://82.151.200.63:8000/play/a059
 #EXTINF:0,Pink Erotic 18+
 http://91.212.150.248:80/PinkErotic1/tracks-v1a1/index.m3u8
 #EXTINF:0,Pink Erotic 2 18+
@@ -559,7 +577,11 @@ http://194.190.78.91:8080/shelk/index.m3u8
 http://93.189.224.117:9030/russkayanoch?wowzasessionid=946329640068&time=1463063123262
 #EXTINF:0,Русская ночь 18+
 http://212.42.193.122:8888/play/a00o/index.m3u8
+#EXTINF:0,O-La-La
+http://81.163.39.156:8384/udp/233.166.172.157:1234
 #EXTINF:0,Balkan HOT 18+
 http://194.54.183.85:8000/play/a03m/tracks-v1a1/index.m3u8
 #EXTINF:0,Balkan HOT 2 18+
 http://194.54.183.85:8000/play/a03n/tracks-v1a1/index.m3u8
+#EXTINF:0,Vivid Red HD
+http://82.151.200.63:8000/play/a06q
