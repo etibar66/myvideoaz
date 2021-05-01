@@ -57,18 +57,17 @@ http://185.32.44.154/ce/index.m3u8
 http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
 #EXTINF:0,Че
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
-#EXTINF:-1,стс love
-http://185.118.50.219/RU-stslove/index.m3u8
 #EXTINF:0,Пятница!
 http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
 #EXTINF:0,Пятница!
 http://uiptv.do.am/1ufc/103815382/playlist.m3u8
 #EXTINF:0,Пятница!
-http://live02-cdn.tv.ti.ru:80/dtv/id127_NBN_SG--pjatnica/03/plst.m3u8
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:0,Cуббота!
-http://sv2.aurabook.site:3030/channel/n603be93d/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDIifQ.oBu65_T4a3HZtjKhX_pY5f6ku6wBKQk46AB1U0qZ37WP8SlnAkan8tKGP10Af5F4acA_BzU2DQdZHkf86LSC3g
-#EXTINF:0,Калейдоскоп ТВ
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8#EXTINF:0,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1,стс love
+http://185.118.50.219/RU-stslove/index.m3u8
 #EXTINF:0,k16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?%7CUser-agent=deooleg
 #EXTINF:0,Южная Волна HD
@@ -86,11 +85,13 @@ http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/5034/index.m3u8
 #EXTINF:0,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/19054
 #EXTINF:0,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:0,Animal Planet HD
 http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
+#EXTINF:0,Animal Planet HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/266715
 #EXTINF:0,В мире животных 
 http://82.151.200.63:8000/play/a04d
 #EXTINF:0,Зоо Тв
@@ -146,7 +147,7 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:0,Глазами туриста HD
 http://82.151.200.63:8000/play/a00b
 #EXTINF:0,Приключения
-http://sv2.aurabook.site:3030/channel/36852591/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDMifQ.juu-I5Gwo6n-k2_-ZS2uLjXiEV_3anq1RUoLFr4lpRMRpc2ThqDdlKelSB2qL0FtvdjI9tmaiRcWKT12d7y_Rg
+http://80.89.196.34:8085/travel/index.m3u8
 #EXTINF:0,Телепутешествия
 http://81.163.39.156:8384/udp/233.166.172.123:1234
 #EXTINF:0,Travel Channel 
@@ -204,7 +205,9 @@ http://185.32.44.154/viasathistory/index.m3u8
 #EXTINF:0,Viasat Explore
 http://185.32.44.154/viasatexplorer/index.m3u8
 #EXTINF:0,Эврика HD
-http://sv2.aurabook.site:3030/channel/n58a1c27c/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
+
+http://82.151.200.63:8000/play/a04a
+
 #EXTINF:0,Fine Living
 http://78.129.228.178/iptv/7E9L6L8AV8KN99/735/index.m3u8
 #EXTINF:0,Бобер
@@ -316,8 +319,7 @@ http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
 #EXTINF:0,Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:0,Киноужас
-http://sv2.aurabook.site:3030/channel/n19b5146c/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
-#EXTINF:0,Ужастик
+http://81.163.39.156:8384/udp/233.166.172.236:1234#EXTINF:0,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:0,Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
