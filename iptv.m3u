@@ -619,6 +619,8 @@ http://93.189.224.117:9030/russkayanoch?wowzasessionid=946329640068&time=1463063
 http://212.42.193.122:8888/play/a00o/index.m3u8
 #EXTINF:0,O-La-La
 http://81.163.39.156:8384/udp/233.166.172.157:1234
+#EXTINF:0,Шалун
+http://31.134.132.245:8080/shalun_hd/mpegts
 #EXTINF:0,Balkan HOT 18+
 http://194.54.183.85:8000/play/a03m/tracks-v1a1/index.m3u8
 #EXTINF:0,Balkan HOT 2 18+
