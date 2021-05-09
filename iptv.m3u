@@ -179,9 +179,9 @@ http://185.32.44.154/rtg/index.m3u8
 #EXTINF:0,Большая Азия
 http://82.151.200.63:8000/play/a009
 #EXTINF:0,Большая Азия
-http://mhd.iptv2022.com/p/dRXeKwkEfWj4yXp4IS-20Q,1619544709/streaming/bigasia/324/variable.m3u8
+http://94.230.240.17:8080/bigasia/index.m3u8
 #EXTINF:0,HD Life
-http://sv2.aurabook.site:3030/channel/309c4ab/index.m3u8?q=eyJ1c2VySWQiOiJ0ZWxlZ2EifQ.qpgb1-FYVg1SU8op8VugLV1QZo_7wBfpf82a-2cFsHg8jG3hDshBLK0v2eAXOwZ00CgefSHzVDcGTA37Mm-vYA
+http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
 #EXTINF:0,HD Life
 http://81.163.39.156:8384/udp/233.166.172.1:1234
 #EXTINF:0,HD Life
