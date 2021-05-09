@@ -3,12 +3,12 @@
 http://185.32.44.154/perviy/index.m3u8
 #EXTINF:0,Первый канал
 http://81.163.39.156:8384/udp/233.166.172.247:1234
-#EXTINF:0,Первый канал
-http://live02-cdn.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
+#EXTINF:-1,Первый канал
+http://94.230.240.12:8080/ort/tracks-v1a1/index.m3u8
 #EXTINF:0,Россия 1
 http://185.32.44.154/rossiya1/index.m3u8
-#EXTINF:0,Россия 1
-http://mhd.iptv2022.com/p/4YeHycY3CIuiXE8lUtZWow,1614180815/streaming/rossia1nn/324/variable.m3u8
+#EXTINF:-1,РОССИЯ 1
+http://94.230.240.12:8080/rossia1/tracks-v1a1/index.m3u8
 #EXTINF:0,Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0,НТВ
@@ -17,6 +17,8 @@ http://185.32.44.154/ntvplus/index.m3u8
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 #EXTINF:0,НТВ
 http://uiptv.do.am/1ufc/114816629/playlist.m3u8
+#EXTINF:-1,НТВ
+http://94.230.240.12:8080/ntv/tracks-v1a1/index.m3u8
 #EXTINF:0,НТВ Право
 http://sv2.aurabook.site:3030/channel/65e997a3/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDEifQ.5H9A9Eb5PmHMRwsHZ76D5yUrvB1SAkXJA95Vv53nPLvjDubt-C4c-KkUP0k6mAgXhWh6UETp6yLFJ4vlXgszKw
 #EXTINF:0,Рен ТВ
@@ -27,6 +29,8 @@ http://uiptv.do.am/1ufc/102323759/playlist.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
 #EXTINF:0,Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,REN TV
+http://94.230.240.12:8080/rentv/tracks-v1a1/index.m3u8
 #EXTINF:0,ТНТ
 http://185.32.44.154/tnt/index.m3u8
 #EXTINF:0,ТНТ
@@ -41,6 +45,8 @@ http://dprtv.phoenix-dnr.ru/first-republic-tv
 http://185.32.44.154/zvezda/index.m3u8
 #EXTINF:0,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1,СТС
+http://94.230.240.12:8080/sts/tracks-v1a1/index.m3u8
 #EXTINF:0,Санкт Петербург
 http://94.19.83.135:81/udp/239.239.3.67:5239
 #EXTINF:0,Петербург 5 Канал
@@ -63,8 +69,8 @@ http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
 http://uiptv.do.am/1ufc/103815382/playlist.m3u8
 #EXTINF:0,Пятница!
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:0,Пятница!
-http://195.189.238.119:80/timeshift/friday/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTE0Mzk0ODMsImlhdCI6MTYxMTM1MzA4MywiY2lkIjo2LCJ1aWQiOjQwNTg4NDQ5MCwicmVnIjpmYWxzZSwiaXAiOjYzMDIxMDk5MH0.BP3T-gyIO_4H_FdFAp-tWwrxeH728M79sISa4IuCX8Y&offset=1
+#EXTINF:-1,ПЯТНИЦА
+http://94.230.240.12:8080/friday/tracks-v1a1/index.m3u8
 #EXTINF:0,Cуббота!
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8#EXTINF:0,Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
@@ -88,6 +94,8 @@ http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/5034/index.m3u8
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
 http://hotiptv.site:8080/zkby2013/1d469e6d9e42/19054
+#EXTINF:0,Nat Geo Wild
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
 #EXTINF:0,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:0,Animal Planet HD
@@ -124,18 +132,20 @@ http://185.32.44.154/oxotoiribalka/index.m3u8
 http://82.151.200.63:8000/play/a03j
 #EXTINF:0,Outdoor
 http://persik.by/stream/6696/480248/10246.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+http://94.230.240.12:8080/outdoor/tracks-v1a1/index.m3u8
 #EXTINF:0,HGTV
 http://188.43.8.141/play/a03r/index.m3u8
 #EXTINF:0,Id Xtra
 http://185.32.44.154/idextra/index.m3u8
 #EXTINF:0,Id Xtra
 http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
-#EXTINF:0,Cbsreality
-http://185.32.44.154/cbsreality/index.m3u8
+#EXTINF:-1,HD MEDIA
+http://94.230.240.12:8080/hdmedia/tracks-v1a1/index.m3u8
 #EXTINF:0,моя планета
 http://185.32.44.154/moyaplaneta/index.m3u8
-#EXTINF:0,моя планета
-http://dmitry-tv.my1.ru/his/01/CH_MOYAPLANETA.m3u8
+#EXTINF:-1,MOYA PLANETA 
+http://94.230.240.12:8080/myplanet/tracks-v1a1/index.m3u8
 #EXTINF:0,моя планета
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:0,моя планета
@@ -228,6 +238,8 @@ http://185.118.50.219/RU-davincilearning/index.m3u8
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:0,History
 http://185.32.44.154/history/index.m3u8
+#EXTINF:-1,HISTORY
+http://94.230.240.12:8080/history/tracks-v1a1/index.m3u8
 #EXTINF:0,История
 http://185.32.44.154/istoriya/index.m3u8
 #EXTINF:0,наука 2.0
@@ -260,6 +272,8 @@ http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
 #EXTINF:0,русский роман HD
 http://185.118.50.219/RU-russkiyroman/index.m3u8
+#EXTINF:-1,РУССКИЙ РОМАН
+http://94.230.240.12:8080/rusroman/tracks-v1a1/index.m3u8
 #EXTINF:0,Русский Детектив
 http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 #EXTINF:0,русский бестселлер
@@ -292,6 +306,8 @@ http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/1071/inde
 http://185.32.44.154/domkino/index.m3u8
 #EXTINF:0,Еврокино
 http://185.32.44.154/eurokino/index.m3u8
+#EXTINF:-1,ЕВРОКИНО
+http://94.230.240.12:8080/eurokino/tracks-v1a1/index.m3u8
 #EXTINF:0,Дом Кино
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:0,Еврокино
@@ -318,6 +334,8 @@ http://185.118.50.219/RU-kinosemya/index.m3u8
 http://185.32.44.154/nst/index.m3u8
 #EXTINF:0,НСТ
 http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:-1,НСТ
+http://94.230.240.12:8080/nst/tracks-v1a1/index.m3u8
 #EXTINF:0,Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:0,Киноужас
@@ -395,6 +413,12 @@ http://autopilot.catcast.tv/content/39500/index.m3u8
 https://eurodance.catcast.tv/content/36987/index.m3u8
 #EXTINF:0,ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1,9 ВОЛНА
+http://94.230.240.12:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1,BRIDGE TV
+http://94.230.240.12:8080/bridgetv/tracks-v1a1/index.m3u8
+#EXTINF:-1,BRIDGE TV РУССКИЙ ХИТ
+http://94.230.240.12:8080/rusong/tracks-v1a1/index.m3u8
 #EXTINF:0,М2 Украина
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:0,OneBY RUS HD
@@ -483,6 +507,8 @@ http://wms.shared.streamshow.it/canale51/canale51/chunklist_w917435365.m3u8
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1923571598.m3u8
 #EXTINF:0,EuroNews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,EURONEWS
+http://94.230.240.12:8080/euronews/tracks-v1a1/index.m3u8
 #EXTINF:0,Россия24
 https://a3569455795-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b600000.m3u8
 #EXTINF:0,Известия ТВ FHD
@@ -493,6 +519,8 @@ http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=
 #EXTINF:0,Москва 24
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,EXTREMESPORT
+http://94.230.240.12:8080/extremesport/tracks-v1a1/index.m3u8
 #EXTINF:0,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,Az tv
