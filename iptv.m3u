@@ -20,7 +20,7 @@ http://uiptv.do.am/1ufc/114816629/playlist.m3u8
 #EXTINF:-1,НТВ
 http://94.230.240.12:8080/ntv/tracks-v1a1/index.m3u8
 #EXTINF:0,НТВ Право
-http://sv2.aurabook.site:3030/channel/65e997a3/index.m3u8?q=eyJ1c2VySWQiOiJEZW5pc29mdDEifQ.5H9A9Eb5PmHMRwsHZ76D5yUrvB1SAkXJA95Vv53nPLvjDubt-C4c-KkUP0k6mAgXhWh6UETp6yLFJ4vlXgszKw
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/735/stream.m3u8
 #EXTINF:0,Рен ТВ
 http://185.32.44.154/rentv/index.m3u8
 #EXTINF:0,Рен ТВ
@@ -60,8 +60,6 @@ http://185.118.50.219/RU-che/index.m3u8
 #EXTINF:0,Че
 http://185.32.44.154/ce/index.m3u8
 #EXTINF:0,Че
-http://dmitry-tv.my1.ru/his/01/CH_CHE.m3u8
-#EXTINF:0,Че
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
 #EXTINF:0,Пятница!
 http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
@@ -72,8 +70,7 @@ https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1
 #EXTINF:-1,ПЯТНИЦА
 http://94.230.240.12:8080/friday/tracks-v1a1/index.m3u8
 #EXTINF:0,Cуббота!
-https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8#EXTINF:0,Калейдоскоп ТВ
-http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1,стс love
 http://185.118.50.219/RU-stslove/index.m3u8
 #EXTINF:0,k16
@@ -100,10 +97,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:0,Animal Planet HD
 http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
-#EXTINF:0,Animal Planet HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/266715
-#EXTINF:0,В мире животных 
-http://82.151.200.63:8000/play/a04d
+#EXTINF:0,LoveNature 4K
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/942/stream.m3u8
 #EXTINF:0,Зоо Тв
 http://81.163.39.156:8384/udp/233.166.172.111:1234
 #EXTINF:0,Zoopark
@@ -116,12 +111,12 @@ http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:0,домашние животные
 http://185.118.50.219/RU-domashniejivotnie/index.m3u8
-#EXTINF:0,Дикая охота
-http://188.43.8.141/play/a00b/index.m3u8
 #EXTINF:0,Дикий
-http://188.43.8.141/play/a00d/index.m3u8
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/717/stream.m3u8
+#EXTINF:0,Дикая охота
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/115/stream.m3u8
 #EXTINF:0,Дикая рыбалка
-http://188.43.8.141/play/a00c/index.m3u8
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/116/stream.m3u8
 #EXTINF:-1 ,Yaban Tv
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,Рыболов
@@ -129,7 +124,7 @@ http://81.163.39.156:8384/udp/233.166.172.127:1234
 #EXTINF:0,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:0,ОХОТНИК И РЫБОЛОВ
-http://82.151.200.63:8000/play/a03j
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/625/stream.m3u8
 #EXTINF:0,Outdoor
 http://persik.by/stream/6696/480248/10246.m3u8
 #EXTINF:-1,OUTDOOR CHANNEL
@@ -156,24 +151,26 @@ https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 http://188.43.8.141/play/a03i/index.m3u8
 #EXTINF:0,BamBarBia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
-#EXTINF:0,Глазами туриста HD
-http://82.151.200.63:8000/play/a00b
 #EXTINF:0,Приключения
 http://80.89.196.34:8085/travel/index.m3u8
 #EXTINF:0,Телепутешествия
 http://81.163.39.156:8384/udp/233.166.172.123:1234
 #EXTINF:0,Travel Channel 
-
 http://persik.by/stream/6696/480248/880.m3u8
 
+#EXTINF:0,Travel Channel HD 
+
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/109/stream.m3u8
 #EXTINF:0,Travel adventure
-http://82.151.200.63:8000/play/a056
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/657/stream.m3u8
 #EXTINF:0,Ugra Travel
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
 #EXTINF:0,Терра Инкогнита
 https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:0,Terra Incognita HD
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:0,Terra Incognita HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/1098/stream.m3u8
 #EXTINF:0,RTG
 http://185.32.44.154/rtg/index.m3u8
 #EXTINF:0,Большая Азия
@@ -263,7 +260,7 @@ http://185.32.44.154/indiskoekino/index.m3u8
 #EXTINF:0,Индийское кино
 http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:0,bollywood tv hd
-http://188.43.8.141/play/a03c/index.m3u8
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/683/stream.m3u8
 #EXTINF:0,ZEE
 http://81.163.39.156:8384/udp/233.166.172.163:1234
 #EXTINF:0,Русская комедия
@@ -343,6 +340,10 @@ http://81.163.39.156:8384/udp/233.166.172.236:1234#EXTINF:0,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:0,Киноужас
 http://109.197.192.121:8080/kinouzhas/index.m3u8
+#EXTINF:0,Киноужас HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/286/stream.m3u8
+#EXTINF:0,Шокирующее HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/170/stream.m3u8
 #EXTINF:0,Мужское кино
 http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
 #EXTINF:0,amedia1
@@ -395,6 +396,8 @@ http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
 http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:0,KRAL POP TV
 http://0ajuu84p.rocketcdn.com/kralpop_240/chunklist.m3u8
+#EXTINF:0,KRAL POP HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/459/stream.m3u8
 #EXTINF:0,1hdru
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0,1hdru
@@ -527,6 +530,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://185.118.50.219/AZ-aztv/index.m3u8
 #EXTINF:0,ictimai tv
 http://185.118.50.219/AZ-ictimai/index.m3u8
+#EXTINF:0,Baki tv
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/915/stream.m3u8
 #EXTINF:0,Azad Tv
 http://185.32.44.154/azadazerbaycan/index.m3u8
 #EXTINF:0,ATV-2
@@ -627,3 +632,6 @@ http://194.54.183.85:8000/play/a03m/tracks-v1a1/index.m3u8
 http://194.54.183.85:8000/play/a03n/tracks-v1a1/index.m3u8
 #EXTINF:0,Vivid Red HD
 http://82.151.200.63:8000/play/a06q
+
+
+
