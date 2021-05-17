@@ -174,7 +174,7 @@ http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/1098/str
 #EXTINF:0,RTG
 http://185.32.44.154/rtg/index.m3u8
 #EXTINF:0,Большая Азия
-http://82.151.200.63:8000/play/a009
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/349/stream.m3u8
 #EXTINF:0,Большая Азия
 http://94.230.240.17:8080/bigasia/index.m3u8
 #EXTINF:0,HD Life
@@ -257,14 +257,10 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
 #EXTINF:0,Индийское кино
 http://185.32.44.154/indiskoekino/index.m3u8
-#EXTINF:0,Индийское кино
-http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:0,bollywood tv hd
 http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/683/stream.m3u8
 #EXTINF:0,ZEE
 http://81.163.39.156:8384/udp/233.166.172.163:1234
-#EXTINF:0,Русская комедия
-http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 #EXTINF:0,Русский Роман
 http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
 #EXTINF:0,русский роман HD
@@ -274,39 +270,25 @@ http://94.230.240.12:8080/rusroman/tracks-v1a1/index.m3u8
 #EXTINF:0,Русский Детектив
 http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 #EXTINF:0,русский бестселлер
-http://194.156.166.2:8000/play/a01d
-#EXTINF:0,русский бестселлер
 http://185.118.50.219/RU-russkiybestseller/index.m3u8
 #EXTINF:0,русский иллюзион
 http://185.118.50.219/RU-russkiyilluzion/index.m3u8
 #EXTINF:0,Наше Новое Кино
 http://185.32.44.154/nashenovoekino/index.m3u8
-#EXTINF:0,Наш Кинопоказ HD
-http://5lkzqwce.rostelekom.xyz/iptv/TAEKE7AUNRYC5Y/2434/index.m3u
-#EXTINF:0,русский экстрим
-http://185.118.50.219/RU-russkiyekstrim/index.m3u8
 #EXTINF:0,CTC
 http://185.32.44.154/ctc/index.m3u8
-#EXTINF:0,CTC Love
-http://ott-cdn.ucom.am/s38/04.m3u8
 #EXTINF:0,домашний
 http://185.118.50.219/RU-domashniy/index.m3u8
 #EXTINF:0,Домашний
 http://185.32.44.154/domashniy/index.m3u8
-#EXTINF:0,Домашний
-http://uiptv.do.am/1ufc/104487210/playlist.m3u8
 #EXTINF:0,ТВ3
 http://185.32.44.154/tv3/index.m3u8
-#EXTINF:0,Film Box (RU)
-http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/1071/index.m3u8
 #EXTINF:0,Дом кино
 http://185.32.44.154/domkino/index.m3u8
 #EXTINF:0,Еврокино
 http://185.32.44.154/eurokino/index.m3u8
 #EXTINF:-1,ЕВРОКИНО
 http://94.230.240.12:8080/eurokino/tracks-v1a1/index.m3u8
-#EXTINF:0,Дом Кино
-http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 #EXTINF:0,Еврокино
 http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:0,Иллюзион
@@ -334,12 +316,9 @@ http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
 #EXTINF:-1,НСТ
 http://94.230.240.12:8080/nst/tracks-v1a1/index.m3u8
 #EXTINF:0,Киноужас
-http://109.197.192.121:8080/kinouzhas/index.m3u8
-#EXTINF:0,Киноужас
-http://81.163.39.156:8384/udp/233.166.172.236:1234#EXTINF:0,Ужастик
+http://81.163.39.156:8384/udp/233.166.172.236:1234
+#EXTINF:0,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:0,Киноужас
-http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:0,Киноужас HD
 http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/286/stream.m3u8
 #EXTINF:0,Шокирующее HD
