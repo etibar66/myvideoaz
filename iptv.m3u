@@ -52,7 +52,7 @@ http://94.19.83.135:81/udp/239.239.3.67:5239
 #EXTINF:0,Петербург 5 Канал
 http://188.43.8.141/play/a023/index.m3u8
 #EXTINF:0,Мир
-http://sc.id-tv.kz/Mir_38_39.m3u8
+http://persik.by/stream/6696/480248/176.m3u8
 #EXTINF:0,МИР Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:0,Че
@@ -85,8 +85,6 @@ http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:0,Сарафан
 http://81.163.39.156:8384/udp/233.166.172.118:1234
-#EXTINF:0,Анекдот
-http://jn1v7a82.megatv.fun/iptv/F69P2WNX96CTN5/5034/index.m3u8
 #EXTINF:0,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
@@ -107,6 +105,8 @@ http://185.32.44.154/zoopark/index.m3u8
 http://185.32.44.154/viasatnature/index.m3u8
 #EXTINF:0,Viasat Nature
 http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
+Viasat Nature CEE
+http://persik.by/stream/6696/480248/10279.m3u8
 #EXTINF:0,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:0,домашние животные
@@ -155,9 +155,8 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 http://80.89.196.34:8085/travel/index.m3u8
 #EXTINF:0,Телепутешествия
 http://81.163.39.156:8384/udp/233.166.172.123:1234
-#EXTINF:0,Travel Channel 
+#EXTINF:0,Travel Channel HD
 http://persik.by/stream/6696/480248/880.m3u8
-
 #EXTINF:0,Travel Channel HD 
 
 http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/109/stream.m3u8
@@ -171,6 +170,10 @@ https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
 http://0s.on2he3i.pfqw4zdfpaxhe5i.cmle.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:0,Terra Incognita HD
 http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/1098/stream.m3u8
+#EXTINF:0,Travel Blog HD
+http://persik.by/stream/6696/480248/10706.m3u8
+#EXTINF:0,Travel Light HD
+http://persik.by/stream/6696/480248/10705.m3u8
 #EXTINF:0,RTG
 http://185.32.44.154/rtg/index.m3u8
 #EXTINF:0,Большая Азия
