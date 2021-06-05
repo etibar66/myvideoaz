@@ -174,8 +174,8 @@ http://persik.by/stream/6696/480248/880.m3u8
 #EXTINF:0,Travel Channel HD 
 
 http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/109/stream.m3u8
-#EXTINF:0,Travel Channel HD
-http://persik.by/stream/6696/480248/880.m3u8
+#EXTINF:0,Travel Channel 
+http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
 #EXTINF:0,Travel+Adventure HD
 http://hlstv.brn.211.ru/239.211.200.7/stream.m3u8
 #EXTINF:0,Travel adventure
