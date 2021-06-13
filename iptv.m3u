@@ -542,26 +542,32 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,EXTREMESPORT
 http://94.230.240.12:8080/extremesport/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
-#EXTINF:-1 ,Матч!
-http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
-#EXTINF:-1 ,FightBox
-http://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
-#EXTINF:-1 ,EUROSPORT 1
-http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
-#EXTINF:-1 ,Viasat Sport
-http://mfe.cliptv.az/dash/Viasat_Sport_SD.ism/playlist.mpd
 #EXTINF:-1 ,Матч! Арена
-http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
-#EXTINF:-1 ,Матч! Игра
-http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd
+http://185.32.44.154/matcharena/index.m3u8
+#EXTINF:-1 ,Матч Премьер
+http://185.32.44.154/nashfutbol/index.m3u8
+#EXTINF:-1 ,Матч! Наш спорт
+http://185.32.44.154/nashsport/index.m3u8
+#EXTINF:-1 ,Наш Футбол
+http://185.32.44.154/nashfutbol/index.m3u8
+#EXTINF:-1 ,Футбол
+http://185.32.44.154/futbol/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
-http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
+http://185.32.44.154/futbol1/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 2
-http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
+http://185.32.44.154/futbol2/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
-http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
+http://185.32.44.154/futbol3/index.m3u8
+#EXTINF:-1 ,Матч! Боец
+http://185.32.44.154/boets/index.m3u8
+#EXTINF:-1 ,Бокс ТВ
+http://185.32.44.154/bokstv/index.m3u8
+#EXTINF:-1 ,Fightbox
+http://188.113.190.12/147/video.m3u8
+#EXTINF:-1 ,Viasat Sport
+http://185.32.44.154/viasatsport/index.m3u8
+#EXTINF:-1 ,Viasat Sport Baltics
+http://185.32.44.154/viasatsport/index.m3u8
 #EXTINF:-1 ,Наш Футбол
 http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
 #EXTINF:-1 ,МАТЧ! НАШ СПОРТ
