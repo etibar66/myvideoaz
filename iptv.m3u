@@ -95,16 +95,12 @@ http://81.163.39.156:8384/udp/233.166.172.118:1234
 http://hlstv.brn.211.ru/239.211.211.97/stream.m3u8
 #EXTINF:0,Nat Geo Wild
 http://185.32.44.154/natgeowild/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-http://hotiptv.site:8080/zkby2013/1d469e6d9e42/19054
-#EXTINF:0,Nat Geo Wild
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
 #EXTINF:0,Animal Planet
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:0,Animal Planet HD
 http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
-#EXTINF:0,LoveNature 4K
-http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/942/stream.m3u8
+#EXTINF:0,В мире животных HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/97/stream.m3u8
 #EXTINF:0,Зоо Тв
 http://81.163.39.156:8384/udp/233.166.172.111:1234
 #EXTINF:0,Zoopark
@@ -113,8 +109,6 @@ http://185.32.44.154/zoopark/index.m3u8
 http://185.32.44.154/viasatnature/index.m3u8
 #EXTINF:0,Viasat Nature
 http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
-Viasat Nature CEE
-http://persik.by/stream/6696/480248/10279.m3u8
 #EXTINF:0,Живая Планета
 http://185.32.44.154/jivayaplaneta/index.m3u8
 #EXTINF:0,домашние животные
@@ -155,16 +149,16 @@ http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
 http://94.230.240.12:8080/hdmedia/tracks-v1a1/index.m3u8
 #EXTINF:0,моя планета
 http://185.32.44.154/moyaplaneta/index.m3u8
-#EXTINF:-1,MOYA PLANETA 
-http://94.230.240.12:8080/myplanet/tracks-v1a1/index.m3u8
 #EXTINF:0,моя планета
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:0,моя планета
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Моя Планета HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/1421/stream.m3u8
 #EXTINF:0,Неизвестная планета
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
 #EXTINF:0,Docubox
-http://188.43.8.141/play/a03i/index.m3u8
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/90/stream.m3u8
 #EXTINF:0,BamBarBia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:0,Приключения HD
@@ -548,6 +542,30 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,EXTREMESPORT
 http://94.230.240.12:8080/extremesport/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1 ,Матч!
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
+#EXTINF:-1 ,FightBox
+http://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
+#EXTINF:-1 ,EUROSPORT 1
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
+#EXTINF:-1 ,Viasat Sport
+http://mfe.cliptv.az/dash/Viasat_Sport_SD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Игра
+http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Футбол 1
+http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Футбол 2
+http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
+#EXTINF:-1 ,Матч! Футбол 3
+http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
+#EXTINF:-1 ,Наш Футбол
+http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
+#EXTINF:-1 ,МАТЧ! НАШ СПОРТ
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
 #EXTINF:0,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,Az tv
