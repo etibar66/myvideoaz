@@ -47,8 +47,8 @@ http://185.32.44.154/tvc/index.m3u8
 http://dprtv.phoenix-dnr.ru/first-republic-tv
 #EXTINF:0,Звезда
 http://185.32.44.154/zvezda/index.m3u8
-#EXTINF:0,Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:0,Звезда HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/444/stream.m3u8
 #EXTINF:-1,СТС
 http://94.230.240.12:8080/sts/tracks-v1a1/index.m3u8
 #EXTINF:0,Санкт Петербург
@@ -68,15 +68,9 @@ http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
 #EXTINF:0,Пятница!
 http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
 #EXTINF:0,Пятница!
-http://hlstv.brn.211.ru/239.211.2.16/stream.m3u8
-#EXTINF:0,Пятница!
-http://uiptv.do.am/1ufc/103815382/playlist.m3u8
-#EXTINF:0,Пятница!
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:-1,ПЯТНИЦА
-http://94.230.240.12:8080/friday/tracks-v1a1/index.m3u8
-#EXTINF:0,Пятница!HD
-http://sv2.aurabook.site:3030/channel/nd5b57cf/index.m3u8?q=19fb39d982b21a9e84a0e7e62a3eb68c
+#EXTINF:0,Пятница! HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/923/stream.m3u8
 #EXTINF:0,Cуббота!
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1,стс love
@@ -121,10 +115,10 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u
 http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/717/stream.m3u8
 #EXTINF:0,Дикий
 http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
-#EXTINF:0,Дикая охота
+#EXTINF:0,Дикая охота HD
 http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/115/stream.m3u8
-#EXTINF:0,Дикая рыбалка
-http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/116/stream.m3u88
+#EXTINF:0,Дикая рыбалка HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/116/stream.m3u8
 #EXTINF:-1,Рыболов
 http://81.163.39.156:8384/udp/233.166.172.127:1234
 #EXTINF:-1,Рыболка
@@ -133,6 +127,8 @@ http://iptv.prosto.tv:7000/ch88/video.m3u8
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:0,ОХОТНИК И РЫБОЛОВ
 http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/625/stream.m3u8
+#EXTINF:0,Диалоги о рыбалке HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/447/stream.m3u8
 #EXTINF:0,Outdoor
 http://persik.by/stream/6696/480248/10246.m3u8
 #EXTINF:-1,OUTDOOR CHANNEL
@@ -344,14 +340,22 @@ http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
 http://94.230.240.12:8080/nst/tracks-v1a1/index.m3u8
 #EXTINF:0,Киноужас
 http://81.163.39.156:8384/udp/233.166.172.236:1234
+#EXTINF:0,НСТ
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/156/stream.m3u8
 #EXTINF:0,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:0,Киноужас HD
 http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/286/stream.m3u8
 #EXTINF:0,Киноужас HD
 http://hlstv.brn.211.ru/239.211.200.43/stream.m3u8
+#EXTINF:0,Киноужас HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/286/stream.m3u8
 #EXTINF:0,Шокирующее HD
 http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/170/stream.m3u8
+#EXTINF:0,Шокирующее HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/170/stream.m3u8
+#EXTINF:0,Классика кино HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/373/stream.m3u8
 #EXTINF:0,Cinema
 http://hlstv.brn.211.ru/239.211.211.106/stream.m3u8
 #EXTINF:0,Мужское кино
@@ -538,6 +542,8 @@ http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=
 #EXTINF:0,Москва 24
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Известия HD
+http://streamer.enchart.one/42/4f6cfb38f1affabbab99364e64b59ab0e52270ed/283/stream.m3u8
 #EXTINF:-1,EXTREMESPORT
 http://94.230.240.12:8080/extremesport/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Матч! Арена
