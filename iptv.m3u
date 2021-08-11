@@ -15,24 +15,31 @@ http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/737/stre
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/735/stream.m3u8
 #EXTINF:0,Рен ТВ
 http://185.32.44.154/rentv/index.m3u8
-#EXTINF:0,Рен ТВ
+EXTINF:0,Рен ТВ
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/11/stream.m3u8
 #EXTINF:0,ТНТ
 http://185.32.44.154/tnt/index.m3u8
 #EXTINF:0,ТНТ
-http://uiptv.do.am/1ufc/106596187/playlist.m3u8
+http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/649/stream.m3u8
+#EXTINF:0,ТНТ HD
+http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/19/stream.m3u8
 #EXTINF:0,Ю
 http://185.97.150.19:8082/465
+#EXTINF:0,СТС International
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:0,СТС
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:0,ТВЦ
 http://185.32.44.154/tvc/index.m3u8
-#EXTINF:0,1-й Республиканский
-http://dprtv.phoenix-dnr.ru/first-republic-tv
+#EXTINF:0,1 Республиканский
+http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/355/stream.m3u8
 #EXTINF:0,Звезда
 http://185.32.44.154/zvezda/index.m3u8
-#EXTINF:0,СТС
-http://94.230.240.12:8080/sts/tracks-v1a1/index.m3u8
-#EXTINF:0,Санкт Петербург
-http://94.19.83.135:81/udp/239.239.3.67:5239
+#EXTINF:0,Звезда HD
+http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/444/stream.m3u8
+#EXTINF:0,Санкт-Петербург
+http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/480/stream.m3u8
 #EXTINF:0,Петербург 5 Канал
 http://188.43.8.141/play/a023/index.m3u8
 #EXTINF:0,Мир
@@ -82,7 +89,7 @@ http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:0,Animal Planet HD
 http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
 #EXTINF:0,Зоо Тв
-http://81.163.39.156:8384/udp/233.166.172.111:1234
+http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:0,Zoopark
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:0,Viasat Nature
@@ -139,10 +146,12 @@ http://94.155.204.102:4000/play/a05v
 http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
 #EXTINF:0,Travel Channel 
 http://185.97.150.19:8082/88
+#EXTINF:0,Travel Channel HD
+http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/109/stream.m3u8
 #EXTINF:0,Travel+Adventure HD
 http://188.113.190.12/106/video.m3u8
-#EXTINF:0,Ugra Travel
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
+#EXTINF:0,Travel + adventure
+http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/657/stream.m3u8
 #EXTINF:0,Терра Инкогнита
 https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:0,Terra Incognita HD
@@ -153,12 +162,8 @@ http://185.32.44.154/rtg/index.m3u8
 http://persik.by/stream/6696/480248/10757.m3u8
 #EXTINF:0,Большая Азия HD
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/349/stream.m3u8
-#EXTINF:0,HDL HD
-http://hlstv.brn.211.ru/239.211.200.6/stream.m3u8
 #EXTINF:0,HD Life
 http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
-#EXTINF:0,HD Life
-http://81.163.39.156:8384/udp/233.166.172.1:1234
 #EXTINF:0,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:0,DocuBox HD
@@ -181,12 +186,8 @@ http://185.97.150.19:8082/33
 http://185.118.50.219/RU-dtx/index.m3u8
 #EXTINF:0,dtx
 http://185.97.150.19:8082/34
-#EXTINF:0,Fine Living
-http://188.43.8.141/play/a025/index.m3u8
 #EXTINF:0,Galaxy
 http://185.32.44.154/galaxytv/index.m3u8
-#EXTINF:0,Kosmos
-http://persik.by/stream/6696/480248/10509.m3u8
 #EXTINF:0,RT Д Русский
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:0,HGTV HD
@@ -211,8 +212,6 @@ http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
 http://live-1.otcnet.ru/podvodoi/index.m3u8
 #EXTINF:0,Da Vinci Learning
 http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
-#EXTINF:0,davinci learning
-http://185.118.50.219/RU-davincilearning/index.m3u8
 #EXTINF:0,davinci learning
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:0,History
