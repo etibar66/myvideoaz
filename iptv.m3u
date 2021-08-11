@@ -15,7 +15,7 @@ http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/737/stre
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/735/stream.m3u8
 #EXTINF:0,Рен ТВ
 http://185.32.44.154/rentv/index.m3u8
-EXTINF:0,Рен ТВ
+#EXTINF:0,Рен ТВ
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/11/stream.m3u8
 #EXTINF:0,ТНТ
 http://185.32.44.154/tnt/index.m3u8
