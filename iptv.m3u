@@ -87,6 +87,10 @@ http://185.32.44.154/natgeowild/index.m3u8
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:0,Animal Planet HD
 http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
+#EXTINF:0,Animal Planet
+http://185.97.150.19:8082/35
+#EXTINF:0,В мире животных
+http://185.97.150.19:8082/889
 #EXTINF:0,Зоо Тв
 http://81.163.39.156:8384/udp/233.166.172.111:1234
 #EXTINF:0,Zoopark
@@ -114,9 +118,7 @@ http://iptv.prosto.tv:7000/ch88/video.m3u8
 #EXTINF:0,Охота и рыбалка
 http://185.32.44.154/oxotoiribalka/index.m3u8
 #EXTINF:0,Outdoor
-http://persik.by/stream/6696/480248/10246.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL
-http://94.230.240.12:8080/outdoor/tracks-v1a1/index.m3u8
+http://188.113.190.12/170/video.m3u8
 #EXTINF:-1,Трофей HD
 http://iptv.prosto.tv:7000/ch89/video.m3u8
 #EXTINF:0,Id Xtra
@@ -173,6 +175,8 @@ http://81.163.39.156:8384/udp/233.166.172.1:1234
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:0,National Geographic
 http://185.32.44.154/nationalgeographic/index.m3u8
+#EXTINF:0,National Geographic HD
+http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
 #EXTINF:0,Discovery Channel
 http://185.32.44.154/discoverychannel/index.m3u8
 #EXTINF:0,Discovery Channel HD
