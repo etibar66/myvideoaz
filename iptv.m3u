@@ -105,6 +105,8 @@ http://185.97.150.19:8082/889
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/97/stream.m3u8
 #EXTINF:0,Зоо Тв
 http://81.163.39.156:8384/udp/233.166.172.111:1234
+#EXTINF:0,Nature 4k
+http://sv2.aurabook.site:3030/channel/6ee7ed6e/index.m3u8?q=645ae5d1629ba967619f9e6174e00031
 #EXTINF:0,Zoopark
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:0,Viasat Nature
