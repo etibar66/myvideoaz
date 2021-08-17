@@ -251,6 +251,8 @@ http://185.32.44.154/viasatexplorer/index.m3u8
 http://185.32.44.154/bobertv/index.m3u8
 #EXTINF:0,OCEAN TV
 http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
+#EXTINF:0,OCEAN TV
+http://188.113.190.12/52/video.m3u8
 #EXTINF:0,Дайвинг ТВ HD
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/830/stream.m3u8
 #EXTINF:0,Da Vinci Learning
@@ -263,6 +265,8 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 http://185.32.44.154/history/index.m3u8
 #EXTINF:0,История
 http://185.32.44.154/istoriya/index.m3u8
+#EXTINF:0,Extrim
+http://188.113.190.12/39/video.m3u8
 #EXTINF:0,наука 2.0
 http://185.118.50.219/RU-nauka20/index.m3u8
 #EXTINF:0,Техно 24
@@ -280,15 +284,11 @@ http://185.32.44.154/indiskoekino/index.m3u8
 #EXTINF:0,ZEE
 http://194.213.23.7:3304
 #EXTINF:0,ZEE
-http://81.163.39.156:8384/udp/233.166.172.163:1234
-#EXTINF:0,Наше Крутое HD
-http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/129/stream.m3u8
+http://188.113.190.12/51/video.m3u8
 #EXTINF:0,Русский Роман
 http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
 #EXTINF:0,русский роман HD
 http://185.118.50.219/RU-russkiyroman/index.m3u8
-#EXTINF:-1,РУССКИЙ РОМАН
-http://94.230.240.12:8080/rusroman/tracks-v1a1/index.m3u8
 #EXTINF:0,Русский Детектив
 http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 #EXTINF:0,русский бестселлер
@@ -315,19 +315,23 @@ http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/1086/str
 http://185.32.44.154/domkino/index.m3u8
 #EXTINF:0,Еврокино
 http://185.32.44.154/eurokino/index.m3u8
+#EXTINF:0,Еврокино
+http://188.113.190.12/49/video.m3u8
 #EXTINF:-1,ЕВРОКИНО
 http://94.230.240.12:8080/eurokino/tracks-v1a1/index.m3u8
-#EXTINF:0,Еврокино
-http://185.32.44.154/travelchannel/index.m3u8
 #EXTINF:0,Иллюзион
 http://185.32.44.154/illuzion/index.m3u8
+#EXTINF:0,Иллюзион
+http://188.113.190.12/45/video.m3u8
+#EXTINF:0,Наше любимое кино
+http://188.113.190.12/53/video.m3u8
 #EXTINF:0,Кино ТВ
 http://185.32.44.154/kinotv/index.m3u8
 #EXTINF:0,TVXXI
 http://185.32.44.154/tv21/index.m3u8
-#EXTINF:0, Кинопоказ
-http://185.74.7.220:8080/kinopokaz/mpegts
-#EXTINF:0,kinokomedia
+#EXTINF:0,TVXXI
+http://188.113.190.12/47/video.m3u8
+#EXTINF:0,кинокомедия
 http://185.32.44.154/kinokomedia/index.m3u8
 #EXTINF:0,кинокомедия
 http://185.118.50.219/RU-kinokomediya/index.m3u8
@@ -354,21 +358,16 @@ http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/170/stre
 #EXTINF:0,НСТ
 http://185.32.44.154/nst/index.m3u8
 #EXTINF:0,НСТ
-http://hlstv.brn.211.ru/239.211.211.107/stream.m3u8
-#EXTINF:0,НСТ
 http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
-#EXTINF:-1,НСТ
-http://94.230.240.12:8080/nst/tracks-v1a1/index.m3u8
-#EXTINF:0,Киноужас
-http://81.163.39.156:8384/udp/233.166.172.236:1234
 #EXTINF:0,Ужасы HD
 http://persik.by/stream/3006/413021/10714.m3u8
 #EXTINF:0,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:0,Киноужас HD
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/286/stream.m3u8
-Фильмы ужасов HD
+#EXTINF:0,Фильмы ужасов HD
 http://persik.by/stream/3006/413021/11013.m3u8
+#EXTINF:0,Cinema
 http://185.97.150.19:8082/86
 #EXTINF:0,Мужское кино
 http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
@@ -385,15 +384,9 @@ http://185.32.44.154/amediahit/index.m3u8
 #EXTINF:0,Paramount channel
 http://185.32.44.154/paramountchannel/index.m3u8
 #EXTINF:0,VIP Premiere (HD)
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_6.m3u8
-#EXTINF:0,VIP Premiere (HD)
 http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd
 #EXTINF:0,VIP Megahit (HD)
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_6.m3u8
-#EXTINF:0,VIP Megahit (HD)
 http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd
-#EXTINF:0,VIP Comedy (HD)
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_6.m3u8
 #EXTINF:0,VIP Comedy (HD)
 http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
 #EXTINF:0,Kinomiks
@@ -406,12 +399,6 @@ http://185.32.44.154/tv1000action/index.m3u8
 http://185.97.150.19:8082/22
 #EXTINF:0,TV1000
 http://185.32.44.154/tv1000/index.m3u8
-#EXTINF:0,Остросюжетный
-http://188.35.9.11:2015
-#EXTINF:0,Sony ТВ
-http://lazyserg.iptvbot.biz/iptv/6GDSQPVR5HGB9M/559/index.m3u8
-#EXTINF:0,FILM TV HD
-https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:0,Видеокассета
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0,Persiana Music
