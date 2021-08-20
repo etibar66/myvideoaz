@@ -67,6 +67,8 @@ http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/25/strea
 http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
 #EXTINF:0,Пятница!
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+#EXTINF:0,Пятница!
+http://mhd.iptv2022.com/p/LtZ-9ghn5eWvW_Mxec8sWg,1629538216/streaming/pyatnicaott/324/variable.m3u8
 #EXTINF:0,Пятница! HD
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/923/stream.m3u8
 #EXTINF:0,Cуббота!
@@ -203,10 +205,10 @@ http://185.32.44.154/rtg/index.m3u8
 http://persik.by/stream/6696/480248/10757.m3u8
 #EXTINF:0,Большая Азия
 http://94.230.240.17:8080/bigasia/index.m3u8
+#EXTINF:0,Большая Азия
+http://mhd.iptv2022.com/p/7SvzvgH2zCYB_tBQ9dgJYA,1629538216/streaming/bigasia/324/variable.m3u8
 #EXTINF:0,Большая Азия HD
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/349/stream.m3u8
-#EXTINF:0,HDL HD
-http://hlstv.brn.211.ru/239.211.200.6/stream.m3u8
 #EXTINF:0,HD Life
 http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
 #EXTINF:0,HD Life
@@ -265,7 +267,7 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 http://185.32.44.154/history/index.m3u8
 #EXTINF:0,История
 http://185.32.44.154/istoriya/index.m3u8
-#EXTINF:0,Extrim
+#EXTINF:0,Extreme TV
 http://188.113.190.12/39/video.m3u8
 #EXTINF:0,наука 2.0
 http://185.118.50.219/RU-nauka20/index.m3u8
