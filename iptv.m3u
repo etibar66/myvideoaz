@@ -101,14 +101,10 @@ http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/95/strea
 http://185.32.44.154/animalplanet/index.m3u8
 #EXTINF:0,Animal Planet HD
 http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
-#EXTINF:0,Animal Planet
-http://185.97.150.19:8082/35
 #EXTINF:0,В мире животных HD
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/97/stream.m3u8
 #EXTINF:0,Зоо Тв
 http://81.163.39.156:8384/udp/233.166.172.111:1234
-#EXTINF:0,Nature 4k
-http://sv2.aurabook.site:3030/channel/6ee7ed6e/index.m3u8?q=645ae5d1629ba967619f9e6174e00031
 #EXTINF:0,Zoopark
 http://185.32.44.154/zoopark/index.m3u8
 #EXTINF:0,Viasat Nature
@@ -179,8 +175,6 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/1006/stream.m3u8
 #EXTINF:0,Приключения HD
 http://80.89.196.34:8085/travel/index.m3u8
-#EXTINF:0,Приключения
-http://80.89.196.34:8085/travel/index.m3u8
 #EXTINF:0,Travel Channel 
 http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
 #EXTINF:0,Travel Channel HD
@@ -207,6 +201,8 @@ http://81.163.39.156:8384/udp/233.166.172.1:1234
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:0,National Geographic
 http://185.32.44.154/nationalgeographic/index.m3u8
+#EXTINF:-1 ,National Geographic Channel
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
 #EXTINF:0,National Geographic
 http://188.113.190.12:80/78/tracks-v1a1a2/index.m3u8
 #EXTINF:0,National Geographic HD
