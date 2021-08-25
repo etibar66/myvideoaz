@@ -15,10 +15,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/21/stream.m3u8
 #EXTINF:0,НТВ
 http://185.32.44.154/ntvplus/index.m3u8
-#EXTINF:0,НТВ
-http://uiptv.do.am/1ufc/114816629/playlist.m3u8
-#EXTINF:0,НТВ
-http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/647/stream.m3u8
 #EXTINF:0,НТВ HD
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/4/stream.m3u8
 #EXTINF:0,НТВ Право
@@ -51,6 +47,8 @@ http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/444/stre
 http://94.230.240.12:8080/sts/tracks-v1a1/index.m3u8
 #EXTINF:0,Санкт-Петербург
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/480/stream.m3u8
+#EXTINF:0,TV PRO (Санкт-Петербург)
+http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/1127/stream.m3u8
 #EXTINF:0,Пятый канал
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/5/stream.m3u8
 #EXTINF:0,Мир HD
