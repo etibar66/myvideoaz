@@ -242,9 +242,9 @@ http://185.32.44.154/viasathistory/index.m3u8
 #EXTINF:0,Viasat Explore
 http://185.32.44.154/viasatexplorer/index.m3u8
 #EXTINF:0,OCEAN TV
-http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
+http://mhd.iptv2022.com/p/0AuNynyngPjTH4Xr3WlyfA,1631004572/streaming/oceantv/324/variable.m3u8
 #EXTINF:0,OCEAN TV
-http://188.113.190.12/52/video.m3u8
+http://91.192.168.242:9091
 #EXTINF:0,Дайвинг ТВ HD
 http://streamer.enchart.one/42/b2f49d0dc61350e717525e1ba5c93c42cfa80d8a/830/stream.m3u8
 #EXTINF:0,Da Vinci Learning
